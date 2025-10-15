@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :942: for Floccus bookmark sync browser extension -->
+<!--- highestId :943: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>NHNCloud</title>
@@ -2807,6 +2807,9 @@
 </folder>
 <bookmark href="https://chat.openai.com/chat" id="935">
   <title>New chat</title>
+</bookmark>
+<bookmark href="https://dashboard.ngrok.com/get-started/setup/macos" id="943">
+  <title>Setup - ngrok</title>
 </bookmark>
 <bookmark href="https://www.cram.com/flashcards/cnn-14542316" id="936">
   <title>Investigators arrive at South Korean president’s residence to carry out arrest warrant Foreign Language Flashcards - Cram.com</title>
