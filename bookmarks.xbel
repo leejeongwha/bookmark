@@ -1,0 +1,2832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :942: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>NHNCloud</title>
+  <bookmark href="https://nhnent.dooray.com/project/2048487099273475703" id="13">
+    <title>클라우드플랫폼개발랩 : NHN : Dooray!</title>
+  </bookmark>
+  <bookmark href="https://github.nhnent.com/toast-cloud-deploy" id="14">
+    <title>toast-cloud-deploy</title>
+  </bookmark>
+  <bookmark href="https://github.com/TOAST-DOCS" id="15">
+    <title>TOAST-DOCS</title>
+  </bookmark>
+  <folder id="16">
+    <title>배포플랫폼개발팀</title>
+    <bookmark href="https://nhnent.dooray.com/wiki/u/0/2348295219802256589/2348295221344962440" id="115">
+      <title>배포플랫폼개발팀 | Home : NHN : Dooray!</title>
+    </bookmark>
+    <bookmark href="https://github.nhnent.com//login/oauth/authorize?client_id=6ffa637eff7eb910d970&amp;scope=read:org,user:email,repo&amp;state=mleg64_cEkpOqF9.AujIqqxYbUP" id="116">
+      <title>jenkins</title>
+    </bookmark>
+  </folder>
+  <folder id="17">
+    <title>KMS</title>
+    <bookmark href="https://github.nhnent.com/TOASTCloud/kms" id="117">
+      <title>KMS repo</title>
+    </bookmark>
+    <bookmark href="https://github.nhnent.com/TOASTCloud/kms-syskey" id="118">
+      <title>TOASTCloud/kms-syskey</title>
+    </bookmark>
+    <bookmark href="https://github.com/TOAST-DOCS/kms" id="119">
+      <title>GitHub - TOAST-DOCS/kms</title>
+    </bookmark>
+    <bookmark href="https://docs.toast.com/ko/Security/Secure%20Key%20Manager/ko/overview/" id="120">
+      <title>개요 - NHN Cloud 사용자 가이드</title>
+    </bookmark>
+    <bookmark href="https://alpha-api-keymanager.cloud.toast.com/swagger-ui/index.html" id="121">
+      <title>Swagger UI</title>
+    </bookmark>
+    <bookmark href="https://guide.ncloud-docs.com/beta/docs/kms-info" id="122">
+      <title>Key Management Service 개념</title>
+    </bookmark>
+    <bookmark href="https://nhnent.dooray.com/project/2183844546269048715?contentsType=wiki&amp;pageId=3061720138090199363" id="123">
+      <title>공공클라우드 접근 신청서</title>
+    </bookmark>
+    <bookmark href="http://localhost:8081/user-console/appkey/TOAST_PROJECT_PRODUCT_APP_KEY/keystore/key" id="124">
+      <title>kms 로컬</title>
+    </bookmark>
+    <bookmark href="https://www.lesstif.com/java/java-keytool-keystore-20775436.html" id="125">
+      <title>java keytool 사용법 - Keystore 생성, 키쌍 생성, 인증서 등록 및 관리</title>
+    </bookmark>
+    <bookmark href="https://github.com/ulisesbocchio/jasypt-spring-boot/tree/75dad8da4dd3fd904e7f245f9ac7b584eda9f436/jasypt-spring-boot/src/main/java/com/ulisesbocchio/jasyptspringboot" id="126">
+      <title>jasypt-spring-boot/jasypt-spring-boot/src/main/java/com/ulisesbocchio/jasyptspringboot at 75dad8da4dd3fd904e7f245f9ac7b584eda9f436 · ulisesbocchio/jasypt-spring-boot · GitHub</title>
+    </bookmark>
+    <bookmark href="https://sup2is.tistory.com/53" id="400">
+      <title>[Spring Boot]Spring Boot 에서 외부 library 추가하고 spring-boot-maven-plugin 로 Build 하기 :: 섭이의 개발일지</title>
+    </bookmark>
+    <bookmark href="https://velog.io/@oksk4753/JAVA-C-JNI%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%97%B0%EB%8F%99CentOS7-x8664" id="401">
+      <title>(JAVA / C++) JNI를 이용한 연동(CentOS7 x86_64)</title>
+    </bookmark>
+    <bookmark href="https://jusunglee.tistory.com/entry/linux%EC%97%90%EC%84%9C-%EC%86%8C%EC%8A%A4-%EB%B0%9B%EC%95%84%EC%84%9C-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0" id="402">
+      <title>linux에서 소스 받아서 설치하기 (linux 폴더 구조)</title>
+    </bookmark>
+    <folder id="403">
+      <title>Porthos</title>
+      <bookmark href="https://github.nhnent.com/srep/skm_deploy" id="476">
+        <title>srep/skm_deploy: NHN Cloud Secure Key Manager Deploy Helm Chart</title>
+      </bookmark>
+      <bookmark href="https://grafana-srep.toastoven.net/d/skmdashboard/secure-key-manager-dashboard?orgId=16" id="477">
+        <title>grafana-srep.toastoven.net/d/skmdashboard/secure-key-manager-dashboard?orgId=16</title>
+      </bookmark>
+      <bookmark href="https://harbor-srep.toastoven.net/account/sign-in?redirect_url=%2Fharbor%2Fprojects%2F38%2Fsummary" id="478">
+        <title>Harbor</title>
+      </bookmark>
+      <bookmark href="https://argocd-srep.toastoven.net/applications?showFavorites=false&amp;proj=&amp;sync=&amp;autoSync=&amp;health=&amp;namespace=&amp;cluster=&amp;labels=" id="479">
+        <title>Applications Tiles - Argo CD</title>
+      </bookmark>
+      <bookmark href="https://jenkins-srep.toastoven.net/job/sre_team/job/secure-key-manager/" id="480">
+        <title>All [sre_team » secure-key-manager] [Jenkins]</title>
+      </bookmark>
+      <folder id="481">
+        <title>NGSC(대구)</title>
+        <bookmark href="https://keycloak-kr4-srep.toastoven.net/realms/SREP/protocol/openid-connect/auth?client_id=jenkins&amp;redirect_uri=https://jenkins-kr4-srep.toastoven.net/securityRealm/finishLogin&amp;response_type=code&amp;scope=web-origins%20address%20phone%20openid%20profile%20offline_access%20roles%20microprofile-jwt%20email&amp;state=NTJkNDYwNTYtMmNmYS00" id="576">
+          <title>Sign in to SREP</title>
+        </bookmark>
+        <bookmark href="https://grafana-kr4-srep.toastoven.net/login" id="577">
+          <title>Grafana</title>
+        </bookmark>
+        <bookmark href="https://jenkins-kr4-srep.toastoven.net/" id="578">
+          <title>Dashboard [Jenkins]</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://nhnent.dooray.com/wiki/3149857137914263919/3149857143111990518" id="482">
+        <title>SecureKeyManager-개발 | Home : NHN : Dooray!</title>
+      </bookmark>
+    </folder>
+    <folder id="404">
+      <title>JWT</title>
+      <bookmark href="https://blog.naver.com/ithink3366/221371733904" id="483">
+        <title>[JWT] JWT Token 암호화 : 네이버 블로그</title>
+      </bookmark>
+      <bookmark href="https://brunch.co.kr/@jinyoungchoi95/1" id="484">
+        <title>JWT(Json Web Token) 알아가기</title>
+      </bookmark>
+    </folder>
+    <folder id="405">
+      <title>socketServer</title>
+      <bookmark href="https://neokido.tistory.com/entry/JAVA-SSL-Tutorial-server-and-client-examples" id="485">
+        <title>JAVA + SSL Tutorial (server and client examples)</title>
+      </bookmark>
+      <bookmark href="https://blog.naver.com/PostView.naver?blogId=bb_&amp;logNo=222995623159&amp;categoryNo=67&amp;parentCategoryNo=0&amp;viewDate=&amp;currentPage=1&amp;postListTopCurrentPage=1&amp;from=postView" id="486">
+        <title>[JAVA] 자바 SSL소켓통신 예제 (Java SSLServerSocket Example) : 네이버 블로그</title>
+      </bookmark>
+      <bookmark href="https://netty.io/wiki/user-guide-for-4.x.html" id="487">
+        <title>Netty.docs: User guide for 4.x</title>
+      </bookmark>
+      <bookmark href="https://programmer.help/blogs/spring-boot-build-tcp-server.html" id="488">
+        <title>Spring Boot Build TCP Server</title>
+      </bookmark>
+      <bookmark href="https://www.manty.co.kr/bbs/detail/develop?id=69" id="489">
+        <title>Spring Boot 와 Netty 의 아슬아슬한 동거</title>
+      </bookmark>
+      <bookmark href="https://i-hope9.github.io/2020/12/08/SpringBoot-Netty-1-Background.html" id="490">
+        <title>Spring Boot + Netty TCP 소켓 서버 (1) 프레임워크 선택 배경 - i-hope devlog</title>
+      </bookmark>
+      <bookmark href="https://i-hope9.github.io/2020/12/14/SpringBoot-Netty-2-SocketServer.html" id="491">
+        <title>Spring Boot + Netty TCP 소켓 서버 (2) 기본 에코 서버 구현 - i-hope devlog</title>
+      </bookmark>
+      <bookmark href="https://i-hope9.github.io/2021/01/25/SpringBoot-Netty-3-SslSocketServer.html" id="492">
+        <title>Spring Boot + Netty TCP 소켓 서버 (3) SSL 적용한 에코 서버 구현 - i-hope devlog</title>
+      </bookmark>
+      <bookmark href="https://gogo-jjm.tistory.com/57" id="493">
+        <title>[ TCP ] TCP Server 만들기</title>
+      </bookmark>
+      <bookmark href="https://developer0513.tistory.com/245" id="494">
+        <title>spring integration tcp 정리</title>
+      </bookmark>
+      <bookmark href="https://copyprogramming.com/howto/how-to-create-a-working-tcp-server-socket-in-spring-boot-and-how-to-handle-the-incoming-message" id="601">
+        <title>Java: Managing Incoming Messages: A Guide to Creating a Functional TCP Server Socket Using Spring Boot</title>
+      </bookmark>
+    </folder>
+    <folder id="406">
+      <title>kmip</title>
+      <bookmark href="https://docs.oasis-open.org/kmip/kmip-addtl-msg-enc/v1.0/os/kmip-addtl-msg-enc-v1.0-os.html" id="495">
+        <title>KMIP Additional Message Encodings Version 1.0</title>
+      </bookmark>
+      <bookmark href="https://docs.oasis-open.org/kmip/kmip-spec/v2.0/os/kmip-spec-v2.0-os.html#_Toc6497444" id="496">
+        <title>Key Management Interoperability Protocol Specification Version 2.0</title>
+      </bookmark>
+      <bookmark href="https://docs.oasis-open.org/kmip/kmip-ug/v2.1/kmip-ug-v2.1.html" id="497">
+        <title>Key Management Interoperability Protocol Usage Guide Version 2.1</title>
+      </bookmark>
+      <bookmark href="https://docs.oasis-open.org/kmip/kmip-testcases/v2.1/kmip-testcases-v2.1.html" id="498">
+        <title>Key Management Interoperability Protocol Test Cases Version 2.1</title>
+      </bookmark>
+      <bookmark href="https://github.com/VedikaGhai/KMIP-2.0-Implementation/tree/master/src" id="499">
+        <title>KMIP-2.0-Implementation/src at master · VedikaGhai/KMIP-2.0-Implementation · GitHub</title>
+      </bookmark>
+      <bookmark href="https://indienote.tistory.com/674" id="500">
+        <title>KMIP4J - Open source implementation of Key Management Interoperability Protocol</title>
+      </bookmark>
+      <bookmark href="https://sourceforge.net/p/kmip4j/code/HEAD/tree/trunk/examples/client/KMIPClient/config/StubConfig.xml" id="501">
+        <title>KMIP4J / Code / [r7] /trunk/examples/client/KMIPClient/config/StubConfig.xml</title>
+      </bookmark>
+      <bookmark href="https://www.cryptsoft.com/index.html#kmipj" id="502">
+        <title>Cryptsoft</title>
+      </bookmark>
+      <bookmark href="https://www.cryptsoft.com/index.html#kmipj_server" id="503">
+        <title>Cryptsoft</title>
+      </bookmark>
+      <bookmark href="https://www.google.com/search?q=spring+xml+response&amp;oq=spring+xml+response&amp;gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBggCEAAYHjIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBge0gEINDc2NGowajeoAgCwAgA&amp;sourceid=chrome&amp;ie=UTF-8#ip=1" id="504">
+        <title>spring xml response - Google 검색</title>
+      </bookmark>
+      <bookmark href="https://docs.netapp.com/us-en/ontap/s3-config/create-install-ca-certificate-svm-task.html" id="602">
+        <title>Create and install a CA certificate on the SVM</title>
+      </bookmark>
+      <bookmark href="https://kb.netapp.com/Special:Search?query=kmip&amp;type=wiki" id="603">
+        <title>Search - NetApp Knowledge Base</title>
+      </bookmark>
+      <bookmark href="https://docs.netapp.com/us-en/ontap/encryption-at-rest/configure-netapp-volume-encryption-concept.html#support-details" id="604">
+        <title>Configure NetApp Volume Encryption overview</title>
+      </bookmark>
+      <bookmark href="https://kb.netapp.com/onprem/ontap/dm/Encryption/FAQ_NetApp_Volume_Encryption_and_NetApp_Aggregate_Encryption" id="605">
+        <title>FAQ - NetApp Volume Encryption and NetApp Aggregate Encryption - NetApp Knowledge Base</title>
+      </bookmark>
+      <bookmark href="https://www.cisco.com/c/ko_kr/support/docs/content-networking/certificates/216517-configure-remote-key-management-on-stand.pdf" id="606">
+        <title>독립형 랙 서버에서 원격 키 관리 구성</title>
+      </bookmark>
+      <bookmark href="https://www.floodnut.com/75" id="607">
+        <title>[OAuth 2.0 API 보안] TLS를 통한 API 보안 :: 직립보행 돌고래의 IQ 세자릿수 달성하기</title>
+      </bookmark>
+      <bookmark href="https://access.redhat.com/documentation/ko-kr/red_hat_enterprise_linux/8/html/deploying_different_types_of_servers/configuring-tls-client-certificate-authentication_setting-apache-http-server" id="608">
+        <title>1.10. TLS 클라이언트 인증서 인증 구성 Red Hat Enterprise Linux 8 | Red Hat Customer Portal</title>
+      </bookmark>
+      <bookmark href="https://medium.com/geekculture/authentication-using-certificates-7e2cfaacd18b" id="609">
+        <title>Spring boot Authentication using Certificates? | by Suriya | Geek Culture | Medium</title>
+      </bookmark>
+      <bookmark href="https://ahyuo79.blogspot.com/2020/03/ecdsa-key-certificate.html" id="610">
+        <title>Jeonghun (James) Lee: ECDSA 기반의 Key 및 Certificate 분석</title>
+      </bookmark>
+      <bookmark href="http://api-keymanager.cloud.toast.com:8090/swagger-ui/index.html#/kmip-mapping-controller/mapping" id="611">
+        <title>Swagger UI</title>
+      </bookmark>
+      <bookmark href="http://beta-kmip-api-keymanager.cloud.toastoven.net:8090/swagger-ui/index.html#/kmip-mapping-controller/mapping" id="631">
+        <title>Swagger UI(beta)</title>
+      </bookmark>
+    </folder>
+    <folder id="407">
+      <title>CentOS서비스등록</title>
+      <bookmark href="https://haenny.tistory.com/141" id="505">
+        <title>[Linux] CentOS 7 에서 Tomcat 서비스 등록하기</title>
+      </bookmark>
+      <bookmark href="https://chunggaeguri.tistory.com/entry/CentOS7-systemctl-%EB%AA%85%EB%A0%B9%EC%96%B4" id="506">
+        <title>[ CentOS7 ] systemctl 명령어</title>
+      </bookmark>
+      <bookmark href="https://potatogim.net/wiki/Systemctl" id="507">
+        <title>systemctl - PGWiki</title>
+      </bookmark>
+    </folder>
+    <folder id="408">
+      <title>aws-vault</title>
+      <bookmark href="https://www.44bits.io/ko/post/securing-aws-credentials-with-aws-vault" id="508">
+        <title>aws-vault 사용법: AWS의 인증 정보 안전하게 사용하기 | 44BITS</title>
+      </bookmark>
+      <bookmark href="https://99designs.com/blog/engineering/aws-vault/" id="509">
+        <title>Securing AWS Credentials on Engineer&apos;s Machines - 99designs</title>
+      </bookmark>
+      <bookmark href="https://nhnent.dooray.com/task/3149857137914263919/3509503080879485071" id="510">
+        <title>Vault조사-Dooray Task</title>
+      </bookmark>
+      <bookmark href="https://forward.nhn.com/2022/sessions/12" id="511">
+        <title>실전 Vault 도입기 : NHN FORWARD 22</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=hwJet__03AA" id="512">
+        <title>[NHN FORWARD 22] 실전 Vault 도입기 - YouTube</title>
+      </bookmark>
+      <bookmark href="https://developer.hashicorp.com/vault/downloads" id="513">
+        <title>Install | Vault | HashiCorp Developer</title>
+      </bookmark>
+      <bookmark href="https://blog.outsider.ne.kr/1266" id="514">
+        <title>HashiCorp의 비밀정보 관리 도구 Vault의 구성 :: Outsider&apos;s Dev Story</title>
+      </bookmark>
+      <bookmark href="https://docmoa.github.io/04-HashiCorp/06-Vault/04-UseCase/vault-k8s-integration-three-methods.html#_9-going-beyond-the-native-kubernetes-secrets" id="515">
+        <title>Kubernetes Vault 통합방안 3가지 비교 | docmoa</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=ECa8sAqE7M4" id="516">
+        <title>How to use Vault Secrets Operator in Kubernetes - YouTube</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="18">
+    <title>PIPELINE</title>
+    <bookmark href="https://nhnent.dooray.com/wiki/2048487099273475703/3539111336675418363" id="127">
+      <title>클라우드플랫폼개발랩 | 1. BASICS OF KUBERNETES : NHN : Dooray!</title>
+    </bookmark>
+    <bookmark href="https://docs.alpha-nhncloud.com/ko/Dev%20Tools/Pipeline/ko/stage-guide/" id="128">
+      <title>스테이지 가이드 - NHN Cloud 사용자 가이드</title>
+    </bookmark>
+    <bookmark href="https://github.com/TOAST-DOCS/Pipeline" id="129">
+      <title>TOAST-DOCS/pipeline</title>
+    </bookmark>
+    <bookmark href="https://alpha-kr1-api-pipeline.cloud.toastoven.net/gate-swagger/swagger-ui.html" id="130">
+      <title>Swagger UI(gate)</title>
+    </bookmark>
+    <bookmark href="https://alpha-kr1-api-pipeline.cloud.toastoven.net/anchor-swagger/swagger-ui.html" id="131">
+      <title>Swagger UI(anchor)</title>
+    </bookmark>
+    <bookmark href="http://ci.cloud.toastoven.net:10081/job/spinnaker/" id="132">
+      <title>All [spinnaker] [Jenkins]</title>
+    </bookmark>
+    <bookmark href="https://bbaktaeho-95.tistory.com/101" id="133">
+      <title>[Git/Github] Repository의 Deploy key 사용하기 (ssh-keygen, 공개키, 비밀키)</title>
+    </bookmark>
+    <bookmark href="https://dev-deck-pipeline.cloud.toast.com/?appkey=testappkey#/applications" id="134">
+      <title>Applications(Deck)</title>
+    </bookmark>
+    <bookmark href="https://www.facebook.com/groups/k8skr/?mibextid=HsNCOg" id="135">
+      <title>(7) Kubernetes Korea Group | Facebook</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/presentation/d/1N7qaDYtl8hLFSVL6rL4Yni8bUVdfJ8wj8_9rgOoFPp4/mobilepresent?slide=id.p" id="136">
+      <title>컨테이너 와 쿠버네티스의 네트워크 구조 (공개용) - Google Slides</title>
+    </bookmark>
+    <bookmark href="https://nhnent.dooray.com/share/tasks/AF3PoJaoSZ22rRc3lf04qg" id="409">
+      <title>k8s 활용 강의</title>
+    </bookmark>
+    <folder id="410">
+      <title>React전환</title>
+      <bookmark href="https://github.nhnent.com/toast-cloud-deploy/spinnaker-cockpit" id="517">
+        <title>toast-cloud-deploy/spinnaker-cockpit: toast pipeline frontend page</title>
+      </bookmark>
+      <bookmark href="https://dev-kr1-console-pipeline.cloud.toastoven.net/console/appkeys/test-appkey/pipeline-management" id="518">
+        <title>spinnaker-cockpit</title>
+      </bookmark>
+      <bookmark href="https://dev-kr1-console-pipeline.cloud.toastoven.net/console/appkeys/test-appkey/pipeline-management" id="519">
+        <title>spinnaker-cockpit</title>
+      </bookmark>
+      <bookmark href="https://github.nhnent.com/TOASTCloud/ncui-tutorials" id="520">
+        <title>TOASTCloud/ncui-tutorials: NCUI 기반 Console 웹 서비스 개발 예제 프로젝트로 Internal 권한으로 운영합니다.</title>
+      </bookmark>
+      <bookmark href="https://github.nhnent.com/pages/TOASTCloud/nhn-cloud-ui/latest/ncui/introduction" id="521">
+        <title>NHN Cloud UI – NHN Cloud UI</title>
+      </bookmark>
+      <bookmark href="https://github.nhnent.com/pages/TOASTCloud/ncui-workflow/latest/workflow/introduction" id="522">
+        <title>NHN Cloud UI Workflow – NHN Cloud UI</title>
+      </bookmark>
+      <bookmark href="https://ko.vitejs.dev/guide/assets.html" id="523">
+        <title>에셋 가져오기 | Vite</title>
+      </bookmark>
+      <bookmark href="https://react-bootstrap.github.io/docs/layout/grid" id="524">
+        <title>Grid system | React Bootstrap</title>
+      </bookmark>
+      <bookmark href="https://velog.io/@leyuri/Bootstrap-%EA%B3%B5%EB%B0%B1Spacing-%EC%A3%BC%EB%8A%94-%EB%B2%95-mt-mb-ml-mr-mx-my-pt-pb-pl-pr-px-py" id="525">
+        <title>bootstrap - 공백(Spacing) 주는 법 (mt , mb, ml, mr, mx, my, pt, pb, pl, pr, px, py)</title>
+      </bookmark>
+      <bookmark href="https://www.figma.com/file/eC9wtzk30WLSUNdv39wtOj/%5BPipeline%5D-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4?type=design&amp;node-id=1253-474&amp;mode=design&amp;t=RA67zKOHwDCGER2j-0" id="526">
+        <title>[Pipeline] 파이프라인 스튜디오 – Figma</title>
+      </bookmark>
+      <bookmark href="https://www.figma.com/design/XijwIEZIIwTiHMzieNwVgB/Console---Dev-Tools?node-id=1068-12492&amp;t=ZoE28OYP6IA1CD2U-0" id="612">
+        <title>Console - Dev Tools – Figma</title>
+      </bookmark>
+      <bookmark href="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Optional_chaining" id="613">
+        <title>Optional chaining - JavaScript | MDN</title>
+      </bookmark>
+      <bookmark href="https://reactflow.dev/examples/layout/dagre" id="614">
+        <title>Dagre Tree – React Flow</title>
+      </bookmark>
+      <bookmark href="https://nhnent.dooray.com/task/1585877748864896950/3837656792618267048?query=all%253DPipeline" id="615">
+        <title>#tc-qa/25053 | [Pipeline] 2024.07.23 정기점검 Test Plan : NHN : Dooray!</title>
+      </bookmark>
+      <bookmark href="https://tanstack.com/query/latest/docs/framework/react/guides/query-options" id="616">
+        <title>Query Options | TanStack Query React Docs</title>
+      </bookmark>
+      <bookmark href="https://github.com/ssi02014/react-query-tutorial?tab=readme-ov-file#%EC%BA%90%EC%8B%B1-%EB%9D%BC%EC%9D%B4%ED%94%84-%EC%82%AC%EC%9D%B4%ED%81%B4" id="617">
+        <title>GitHub - ssi02014/react-query-tutorial: 😃 TanStack Query(aka. react query) 에서 자주 사용되는 개념 정리</title>
+      </bookmark>
+      <bookmark href="https://velog.io/@kysung95/%EC%A7%A4%EB%A7%89%EA%B8%80-react-strict-%EB%AA%A8%EB%93%9C%EB%9E%80" id="618">
+        <title>[짤막글] react strict 모드란??</title>
+      </bookmark>
+      <bookmark href="https://www.heropy.dev/p/HZaKIE" id="619">
+        <title>TanStack Query(React Query) 핵심 정리 | HEROPY.DEV</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="19">
+    <title>FaaS</title>
+    <bookmark href="https://nhnent.dooray.com/wiki/3787747799557909410/3787753308664639682" id="137">
+      <title>FaaS-개발 | Architecture : NHN : Dooray!</title>
+    </bookmark>
+  </folder>
+  <folder id="20">
+    <title>DEPLOY</title>
+    <bookmark href="http://localhost:8080/tcd/main?appKey=LHHCSXYhj3g8rbaz" id="138">
+      <title>local external-TCD</title>
+    </bookmark>
+    <bookmark href="http://localhost:8080/tcd/main?appKey=VNnhCYj2ceQEncpb" id="139">
+      <title>local internal-TCD</title>
+    </bookmark>
+    <bookmark href="https://docs.nhncloud.com/ko/Dev%20Tools/Deploy/ko/console-guide/" id="140">
+      <title>콘솔 사용 가이드 - NHN Cloud 사용자 가이드</title>
+    </bookmark>
+    <bookmark href="https://github.nhnent.com/toast-cloud-deploy/toast_cloud_deploy" id="141">
+      <title>toast-cloud-deploy/toast_cloud_deploy</title>
+    </bookmark>
+    <bookmark href="https://github.nhnent.com/toast-cloud-deploy/tcdeploy-upload-jenkins/blob/master/README.md" id="142">
+      <title>tcdeploy-upload-jenkins/README.md at master · toast-cloud-deploy/tcdeploy-upload-jenkins</title>
+    </bookmark>
+    <bookmark href="http://local-console-deploy.nhncloudservice.com:8080/tcd/main?appKey=VNnhCYj2ceQEncpb" id="143">
+      <title>Local-TCD</title>
+    </bookmark>
+    <bookmark href="https://nhnent.dooray.com/project/tasks/3208850410867867710" id="144">
+      <title>SALT API 사용정리</title>
+    </bookmark>
+    <bookmark href="https://nhnent.dooray.com/project/tasks/3152308005530314096" id="145">
+      <title>Saltstack 의존성 제거</title>
+    </bookmark>
+    <bookmark href="https://nhnent.dooray.com/project/tasks/2190311474065700717" id="146">
+      <title>#Deploy-개발/201 | Deploy 진행 SALT : NHN : Dooray!</title>
+    </bookmark>
+    <bookmark href="https://nhnent.dooray.com/project/tasks/2189835818303362521" id="147">
+      <title>#Deploy-개발/199 | Deploy 진행 로직 : NHN : Dooray!</title>
+    </bookmark>
+    <folder id="411">
+      <title>QGA</title>
+      <bookmark href="https://velog.io/@dojun527/%EC%98%A4%ED%94%88%EC%8A%A4%ED%83%9D-Compute-Nova" id="527">
+        <title>오픈스택 Compute Nova</title>
+      </bookmark>
+      <bookmark href="https://nhnent.dooray.com/project/tasks/3152956480167905081" id="528">
+        <title>Qemu Guest Agent 환경 구축</title>
+      </bookmark>
+      <bookmark href="https://nhnent.dooray.com/wiki/2399233537710930505/3194925864976985728" id="529">
+        <title>tc-iaas-compute | QGA API 사용 가이드 : NHN : Dooray!</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="21">
+    <title>SALTSTACK</title>
+    <bookmark href="https://youngswooyoung.tistory.com/160" id="148">
+      <title>[Saltstack / 솔트스택] 솔트스택이 무엇인가?? / 특징과 장점, 구조</title>
+    </bookmark>
+    <bookmark href="https://youngswooyoung.tistory.com/162" id="149">
+      <title>[Saltstack / 솔트스택] Saltstack 패키지 설치 튜토리얼 (CentOS7 버전)</title>
+    </bookmark>
+    <bookmark href="https://youngswooyoung.tistory.com/166" id="150">
+      <title>[Saltstack / 솔트스택] Saltstack 설치 후 master, minion 기본설정 / 싱글노드 테스트</title>
+    </bookmark>
+    <folder id="151">
+      <title>SALT문서</title>
+      <bookmark href="https://docs.saltproject.io/en/latest/contents.html" id="285">
+        <title>Salt Table of Contents</title>
+      </bookmark>
+      <bookmark href="https://docs.saltproject.io/en/latest/ref/netapi/all/salt.netapi.rest_tornado.html" id="286">
+        <title>rest_tornado</title>
+      </bookmark>
+      <bookmark href="https://docs.saltproject.io/en/latest/topics/tutorials/modules.html" id="287">
+        <title>Remote execution tutorial</title>
+      </bookmark>
+      <bookmark href="https://docs.saltproject.io/en/latest/topics/execution/remote_execution.html" id="288">
+        <title>Running Commands on Salt Minions</title>
+      </bookmark>
+      <bookmark href="https://docs.saltproject.io/en/latest/ref/modules/all/index.html" id="289">
+        <title>execution modules</title>
+      </bookmark>
+      <bookmark href="https://docs.saltproject.io/en/latest/ref/modules/all/salt.modules.saltutil.html#salt.modules.saltutil.running" id="290">
+        <title>salt.modules.saltutil</title>
+      </bookmark>
+      <bookmark href="https://docs.saltproject.io/salt/user-guide/en/latest/topics/overview.html" id="291">
+        <title>Salt overview - Salt user guide</title>
+      </bookmark>
+      <bookmark href="https://docs.saltproject.io/salt/install-guide/en/latest/topics/overview.html" id="292">
+        <title>Install Salt - Salt install guide</title>
+      </bookmark>
+      <bookmark href="https://docs.saltproject.io/salt/install-guide/en/latest/topics/salt-supported-operating-systems.html#id2" id="293">
+        <title>Salt supported operating systems - Salt install guide</title>
+      </bookmark>
+      <bookmark href="https://docs.saltproject.io/salt/install-guide/en/latest/topics/upgrade-to-onedir.html" id="294">
+        <title>Upgrade to onedir - Salt install guide</title>
+      </bookmark>
+      <bookmark href="https://docs.saltproject.io/en/latest/ref/configuration/minion.html" id="530">
+        <title>Configuring the Salt Minion</title>
+      </bookmark>
+      <bookmark href="https://docs.saltproject.io/en/latest/ref/configuration/nonroot.html#configuration-non-root-user" id="531">
+        <title>Running the Salt Master/Minion as an Unprivileged User</title>
+      </bookmark>
+      <bookmark href="https://docs.saltproject.io/en/latest/ref/returners/all/salt.returners.cassandra_cql_return.html#module-salt.returners.cassandra_cql_return" id="532">
+        <title>salt.returners.cassandra_cql_return</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://nhnent.dooray.com/wiki/1622948375426284927/2330962779440972255" id="152">
+      <title>SaltStack-개발 | Home : NHN : Dooray!</title>
+    </bookmark>
+    <folder id="153">
+      <title>카산드라</title>
+      <bookmark href="https://meetup.nhncloud.com/posts/58" id="295">
+        <title>Apache Cassandra 톺아보기 - 1편 : NHN Cloud Meetup</title>
+      </bookmark>
+      <bookmark href="https://devlog-wjdrbs96.tistory.com/439" id="296">
+        <title>[Cassandra] Cassandra Key와 SELECT 할 때 알아두어야 할 것 :: Gyun&apos;s 개발일지</title>
+      </bookmark>
+      <bookmark href="https://cassandra.apache.org/doc/latest/cassandra/cql/types.html" id="297">
+        <title>Data Types | Apache Cassandra Documentation</title>
+      </bookmark>
+      <bookmark href="https://stackoverflow.com/questions/17945341/how-to-auto-generate-uuid-in-cassandra-cql-3-command-line" id="298">
+        <title>How to auto generate uuid in cassandra CQL 3 command line - Stack Overflow</title>
+      </bookmark>
+    </folder>
+    <folder id="154">
+      <title>kafka</title>
+      <bookmark href="http://10.161.64.133:18080/" id="299">
+        <title>UI for Apache Kafka - alpha</title>
+      </bookmark>
+      <bookmark href="http://10.162.28.99:5000/?orgId=1" id="300">
+        <title>Grafana</title>
+      </bookmark>
+      <bookmark href="http://10.161.142.102:18080/" id="301">
+        <title>kafka ui - beta</title>
+      </bookmark>
+      <bookmark href="http://10.161.142.60:18080/" id="302">
+        <title>kafka ui - real</title>
+      </bookmark>
+    </folder>
+    <folder id="155">
+      <title>swagger</title>
+      <bookmark href="http://127.0.0.1:8080/webjars/swagger-ui/index.html#/qemu-controller/execute" id="303">
+        <title>Swagger UI(로컬)</title>
+      </bookmark>
+      <bookmark href="https://saltdev.toastoven.net/webjars/swagger-ui/index.html#/qemu-controller/execute" id="304">
+        <title>Swagger UI(퍼블릭알파)</title>
+      </bookmark>
+      <bookmark href="https://nsaltdev.toastoven.net/webjars/swagger-ui/index.html#/%EC%9D%B8%ED%94%84%EB%9D%BC%20%EC%A0%84%EC%9A%A9%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC/getJob_2" id="305">
+        <title>Swagger UI(신규3006알파)</title>
+      </bookmark>
+      <bookmark href="https://beta-toast-product-salt.cloud.toastoven.net/webjars/swagger-ui/index.html" id="306">
+        <title>Swagger UI(퍼블릭베타)</title>
+      </bookmark>
+      <bookmark href="https://salt.toastoven.net/webjars/swagger-ui/index.html#/qemu-controller/execute" id="307">
+        <title>Swagger UI(퍼블릭 리얼)</title>
+      </bookmark>
+      <bookmark href="http://beta-gov-salt.cloud.toastoven.net/webjars/swagger-ui/index.html" id="308">
+        <title>Swagger UI(공공베타)</title>
+      </bookmark>
+    </folder>
+    <folder id="156">
+      <title>ftp</title>
+      <bookmark href="http://tools.toastmaker.net/salt/minion/2019.2.4-nhnent/" id="309">
+        <title>Index of /salt/minion/2019.2.4-nhnent/</title>
+      </bookmark>
+      <bookmark href="http://tools.toastmaker.net/salt/" id="310">
+        <title>Index of /salt/</title>
+      </bookmark>
+      <bookmark href="https://wsus2.nhncorp.jp/ftp/minion/" id="311">
+        <title>Index of /ftp/minion [JP]</title>
+      </bookmark>
+      <bookmark href="https://wsus2.nhncorp.jp/ftp/webapps/auto/" id="312">
+        <title>Index of /ftp/webapps/auto [JP]</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://mirror.toastmaker.net/cmi/ubuntu/" id="157">
+      <title>Index of /cmi/ubuntu/</title>
+    </bookmark>
+    <bookmark href="https://github.com/saltstack/salt?utm_source=chatgpt.com" id="412">
+      <title>saltstack/salt: Software to automate the management and configuration of infrastructure and applications at scale.</title>
+    </bookmark>
+    <bookmark href="https://github.com/saltstack/salt/blob/master/requirements/static/pkg/py3.10/linux.txt" id="413">
+      <title>salt/requirements/static/pkg/py3.10/linux.txt at master · saltstack/salt · GitHub</title>
+    </bookmark>
+    <bookmark href="https://github.nhnent.com/infrasolution/salt-tutorial" id="414">
+      <title>infrasolution/salt-tutorial</title>
+    </bookmark>
+    <bookmark href="https://github.nhnent.com/infrasolution/salt-webapps" id="415">
+      <title>infrasolution/salt-webapps: set-webapps</title>
+    </bookmark>
+    <bookmark href="https://github.nhnent.com/infrasolution/natrium" id="416">
+      <title>infrasolution/natrium</title>
+    </bookmark>
+    <bookmark href="https://github.nhnent.com/infrasolution/salt-nhnent-modules/blob/126fffe432c79e7b73e0efee4991d4a77e6127e1/modules/nhnent/common/webapp.py" id="579">
+      <title>salt-nhnent-modules/modules/nhnent/common/webapp.py at 126fffe432c79e7b73e0efee4991d4a77e6127e1 · infrasolution/salt-nhnent-modules</title>
+    </bookmark>
+    <bookmark href="http://ci.cloud.toastoven.net:10081/job/saltstack/job/natrium-alpha/" id="580">
+      <title>natrium-alpha [SaltStack] [Jenkins]</title>
+    </bookmark>
+  </folder>
+  <folder id="22">
+    <title>FMN</title>
+    <bookmark href="https://github.nhnent.com/infrasolution/brass-spring" id="158">
+      <title>infrasolution/brass-spring: ForgetMeNot WebApplication</title>
+    </bookmark>
+    <bookmark href="https://github.nhnent.com/infrasolution/brass-batch" id="159">
+      <title>infrasolution/brass-batch</title>
+    </bookmark>
+    <bookmark href="http://fmn.nhn-playart.com/certificate" id="160">
+      <title>FMN : Forget Me Not!</title>
+    </bookmark>
+    <bookmark href="http://alpha-fmn.nhnent.com/domain" id="161">
+      <title>FMN : Forget Me Not!(alpha)</title>
+    </bookmark>
+    <folder id="162">
+      <title>알림발송</title>
+      <bookmark href="https://nhnent.dooray.com/task/2058408404193881826/3553654750434609739" id="313">
+        <title>#(NHN-Cloud)Management/10633 | [CAB, 콘솔, NCA] 조직/프로젝트 알림 관리 기능 추가 : NHN : Dooray!</title>
+      </bookmark>
+      <bookmark href="https://nhnent.dooray.com/task/2058408404193881826/3666912025480919456" id="314">
+        <title>#(NHN-Cloud)Management/11851 | [11/8 회의록] 콘솔 알림 관리 배포 일정 변경(2월) : NHN : Dooray!</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="282">
+    <title>PrivateCA</title>
+    <bookmark href="https://github.nhnent.com/TOASTCloud/pca-api" id="379">
+      <title>TOASTCloud/pca-api: Private-CA의 API 리파지토리</title>
+    </bookmark>
+    <bookmark href="https://github.nhnent.com/TOASTCloud/pca-console" id="380">
+      <title>TOASTCloud/pca-console: Private-CA의 콘솔 ( front ) 용 리파지토리</title>
+    </bookmark>
+    <bookmark href="https://github.com/rlaghtjr2/BouncyCastleTest/blob/main/src/main/java/com/example/vault/demo/BouncyCastleService.java" id="381">
+      <title>BouncyCastleTest/src/main/java/com/example/vault/demo/BouncyCastleService.java at main · rlaghtjr2/BouncyCastleTest · GitHub</title>
+    </bookmark>
+    <bookmark href="https://smallstep.com/docs/step-ca/getting-started/#run-a-hello-world-example-server-configured-for-tls-connections" id="382">
+      <title>Getting Started</title>
+    </bookmark>
+    <bookmark href="https://guide.ncloud-docs.com/docs/privateca-overview" id="383">
+      <title>Private CA 개요</title>
+    </bookmark>
+    <bookmark href="https://nhnent.dooray.com/task/4008246347889928746/4037753123268809213" id="384">
+      <title>#PrivateCA-개발/35 | Vault 1.14.8 기능 : NHN : Dooray!</title>
+    </bookmark>
+    <bookmark href="https://api.ncloud-docs.com/docs/security-privateca-createca#%EC%9A%94%EC%B2%AD-%EB%B0%94%EB%94%94" id="385">
+      <title>Create CA</title>
+    </bookmark>
+    <folder id="386">
+      <title>Porthos</title>
+      <bookmark href="https://harbor-srep.toastoven.net/harbor/projects/71/repositories" id="473">
+        <title>Harbor</title>
+      </bookmark>
+      <bookmark href="https://jenkins-srep.toastoven.net/job/Private_CA/" id="474">
+        <title>All [Private_CA] [Jenkins]</title>
+      </bookmark>
+      <bookmark href="https://nhnent.dooray.com/task/3837885227029946831/3518325019314213369?query=all%253Dkmip" id="475">
+        <title>#(Mig-Dev)Porthos/12 | [가이드] CI 가이드 (update 2025.06.24) : NHN : Dooray!</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="283">
+    <title>Cloud Console</title>
+    <bookmark href="https://nhncloud-private.console.toast.com/project/hgwCNyVp/dashboard" id="387">
+      <title>NHN Cloud private CONSOLE</title>
+    </bookmark>
+    <bookmark href="https://nhncloud-private-product.console.nhncloud.com/org/8qs9N9szMFsRSRhR/dashboard" id="388">
+      <title>NHN Cloud private-product CONSOLE</title>
+    </bookmark>
+    <bookmark href="https://console.alpha-nhncloud.com/" id="389">
+      <title>NHN Cloud CONSOLE(alpha)</title>
+    </bookmark>
+    <bookmark href="https://beta-id.toast.com/login?nextUrl=https%3A%2F%2Fbeta-console.toast.com" id="390">
+      <title>NHN Cloud(beta)</title>
+    </bookmark>
+    <bookmark href="https://console.toast.com/" id="391">
+      <title>NHN Cloud CONSOLE</title>
+    </bookmark>
+    <bookmark href="https://alpha-salt-console.nhnent.com/" id="392">
+      <title>SaltConsole</title>
+    </bookmark>
+    <bookmark href="https://salt-console.nhnent.com/" id="393">
+      <title>SaltConsole(KR)</title>
+    </bookmark>
+    <bookmark href="https://salt-console.nhn-playart.com/" id="394">
+      <title>SaltConsole(JP)</title>
+    </bookmark>
+    <bookmark href="http://ui-dev.nhnent.com/svnview/hivelab/toastcloud/webconsole_renew/guide_new/guide_renew.html" id="395">
+      <title>ToastConsole-ui가이드</title>
+    </bookmark>
+    <bookmark href="https://gov-nhncloud-private-product.console.gov-nhncloud.com/project/VjLpNB8Q/dashboard" id="396">
+      <title>gov-private-product NHN Cloud CONSOLE</title>
+    </bookmark>
+    <bookmark href="https://id.gov-nhncloud.com/login?nextUrl=https%3A%2F%2Fconsole.gov-nhncloud.com%2F" id="571">
+      <title>NHN Cloud (공공기관용)</title>
+    </bookmark>
+    <bookmark href="https://id.beta-gov-nhncloud.com/login?nextUrl=https%3A%2F%2Fconsole.alpha-gov-nhncloud.com%2F" id="572">
+      <title>NHN Cloud (공공기관용-beta)</title>
+    </bookmark>
+    <bookmark href="https://id.alpha-gov-nhncloud.com/login?nextUrl=https%3A%2F%2Fconsole.alpha-gov-nhncloud.com%2F" id="573">
+      <title>NHN Cloud (공공기관용alpha)</title>
+    </bookmark>
+    <folder id="574">
+      <title>TCA(Admin)</title>
+      <bookmark href="https://alpha-tca.toast.com/iframe/TCA%20Menu/Products/CloudTrail" id="588">
+        <title>NHN Cloud Admin(alpha)</title>
+      </bookmark>
+      <bookmark href="https://id.nhncloud.com/login?nextUrl=https://nca.nhncloud.com/iframe/TCA%20Menu/Products/CloudTrail" id="589">
+        <title>NHN Cloud(리얼NCA)</title>
+      </bookmark>
+      <bookmark href="https://id.beta-gov-nhncloud.com/login?nextUrl=https://nca.beta-gov-nhncloud.com/" id="590">
+        <title>NHN Cloud (공공기관용,베타NCA)</title>
+      </bookmark>
+      <bookmark href="https://id.gov-nhncloud.com/login?nextUrl=https://nca.gov-nhncloud.com/" id="591">
+        <title>NHN Cloud (공공기관용,리얼NCA)</title>
+      </bookmark>
+    </folder>
+    <folder id="575">
+      <title>NGSC</title>
+      <bookmark href="https://whatsup.nhnent.com/cl/board/viewByMeta/470/349516?SPOT_TYPE=NOT_USE_RIGHT_MENU&amp;_useExternalNetwork=TRUE&amp;_ssoType=real&amp;_harmonyUrl=https%3A%2F%2Fnharmony.nhnent.com&amp;_requestMainDomain=nhnent.com&amp;_dynamicStaticURL=https%3A%2F%2Fstatic.nhnent.com&amp;_defaultSystem=nhnent.com&amp;_defaultSystemTitle=WhatsUP" id="592">
+        <title>WhatsUP</title>
+      </bookmark>
+      <bookmark href="https://nhnent.dooray.com/share/pages/DJ-5tt2gTQKAUAkqvSX-sA" id="593">
+        <title>원격거점 사무실(플레이뮤지엄) &gt; 대구센터 접속 가이드</title>
+      </bookmark>
+      <bookmark href="https://nhnent.dooray.com/share/pages/JcCgm_x_RFqdClbKxZBDSA" id="594">
+        <title>[대구 센터] Deploy를 활용한 배포 가이드</title>
+      </bookmark>
+      <bookmark href="https://www.beta-gncloud.go.kr/kr" id="595">
+        <title>NHN Government Security Cloud(beta)</title>
+      </bookmark>
+      <bookmark href="https://nhnent.dooray.com/task/2834785766465333927/3538515993036947386" id="596">
+        <title>#(02)-네트워크기술1팀/923 | FortiClient 비밀번호</title>
+      </bookmark>
+      <bookmark href="http://console.ninc.go.kr/" id="597">
+        <title>NHN Internet Cloud CONSOLE(ninc)</title>
+      </bookmark>
+      <bookmark href="https://console.ngsc.go.kr/" id="598">
+        <title>NHN Internet Cloud CONSOLE(ngsc)</title>
+      </bookmark>
+      <bookmark href="https://ppp-console.cloud.toastoven.net/org/yMF3mU1XhAihYX7V/dashboard" id="599">
+        <title>Government NHN CONSOLE(공통)</title>
+      </bookmark>
+      <bookmark href="https://nhnent.dooray.com/task/2058408404193881826/4048023179840334206?query=all%253DAPI" id="600">
+        <title>#(NHN-Cloud)Management/14797 | VDI를 통한 접근 도메인/IP 취합 : NHN : Dooray!</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="284">
+    <title>일본</title>
+    <bookmark href="https://tips.nhn-playart.com/ticketSearch/mydocument/assigned" id="397">
+      <title>TIPS :: 処理する文書</title>
+    </bookmark>
+    <bookmark href="http://ci.cloud.toastoven.net:10081/view/%EC%9D%B8%ED%94%84%EB%9D%BC%ED%94%8C%EB%9E%AB%ED%8F%BC%EA%B0%9C%EB%B0%9C%ED%8C%80/" id="398">
+      <title>인프라플랫폼개발팀 [Jenkins]</title>
+    </bookmark>
+    <bookmark href="https://apms.nhnent.com/app/dfmList/dfmListForUser?tabType=OTHER&amp;otherView=true&amp;searchKeyword=PA0200" id="399">
+      <title>WhatsUP :: 결재</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://alpha-cab.cloud.toast.com/swagger-ui/index.html" id="626">
+    <title>alpha-cab.cloud.toast.com</title>
+  </bookmark>
+  <bookmark href="https://alpha-api-billing-meter.cloud.toastoven.net/swagger-ui/index.html?urls.primaryName=admin#/%EB%AF%B8%ED%84%B0%EB%A7%81%20API/getMetersUsingGET" id="627">
+    <title>Swagger UI</title>
+  </bookmark>
+  <folder id="644">
+    <title>모니터링</title>
+    <bookmark href="http://nsight2.nhnent.com/" id="650">
+      <title>NSight - Server Monitoring System</title>
+    </bookmark>
+    <bookmark href="https://pinpoint2.nhnent.com/main" id="651">
+      <title>PINPOINT</title>
+    </bookmark>
+    <bookmark href="https://watchdog.nhnent.com/watchdog/main" id="652">
+      <title>WatchDog</title>
+    </bookmark>
+    <bookmark href="https://nhnent.dooray.com/task/1509751592869635739/3508837908510627404" id="653">
+      <title>#ServiceMonitoring-개발/662 | [정리] Watchdog 상대 서비스 ACL을 위한 IP 정리 : NHN : Dooray!</title>
+    </bookmark>
+    <bookmark href="http://ngrinder.nhnent.com/login;jsessionid=E09EDE7CFB39E3ED71507B187F85E45D" id="654">
+      <title>nGrinder Login</title>
+    </bookmark>
+    <bookmark href="https://naver.github.io/ngrinder/" id="655">
+      <title>nGrinder Guide</title>
+    </bookmark>
+    <bookmark href="https://garlicdipping.github.io/archivers/sslhandshakeexception-on-ngrinder" id="656">
+      <title>nGrinder SSLHandshakeException 에러 대응하기 « GarlicDipping&apos;s tech blog</title>
+    </bookmark>
+    <bookmark href="http://10.162.28.99:5000/login" id="657">
+      <title>Grafana(SaltStak-공공-카프카)</title>
+    </bookmark>
+    <bookmark href="https://netric.nhn.com/d/c7c997ae-e500-41ae-8566-c33d4ae35191/server-linux?orgId=1" id="658">
+      <title>netric - Dashboards - Grafana</title>
+    </bookmark>
+    <bookmark href="https://netric.nhn.com/dashboards/f/fadee305-9357-4219-a37c-9fd003bbe80f/" id="659">
+      <title>배포플랫폼개발팀(CL00003925) - Dashboards - Grafana</title>
+    </bookmark>
+    <bookmark href="https://nhnent.dooray.com/share/pages/53E-T0UBQGeStCxHFA0Lww/3732053617786807927" id="674">
+      <title>애플리케이션 지표 수집</title>
+    </bookmark>
+  </folder>
+  <folder id="645">
+    <title>정적분석</title>
+    <bookmark href="https://nhnent.dooray.com/wiki/3046985040210222762/3493567153736914252" id="660">
+      <title>cloud-quality-practices | SonarQube v9.9 : NHN : Dooray!</title>
+    </bookmark>
+    <bookmark href="https://kdev.ing/static-analysis-performed-by-sonarqube-and-github-action/" id="661">
+      <title>SonarQube와 Github Action으로 수행하는 정적 분석 | Mambo</title>
+    </bookmark>
+    <bookmark href="http://sonar9.cloud.toastoven.net:7700/projects/favorite" id="662">
+      <title>Projects - SonarQube</title>
+    </bookmark>
+    <bookmark href="https://ks-peter.tistory.com/entry/GitHub-Actions-self-hosted-runner-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0" id="663">
+      <title>GitHub Actions self-hosted runner 설정하기</title>
+    </bookmark>
+  </folder>
+  <folder id="646">
+    <title>study</title>
+    <bookmark href="https://velog.io/@qotndus43/Cache" id="664">
+      <title>스프링부트 Caching 도입하기(Redis, Ehcache)</title>
+    </bookmark>
+    <bookmark href="https://velog.io/@hind_sight/Docker-Jenkins-%EB%8F%84%EC%BB%A4%EC%99%80-%EC%A0%A0%ED%82%A8%EC%8A%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-Spring-Boot-CICD" id="665">
+      <title>[Docker &amp; Jenkins] 도커와 젠킨스를 활용한 Spring Boot CI/CD…</title>
+    </bookmark>
+    <bookmark href="https://azderica.github.io/00-network-gslb/" id="666">
+      <title>[Network] GSLB란? - Azderica</title>
+    </bookmark>
+    <bookmark href="https://blog.innern.net/61" id="667">
+      <title>L4 스위치 DSR 및 Proxy 차이점 및 이론정리</title>
+    </bookmark>
+    <bookmark href="https://dev.plusblog.co.kr/30" id="668">
+      <title>DNS에서 CNAME과 A 레코드의 차이</title>
+    </bookmark>
+    <bookmark href="https://meetup.toast.com/posts/204" id="669">
+      <title>대상 서버의 포트가 열려 있는지 확인하는 3가지 방법 : NHN Cloud Meetup</title>
+    </bookmark>
+    <bookmark href="https://yjshin.tistory.com/entry/%EC%95%94%ED%98%B8%ED%95%99-%ED%98%84%EB%8C%80-%EB%8C%80%EC%B9%AD%ED%82%A4-%EC%95%94%ED%98%B8%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%95%94%ED%98%B8%ED%99%94-%EA%B8%B0%EB%B2%95-ECB-CBC-CFB-OFB-CTR-%EB%AA%A8%EB%93%9C" id="670">
+      <title>[암호학] 현대 대칭키 암호를 이용한 암호화 기법 - ECB, CBC, CFB, OFB, CTR 모드</title>
+    </bookmark>
+    <bookmark href="https://yjshin.tistory.com/entry/%EC%95%94%ED%98%B8%ED%95%99-%EA%B8%B0%ED%83%80-%EB%8C%80%EC%B9%AD%ED%82%A4-%EC%95%94%ED%98%B8-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-IDEA-RC5-SEED-ARIA-HIGHT-LEA" id="671">
+      <title>[암호학] 기타 대칭키 암호 알고리즘 - IDEA, RC5, SEED, ARIA, HIGHT, LEA</title>
+    </bookmark>
+    <bookmark href="https://seed.kisa.or.kr/kisa/kcmvp/EgovSummary.do" id="672">
+      <title>KISA 암호이용활성화 - 암호모듈검증 - 개요</title>
+    </bookmark>
+    <bookmark href="https://yeti.tistory.com/276" id="673">
+      <title>인증 서비스에 필요한 암복호화 지식</title>
+    </bookmark>
+    <bookmark href="http://egloos.zum.com/dialup/v/170497" id="675">
+      <title>그린세상님의 이글루</title>
+    </bookmark>
+  </folder>
+  <folder id="676">
+    <title>면접</title>
+    <bookmark href="https://nhnent.dooray.com/project/1935916884640352789/2418171782950386202" id="677">
+      <title>#(채용)플랫폼개발자채용/48 | Java 플랫폼 개발자 면접 문제 : NHN : Dooray!</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://nhnent.dooray.com/share/pages/TE6x20aTTyuQxuZeygM77Q/3829229842059047881" id="678">
+    <title>NHN Private 개요</title>
+  </bookmark>
+  <bookmark href="https://nhnent.dooray.com/share/pages/NqFQ2jioTWuJ8Q9HaxMH8w/3880696725012380075" id="679">
+    <title>NHN Private Managed (CMI) 인스턴스 요청</title>
+  </bookmark>
+  <bookmark href="https://nhnent.dooray.com/share/posts/jkmyLcpgQIiqWV8A3jCwrQ" id="680">
+    <title>네트웍 장애 대비 IDC 이중화 전략 제안</title>
+  </bookmark>
+  <bookmark href="http://nwiki.nhnent.com/pages/viewpage.action?pageId=24117456" id="681">
+    <title>호스트네임 명명 규칙 - Tech Hub - NHN</title>
+  </bookmark>
+  <bookmark href="https://dbip2.nhnent.com/index.nhn" id="682">
+    <title>DBIP2</title>
+  </bookmark>
+  <bookmark href="http://idms.nhnent.com/" id="683">
+    <title>IDMS</title>
+  </bookmark>
+  <bookmark href="https://tips.nhnent.com/ticketSearch/mydocument/assigned" id="684">
+    <title>TIPS :: 처리할 문서</title>
+  </bookmark>
+  <bookmark href="https://esm.nhnent.com/esm/view" id="685">
+    <title>ESM</title>
+  </bookmark>
+  <bookmark href="https://better.nhn.com/" id="686">
+    <title>Better PLUS.</title>
+  </bookmark>
+  <bookmark href="https://github.nhnent.com/pages/TOASTCloud/nhn-cloud-ui/latest/tutorial/introduction" id="687">
+    <title>튜토리얼 – NHN Cloud UI</title>
+  </bookmark>
+  <bookmark href="https://nhn.dkyobobook.co.kr/main.ink" id="688">
+    <title>NHN 라이브러리 딥</title>
+  </bookmark>
+  <bookmark href="http://cgw-init.toastmaker.net:4440/login/?next=/" id="689">
+    <title>Hcon GW login</title>
+  </bookmark>
+  <bookmark href="https://poalim.tistory.com/47" id="690">
+    <title>[Linux] telnet 비활성화 시 telnet 사용하기 Tip(feat. curl) :: poArlim</title>
+  </bookmark>
+  <bookmark href="https://sap.nhnecorp.com/" id="691">
+    <title>Secure Access Point</title>
+  </bookmark>
+  <bookmark href="https://vdi-portal.nhn.com:2443/site/login.html" id="692">
+    <title>DaaSXpert Infra. User Portal</title>
+  </bookmark>
+  <bookmark href="https://whatsup.nhnent.com/cl/board/viewByMeta/628/313453?SPOT_TYPE=NOT_USE_RIGHT_MENU&amp;_useExternalNetwork=TRUE&amp;_ssoType=real&amp;_harmonyUrl=https%3A%2F%2Fnharmony.nhnent.com&amp;_requestMainDomain=nhnent.com&amp;_dynamicStaticURL=https%3A%2F%2Fstatic.nhnent.com&amp;_defaultSystem=nhnent.com&amp;_defaultSystemTitle=WhatsUP" id="693">
+    <title>WhatsUP</title>
+  </bookmark>
+  <bookmark href="https://nhnent.dooray.com/task/2183844546269048715/3868834821901217761" id="694">
+    <title>#배포플랫폼개발팀/753 | ADC 이전 점검 : NHN : Dooray!</title>
+  </bookmark>
+  <bookmark href="https://nhnent.dooray.com/share/pages/g4nrU9dHT3-o7rUGoxJ5Lw/3946560327306525366" id="695">
+    <title>vmware Fusion, Workstation 설치 가이드</title>
+  </bookmark>
+  <bookmark href="https://nhnent.dooray.com/share/pages/g4nrU9dHT3-o7rUGoxJ5Lw" id="696">
+    <title>공공, NCGN 긴급 접속 SAP 사용 가이드</title>
+  </bookmark>
+</folder>
+<folder id="2">
+  <title>개발</title>
+  <bookmark href="https://roadmap.sh/backend" id="23">
+    <title>Backend Developer Roadmap: What is Backend Development?</title>
+  </bookmark>
+  <bookmark href="http://mockito.googlecode.com/svn/branches/1.5/javadoc/org/mockito/Mockito.html" id="24">
+    <title>Mockito 매뉴얼</title>
+  </bookmark>
+  <bookmark href="https://datatables.net/examples/data_sources/ajax.html" id="25">
+    <title>DataTables example - Ajax sourced data</title>
+  </bookmark>
+  <bookmark href="https://zamezzz.tistory.com/310" id="26">
+    <title>배워가는블로거 :: [JavaScript #11] dataTables 사용하기 (2)</title>
+  </bookmark>
+  <bookmark href="http://projectlombok.org/features/" id="27">
+    <title>Lombok feature overview</title>
+  </bookmark>
+  <bookmark href="https://www.webjars.org/" id="28">
+    <title>WebJars - Web Libraries in Jars</title>
+  </bookmark>
+  <bookmark href="http://mythfeal.blog.me/130155518542" id="29">
+    <title>java암호화php복호화</title>
+  </bookmark>
+  <bookmark href="http://awakens.tistory.com/13" id="30">
+    <title>Stay Away  [팁] Mysql 테이블 데이터 암호화 비법들</title>
+  </bookmark>
+  <bookmark href="http://www.w3schools.com/" id="31">
+    <title>W3Schools Online Web Tutorials</title>
+  </bookmark>
+  <bookmark href="http://viralpatel.net/blogs/hibernate-one-to-many-annotation-tutorial/" id="32">
+    <title>Hibernate One To Many Annotation tutorial</title>
+  </bookmark>
+  <bookmark href="https://lyb1495.tistory.com/110" id="315">
+    <title>helloworld :: MyBatis를 ORM 처럼 사용하기</title>
+  </bookmark>
+  <bookmark href="https://kr.vuejs.org/v2/guide/comparison.html" id="316">
+    <title>다른 프레임워크와의 비교 — Vue.js</title>
+  </bookmark>
+  <bookmark href="http://javacan.tistory.com/entry/133" id="317">
+    <title>EHCache를 이용한 캐시 구현</title>
+  </bookmark>
+  <bookmark href="https://javacan.tistory.com/entry/k8s-install-in-centos7" id="318">
+    <title>Centos 7에 kubeadm을 이용해서 쿠버네티스 (1.13 기준) 설치하기 :: 자바캔(Java Can Do IT)</title>
+  </bookmark>
+  <bookmark href="https://javacan.tistory.com/entry/simple-distributed-lock-using-db" id="319">
+    <title>DB를 이용한 간단한 분산 락 구현 :: 자바캔(Java Can Do IT)</title>
+  </bookmark>
+  <bookmark href="http://www.mimul.com/pebble/default/2010/01/17/1263724020000.html" id="320">
+    <title>Tomcat 성능 향상 방법들 - Mimul&apos;s Developer World</title>
+  </bookmark>
+  <bookmark href="http://bonsaiden.github.io/JavaScript-Garden/" id="321">
+    <title>JavaScript Garden</title>
+  </bookmark>
+  <bookmark href="http://frontend.diffthink.kr/2016/06/blog-post.html" id="322">
+    <title>(BOOK) 4. 자바스크립트 패턴 - 객체 생성 패턴 - Frontend Development - Different</title>
+  </bookmark>
+  <bookmark href="http://ohgyun.com/179" id="323">
+    <title>Javascript 동적으로 Import 하기</title>
+  </bookmark>
+  <bookmark href="http://tjjava.blogspot.kr/2012/03/https.html" id="324">
+    <title>Java 팁 HTTPS 통신</title>
+  </bookmark>
+  <bookmark href="http://www.apachetutor.org/apps/reverseproxies" id="533">
+    <title>Running a Reverse Proxy with Apache:</title>
+  </bookmark>
+  <bookmark href="https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&amp;blogId=tommybee&amp;logNo=220980139211" id="534">
+    <title>[Apache]리버스 프록시 하에서 클라이언트 인증서 인증을 수행하는 트릭들 : 네이버 블로그</title>
+  </bookmark>
+  <bookmark href="http://www.zeitoun.net/articles/client-certificate-x509-authentication-behind-reverse-proxy/start" id="535">
+    <title>리버스 프록시 뒤에서 클라이언트 인증서 인증을 수행하는 요령</title>
+  </bookmark>
+</folder>
+<folder id="3">
+  <title>개발도구</title>
+  <bookmark href="https://jsonformatter.org/" id="33">
+    <title>Best JSON Formatter and JSON Validator: Online JSON Formatter</title>
+  </bookmark>
+  <bookmark href="http://jsondiff.com/" id="34">
+    <title>JSON Diff - The semantic JSON compare tool</title>
+  </bookmark>
+  <bookmark href="https://convert-properties-json.small-online-tools.work/" id="35">
+    <title>Online JSON to properties converter</title>
+  </bookmark>
+  <bookmark href="https://www.ssllabs.com/ssltest/analyze.html?d=api-keymanager.nhncloudservice.com" id="36">
+    <title>SSL Server Test: api-keymanager.nhncloudservice.com (Powered by Qualys SSL Labs)</title>
+  </bookmark>
+  <bookmark href="https://www.diffchecker.com/" id="37">
+    <title>Diffchecker - Compare text online to find the difference between two text files</title>
+  </bookmark>
+  <bookmark href="https://crontab.guru/" id="38">
+    <title>Crontab.guru - The cron schedule expression editor</title>
+  </bookmark>
+  <bookmark href="https://codebeautify.org/hex-string-converter" id="39">
+    <title>Hex to String Converter Online to Convert Hex to Text</title>
+  </bookmark>
+  <bookmark href="https://www.base64decode.org/" id="40">
+    <title>Base64 Decode and Encode - Online</title>
+  </bookmark>
+  <bookmark href="http://www.opinionatedgeek.com/DotNet/Tools/Base64Encode/default.aspx" id="41">
+    <title>Base 64 Encoder</title>
+  </bookmark>
+  <bookmark href="http://www.dpriver.com/pp/sqlformat.htm" id="42">
+    <title>Instant SQL Formatter</title>
+  </bookmark>
+  <bookmark href="https://excalidraw.com/" id="325">
+    <title>Excalidraw</title>
+  </bookmark>
+  <bookmark href="https://dbdiagram.io/home" id="326">
+    <title>dbdiagram.io - Database Relationship Diagrams Design Tool</title>
+  </bookmark>
+  <bookmark href="https://mermaid.live/edit#pako:eNplUstum0AU_ZXRrB3bQIiBRaUYJ3akSK2cXaGKqBnbSAasyaA-LC-s0EW7aasqfQmkVIq6qLpIWqdi0S8y43_ocAlumorFPdzHuedcmOFB6BJs4OEkfDIYO5Shw74dILRr9cOQIXMX8dOUx1ePimTbOggYoT5xPYcRZB71b1fNaoR_eMPjBP3fGyf5txfQ27nDRCjzht6gwAf-NKQMuvYss3-IGui-efQAra6_V5v2xaYJQfm7q_xLCpmuVZD_iBvrxTJPf_N0yd9n61cZ4mnGv6aFnPwyWWUvobtn_U3z0wWPM7T-dCZyRRXco62te6gNngVENgb95wn_ldgYiiZYLov84u3qMoZjVbw3XR0wC3APlAPsgmSAPTuwg5Po8Yg607FgOF79jHl2bW0OL3S_Fpe74OdnoF2IK0O7DGYZOmWAJSRwb3GWvo_55yX_uLDu3qNR5m-o98vQLUNvQwZeK21CtxD-Dy2u4RH1XGwwGpEa9sWXdYpXPCsmbczGxCc2NgR0ydCJJszGdjAXY1MneBiGfjVJw2g0xsbQmZyIt2jqij-i4znCib_JUiGJUDOMAoYNVdeBBBsz_BQbsqTVVUlrKbK6rQqwU8PPRJNUVxRJl1RdVppyS9me1_Bz2Nqsazu6LJ5mS9OUltrS5n8AOkox9g" id="327">
+    <title>Online FlowChart &amp; Diagrams Editor - Mermaid Live Editor</title>
+  </bookmark>
+  <bookmark href="https://app.diagrams.net/" id="328">
+    <title>제목 없는 다이어그램 - diagrams.net</title>
+  </bookmark>
+  <bookmark href="http://ajaxui.nhndesign.com/tool/beautify.php" id="329">
+    <title>JS Beautify</title>
+  </bookmark>
+  <bookmark href="https://www.charlesproxy.com/buy/" id="330">
+    <title>Buy Charles Licenses • Charles Web Debugging Proxy</title>
+  </bookmark>
+  <bookmark href="http://html-color-codes.info/" id="331">
+    <title>Html Color Codes</title>
+  </bookmark>
+  <bookmark href="http://gskinner.com/RegExr/" id="332">
+    <title>정규식 테스트</title>
+  </bookmark>
+  <bookmark href="http://jsfiddle.net/C9Xcp/5/" id="333">
+    <title>Edit this Fiddle - jsFiddle</title>
+  </bookmark>
+  <bookmark href="http://csslint.net/#warnings=unique-headings" id="334">
+    <title>CSS Lint(오류검사)</title>
+  </bookmark>
+  <bookmark href="http://detectmobilebrowsers.com/" id="536">
+    <title>Detect Mobile Browsers</title>
+  </bookmark>
+  <bookmark href="http://hwangmin84.tistory.com/21" id="537">
+    <title>JMeter 사용법</title>
+  </bookmark>
+  <bookmark href="http://coderstoolbox.net/string/#!encoding=xml&amp;action=encode&amp;charset=us_ascii" id="538">
+    <title>Online XML entity encoder</title>
+  </bookmark>
+  <bookmark href="http://nuridol.net/if_convert.html" id="539">
+    <title>NuRi&apos;s Tools - iframe 변환기</title>
+  </bookmark>
+  <bookmark href="http://bootstrapk.com/BS3/" id="540">
+    <title>부트스트랩</title>
+  </bookmark>
+  <bookmark href="http://bootswatch.com/" id="541">
+    <title>부트스트랩테마</title>
+  </bookmark>
+  <bookmark href="http://explainshell.com/explain?cmd=tail+-q+-n+%2B2+test.log+%7C+grep+--color%3Dalways+start" id="542">
+    <title>explainshell.com</title>
+  </bookmark>
+  <bookmark href="https://codebeautify.org/base64-to-image-converter" id="543">
+    <title>Best Online Base64 to Image converter</title>
+  </bookmark>
+  <bookmark href="https://techiedelight.com/compiler/" id="544">
+    <title>Online Compiler - Techie Delight</title>
+  </bookmark>
+  <bookmark href="http://ideone.com/" id="545">
+    <title>Ideone.com - Online Compiler and IDE &gt;&gt; C/C++, Java, PHP, Python, Perl and 40+ other compilers and interpreters</title>
+  </bookmark>
+  <bookmark href="http://codepad.org/" id="620">
+    <title>codepad</title>
+  </bookmark>
+</folder>
+<folder id="4">
+  <title>개발언어</title>
+  <folder id="43">
+    <title>d3.js</title>
+    <bookmark href="https://naver.github.io/billboard.js/" id="163">
+      <title>billboard.js</title>
+    </bookmark>
+    <bookmark href="https://naver.github.io/billboard.js/demo/#Axis.CategoryAxis" id="164">
+      <title>billboard.js - examples</title>
+    </bookmark>
+    <bookmark href="http://mobicon.tistory.com/275" id="165">
+      <title>모바일 컨버전스  [D3.js] 배우는 방법</title>
+    </bookmark>
+    <bookmark href="http://www.weplr.com/%eb%b9%85%eb%8d%b0%ec%9d%b4%ed%83%80-%ec%b2%98%eb%a6%ac%ea%b8%b0%ec%88%a0/d3-js%ec%9e%90%eb%b0%94%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8-%ea%b8%b0%eb%b0%98%ec%9d%98-%eb%8d%b0%ec%9d%b4%ed%83%80-%ec%8b%9c%ea%b0%81%ed%99%94-fw/" id="166">
+      <title>D3.js 자바스크립트 기반의 데이타 시각화 프레임워크</title>
+    </bookmark>
+    <bookmark href="https://github.com/zziuni/d3/wiki" id="167">
+      <title>d3 Wiki · GitHub</title>
+    </bookmark>
+    <bookmark href="https://www.dashingd3js.com/using-the-svg-coordinate-space" id="168">
+      <title>Using the SVG Coordinate Space  DashingD3js.com</title>
+    </bookmark>
+    <bookmark href="http://wikin.navercorp.com/display/lspsd/D3.js" id="169">
+      <title>D3.js - 웹서비스개발실 - 위즐</title>
+    </bookmark>
+    <bookmark href="http://bl.ocks.org/mbostock" id="170">
+      <title>bl.ocks.org - mbostock</title>
+    </bookmark>
+  </folder>
+  <folder id="44">
+    <title>kotlin</title>
+    <bookmark href="https://cjw-awdsd.tistory.com/20" id="171">
+      <title>[Kotlin] 코틀린 문법 총정리</title>
+    </bookmark>
+  </folder>
+  <folder id="45">
+    <title>python</title>
+    <bookmark href="https://docs.python.org/ko/3.9/library/functions.html" id="172">
+      <title>내장 함수 — Python 3.9.5 문서</title>
+    </bookmark>
+    <bookmark href="https://docs.python.org/3/py-modindex.html" id="173">
+      <title>Python Module Index — Python 3.9.5 documentation</title>
+    </bookmark>
+    <bookmark href="http://pydev.org/manual_adv_complctx.html" id="174">
+      <title>Python-PyDev</title>
+    </bookmark>
+    <bookmark href="https://scshim.tistory.com/602" id="175">
+      <title>pyenv란? pyenv 사용하기</title>
+    </bookmark>
+    <bookmark href="https://bentist.tistory.com/53" id="176">
+      <title>파이썬 여러 버전으로 가상 환경 설치하기(windows)</title>
+    </bookmark>
+    <bookmark href="https://software-development.tistory.com/4" id="177">
+      <title>맥에서 python, pip 버전 변경하기</title>
+    </bookmark>
+    <bookmark href="https://seorenn.tistory.com/769" id="178">
+      <title>uv - Python의 대안 패키지 및 프로젝트 관리자</title>
+    </bookmark>
+    <bookmark href="https://astral.sh/blog/uv" id="179">
+      <title>uv: Python packaging in Rust</title>
+    </bookmark>
+  </folder>
+  <folder id="46">
+    <title>java</title>
+    <bookmark href="https://mainmethod0126.github.io/java/Analyzing-JAVA-Memory-Leak-Issues" id="180">
+      <title>java 프로세스 메모리가 계속 증가한다..! 메모리 누수일까? - 신우섭의 도서관 v2</title>
+    </bookmark>
+    <bookmark href="https://codechacha.com/ko/java-completable-future/" id="181">
+      <title>Java - CompletableFuture 사용 방법</title>
+    </bookmark>
+    <bookmark href="https://homoefficio.github.io/2019/10/03/Java-Optional-%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%93%B0%EA%B8%B0/" id="182">
+      <title>Java Optional 바르게 쓰기 - 뒤태지존의 끄적거림</title>
+    </bookmark>
+    <bookmark href="https://velog.io/@jjang9b/JAVA-MapStruct" id="183">
+      <title>[JAVA] MapStruct</title>
+    </bookmark>
+    <bookmark href="http://andang72.blogspot.com/search/label/SSE" id="184">
+      <title>한국에서 SW 개발자로 산다는것: SSE</title>
+    </bookmark>
+    <folder id="185">
+      <title>newFeature</title>
+      <bookmark href="https://www.baeldung.com/java-8-new-features" id="335">
+        <title>New Features in Java 8 | Baeldung</title>
+      </bookmark>
+      <bookmark href="https://okky.kr/article/802815" id="336">
+        <title>OKKY - Java8 이후 변경사항 정리( jdk 9 ~ 13 )</title>
+      </bookmark>
+      <bookmark href="https://www.baeldung.com/new-java-9" id="337">
+        <title>New Features in Java 9 | Baeldung</title>
+      </bookmark>
+      <bookmark href="https://parkcheolu.tistory.com/173?category=784687" id="338">
+        <title>Java 10 간략히 정리 :: 박철우의 블로그</title>
+      </bookmark>
+      <bookmark href="https://parkcheolu.tistory.com/174?category=784687" id="339">
+        <title>Java 11 간략히 정리 :: 박철우의 블로그</title>
+      </bookmark>
+      <bookmark href="https://parkcheolu.tistory.com/175?category=784687" id="340">
+        <title>Java 12 간략히 정리 :: 박철우의 블로그</title>
+      </bookmark>
+      <bookmark href="https://parkcheolu.tistory.com/176?category=784687" id="341">
+        <title>Java 13 간략히 정리 :: 박철우의 블로그</title>
+      </bookmark>
+      <bookmark href="https://parkcheolu.tistory.com/177?category=784687" id="342">
+        <title>Java 14 간략히 정리 :: 박철우의 블로그</title>
+      </bookmark>
+      <bookmark href="https://www.baeldung.com/java-15-new" id="343">
+        <title>What’s New in Java 15 | Baeldung</title>
+      </bookmark>
+      <bookmark href="https://www.baeldung.com/java-16-new-features" id="344">
+        <title>New Features in Java 16 | Baeldung</title>
+      </bookmark>
+      <bookmark href="https://velog.io/@hsh111366/Java-Java-25-LTS-%EB%B2%84%EC%A0%84%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90" id="546">
+        <title>[Java] Java 25 LTS 버전에 대해 알아보자</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://supawer0728.github.io/2018/03/15/spring-http-stereamings/" id="186">
+      <title>Spring5에서 HTTP Streaming | 기록은 재산이다</title>
+    </bookmark>
+    <bookmark href="https://golb.hplar.ch/2017/03/Server-Sent-Events-with-Spring.html" id="187">
+      <title>Server-Sent Events with Spring</title>
+    </bookmark>
+    <bookmark href="https://daddyprogrammer.org/post/3688/redis-spring-data-redis-publish-subscribe/" id="188">
+      <title>Redis – spring-data-redis : 발행/구독(pub/sub) 모델의 구현</title>
+    </bookmark>
+    <bookmark href="https://www.baeldung.com/java-8-streams" id="189">
+      <title>The Java 8 Stream API Tutorial | Baeldung</title>
+    </bookmark>
+    <bookmark href="https://www.baeldung.com/jackson" id="417">
+      <title>Jackson Tutorial | Baeldung</title>
+    </bookmark>
+    <bookmark href="http://www.journaldev.com/1260/collections-in-java-tutorial" id="418">
+      <title>Collections in Java - Tutorial - JournalDev</title>
+    </bookmark>
+    <bookmark href="https://tourspace.tistory.com/3?category=788398" id="419">
+      <title>투덜이의 리얼 블로그 :: Java 8 Lambda Expression - 람다식 #1</title>
+    </bookmark>
+    <bookmark href="http://tjjava.blogspot.kr/2012/03/https.html" id="420">
+      <title>Java 팁 HTTPS 통신</title>
+    </bookmark>
+    <bookmark href="http://www.oracle.com/technetwork/java/javase/archive-139210.html" id="421">
+      <title>Oracle Java Archive | Oracle Technology Network | Oracle</title>
+    </bookmark>
+    <bookmark href="https://metebalci.com/blog/everything-about-javas-securerandom/" id="422">
+      <title>Everything about Java&apos;s SecureRandom</title>
+    </bookmark>
+    <bookmark href="https://www.exoscale.com/syslog/random-numbers-generation-in-virtual-machines/" id="423">
+      <title>Entropy and Random Number Generation on Virtual M…</title>
+    </bookmark>
+    <bookmark href="https://mangkyu.tistory.com/308" id="424">
+      <title>[Java] Java 21에 추가될 새로운 기능들(Java 21 Features) - MangKyu&apos;s Diary</title>
+    </bookmark>
+    <bookmark href="https://mangkyu.tistory.com/309" id="425">
+      <title>[Java] 기존 자바 스레드 모델의 한계와 자바 21의 가상 스레드(Virtual Thread)의 도입 - MangKyu&apos;s Diary</title>
+    </bookmark>
+  </folder>
+  <folder id="47">
+    <title>javascript</title>
+    <bookmark href="https://www.daleseo.com/js-module-require/" id="190">
+      <title>자바스크립트 CommonJS 모듈 내보내기/불러오기 (require) | DaleSeo</title>
+    </bookmark>
+    <bookmark href="https://www.daleseo.com/js-module-import/" id="191">
+      <title>자바스크립트 ES6 모듈 내보내기/불러오기 (import) | DaleSeo</title>
+    </bookmark>
+    <bookmark href="http://bonsaiden.github.io/JavaScript-Garden/" id="192">
+      <title>JavaScript Garden</title>
+    </bookmark>
+    <bookmark href="http://ohgyun.com/179" id="193">
+      <title>Javascript 동적으로 Import 하기</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="5">
+  <title>프레임워크</title>
+  <folder id="48">
+    <title>spring</title>
+    <bookmark href="https://jaime-note.tistory.com/371" id="194">
+      <title>스프링 부트 설정 파일 우선 순위</title>
+    </bookmark>
+    <bookmark href="https://luvstudy.tistory.com/150" id="195">
+      <title>Spring Boot에서 Resilience4j 사용해보기</title>
+    </bookmark>
+    <bookmark href="https://mangkyu.tistory.com/317" id="196">
+      <title>[Spring] 가상 스레드(Virtual Thread)를 지원하기 위한 스프링의 작업들과 마이그레이션 시의 주의 사항 - MangKyu&apos;s Diary</title>
+    </bookmark>
+    <bookmark href="https://mangkyu.tistory.com/250" id="197">
+      <title>[Spring] @RequestBody에 ArgumentResolver(아규먼트 리졸버)가 동작하지 않는 이유, RequestBodyAdvice로 @RequestBody에 부가 기능 구현하기 - MangKyu&apos;s Diary</title>
+    </bookmark>
+    <bookmark href="https://mangkyu.tistory.com/256" id="198">
+      <title>[Spring] RestTemplate 타임아웃(Timeout), 재시도(Retry), 로깅(Logging) 등 설정하기 - MangKyu&apos;s Diary</title>
+    </bookmark>
+    <bookmark href="https://godekdls.github.io/Spring%20Batch/contents/" id="199">
+      <title>Contents | 토리맘의 한글라이즈 프로젝트</title>
+    </bookmark>
+    <bookmark href="https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0-Migration-Guide" id="200">
+      <title>Spring Boot 2.0 Migration Guide · spring-projects/spring-boot Wiki</title>
+    </bookmark>
+    <bookmark href="http://docs.spring.io/spring-security/site/docs/3.2.7.RELEASE/reference/htmlsingle/#jc-method" id="201">
+      <title>Spring Security Reference</title>
+    </bookmark>
+    <bookmark href="https://javacan.tistory.com/entry/Bean-Validation-2-Spring-5-valiidatiion" id="202">
+      <title>Spring 5에서 Bean Validation 2.0 애노테이션으로 검증하기 :: 자바캔(Java Can Do IT)</title>
+    </bookmark>
+    <folder id="203">
+      <title>monitoring</title>
+      <bookmark href="https://gunju-ko.github.io/spring/2018/12/19/SpringMircometer.html" id="345">
+        <title>Spring Boot Actuator - 마이크로미터 지원</title>
+      </bookmark>
+      <bookmark href="https://docs.spring.io/spring-metrics/docs/current/public/prometheus" id="346">
+        <title>Spring Metrics</title>
+      </bookmark>
+      <bookmark href="https://jongmin92.github.io/2019/12/04/Spring/prometheus/" id="347">
+        <title>SpringBoot Application의 monitoring 시스템 구축하기 - 92Hz</title>
+      </bookmark>
+      <bookmark href="https://stackoverflow.com/questions/36587023/how-to-debug-log-tomcat-jdbc-connection-pools-connections" id="348">
+        <title>debugging - How to Debug / Log Tomcat JDBC Connection Pool&apos;s connections? - Stack Overflow</title>
+      </bookmark>
+      <bookmark href="https://velog.io/@max9106/Spring-Boot-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EC%9A%B4%EC%98%81" id="349">
+        <title>[Spring Boot] 스프링 부트 운영</title>
+      </bookmark>
+      <bookmark href="https://www.baeldung.com/spring-boot-admin" id="350">
+        <title>A Guide to Spring Boot Admin | Baeldung</title>
+      </bookmark>
+      <bookmark href="https://www.baeldung.com/spring-boot-health-indicators" id="351">
+        <title>Health Indicators in Spring Boot | Baeldung</title>
+      </bookmark>
+    </folder>
+    <folder id="426">
+      <title>test</title>
+      <bookmark href="https://javacan.tistory.com/entry/spring-boot-2-junit-5?category=454313" id="547">
+        <title>Spring Boot 2와 JUnit 5 사용 :: 자바캔(Java Can Do IT)</title>
+      </bookmark>
+      <bookmark href="https://cheese10yun.github.io/spring-boot-test/" id="548">
+        <title>Spring Boot Test - Yun Blog | 기술 블로그</title>
+      </bookmark>
+      <bookmark href="http://mybatis.org/spring-boot-starter/mybatis-spring-boot-test-autoconfigure/" id="549">
+        <title>mybatis-spring-boot-test-autoconfigure – Introduction</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://javacan.tistory.com/entry/spring-boot-2-hikaricp-property" id="427">
+      <title>스프링 부트 2.0 HikariCP 프로퍼티 설정 :: 자바캔(Java Can Do IT)</title>
+    </bookmark>
+    <bookmark href="https://javacan.tistory.com/entry/term-sync-async-block-nonblock-concurrency-parallelism" id="428">
+      <title>용어: 동기, 비동기, 블록, 논블록, 병행, 병렬 :: 자바캔(Java Can Do IT)</title>
+    </bookmark>
+    <bookmark href="https://homoefficio.github.io/2017/02/19/Blocking-NonBlocking-Synchronous-Asynchronous/" id="429">
+      <title>Blocking-NonBlocking-Synchronous-Asynchronous - 뒤태지존의 끄적거림</title>
+    </bookmark>
+    <bookmark href="https://javacan.tistory.com/entry/spring-boot-custom-thymeleaf-expression-object" id="430">
+      <title>스프링 부트 타임리프 커스텀 식 객체 구현 :: 자바캔(Java Can Do IT)</title>
+    </bookmark>
+    <bookmark href="https://javacan.tistory.com/entry/spring-boot-20-excel-download" id="431">
+      <title>스프링 부트 2.0 엑셀 다운로드 구현 :: 자바캔(Java Can Do IT)</title>
+    </bookmark>
+    <bookmark href="https://eblo.tistory.com/57" id="432">
+      <title>spring boot - Thymeleaf 화면 구성(Layout)</title>
+    </bookmark>
+    <bookmark href="https://www.whiteship.me/spring-boot-external-config/" id="433">
+      <title>스프링 부트, 외부 설정 파일 우선 순위</title>
+    </bookmark>
+    <bookmark href="https://joswlv.github.io/2019/01/03/Apache_SpringBoot/" id="434">
+      <title>Apache-SpringBoot 연동(ajp)</title>
+    </bookmark>
+    <bookmark href="https://domdom.tistory.com/488" id="581">
+      <title>[spring boot] 내장톰캣 ajp 설정하기</title>
+    </bookmark>
+    <bookmark href="https://mangkyu.tistory.com/266" id="582">
+      <title>[Spring] 멀티쓰레드 환경에서 MDC를 사용해 요청 별로 식별가능한 로그 남기기 - MangKyu&apos;s Diary</title>
+    </bookmark>
+    <bookmark href="https://jsonobject.tistory.com/630" id="583">
+      <title>Spring Boot, Hazelcast, 분산 캐시 구현하기</title>
+    </bookmark>
+  </folder>
+  <folder id="49">
+    <title>spring batch</title>
+    <bookmark href="https://docs.spring.io/spring-batch/docs/current/reference/html/index.html" id="204">
+      <title>Spring Batch - Reference Documentation</title>
+    </bookmark>
+    <bookmark href="https://khj93.tistory.com/entry/Spring-Batch%EB%9E%80-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0" id="205">
+      <title>Spring Batch란? 이해하고 사용하기(예제소스 포함) :: 히진쓰의 서버사이드 기술 블로그</title>
+    </bookmark>
+    <bookmark href="http://www.mkyong.com/tutorials/spring-batch-tutorial/" id="206">
+      <title>Spring Batch Tutorial</title>
+    </bookmark>
+    <bookmark href="http://www.rcy.co.kr/xeb/study/1439" id="207">
+      <title>Study  배움터 - 스프링 배치[Spring batch]</title>
+    </bookmark>
+  </folder>
+  <folder id="50">
+    <title>spring webflux</title>
+    <bookmark href="https://tacogrammer.com/clean-reactive-code/" id="208">
+      <title>클린 (리액티브) 코드 - Tacogrammer</title>
+    </bookmark>
+    <bookmark href="https://luvstudy.tistory.com/100" id="209">
+      <title>Reactor 언제 어떤 Operator를 써야 할까?</title>
+    </bookmark>
+    <bookmark href="https://velog.io/@zenon8485/Reactor-Java-1.-Mono%EC%99%80-Flux%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95" id="210">
+      <title>Reactor Java 1. Mono와 Flux를 생성하는 방법</title>
+    </bookmark>
+    <bookmark href="https://da-nyee.github.io/posts/spring-rest-api-documentation-with-swagger-3.0-in-spring-webflux/" id="211">
+      <title>[Spring] Spring WebFlux + Swagger 3.0 적용 | da-nyee</title>
+    </bookmark>
+    <bookmark href="https://itstory.tk/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/Spring" id="212">
+      <title>&apos;프로그래밍/Spring&apos; 카테고리의 글 목록</title>
+    </bookmark>
+    <bookmark href="https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/web-reactive.html#webflux-client" id="213">
+      <title>Web on Reactive Stack</title>
+    </bookmark>
+    <bookmark href="https://javacan.tistory.com/category/Reactive" id="214">
+      <title>&apos;Reactive&apos; 카테고리의 글 목록 :: 자바캔(Java Can Do IT)</title>
+    </bookmark>
+    <bookmark href="https://howtodoinjava.com/spring-webflux/spring-webflux-tutorial/" id="215">
+      <title>Spring WebFlux Tutorial - Spring Boot WebFlux Example - HowToDoInJava</title>
+    </bookmark>
+    <bookmark href="https://www.callicoder.com/spring-5-reactive-webclient-webtestclient-examples/" id="216">
+      <title>Spring 5 WebClient and WebTestClient Tutorial with Examples | CalliCoder</title>
+    </bookmark>
+    <bookmark href="https://godekdls.github.io/Reactive%20Spring/springwebflux/" id="217">
+      <title>Spring WebFlux (1) | 토리맘의 한글라이즈 프로젝트</title>
+    </bookmark>
+    <bookmark href="https://godekdls.github.io/Reactor%20Core/reactorcorefeatures/" id="435">
+      <title>Reactor Core Features | 토리맘의 한글라이즈 프로젝트</title>
+    </bookmark>
+    <bookmark href="https://godekdls.github.io/Reactor%20Core/debuggingreactor/" id="436">
+      <title>Debugging Reactor | 토리맘의 한글라이즈 프로젝트</title>
+    </bookmark>
+    <bookmark href="https://projectreactor.io/docs/core/release/reference/#faq.wrap-blocking" id="437">
+      <title>Reactor 3 Reference Guide</title>
+    </bookmark>
+    <bookmark href="https://www.baeldung.com/spring-data-redis-reactive" id="438">
+      <title>An Introduction to Spring Data Redis Reactive | Baeldung</title>
+    </bookmark>
+    <bookmark href="https://www.baeldung.com/spring-5-webclient" id="439">
+      <title>Spring 5 WebClient | Baeldung</title>
+    </bookmark>
+    <bookmark href="https://www.baeldung.com/spring-webflux" id="440">
+      <title>Guide to Spring 5 WebFlux | Baeldung</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/54840630/correct-pattern-to-insert-or-update-existed-entity-with-spring-data-reactive" id="441">
+      <title>Correct pattern to insert or update existed entity with spring data reactive - Stack Overflow</title>
+    </bookmark>
+  </folder>
+  <folder id="51">
+    <title>vertx</title>
+    <bookmark href="https://oss.navercorp.com/webdev/standby/wiki" id="218">
+      <title>Home · webdev/standby Wiki</title>
+    </bookmark>
+    <bookmark href="https://oss.navercorp.com/webdev/standby" id="219">
+      <title>webdev/standby</title>
+    </bookmark>
+    <bookmark href="https://vertx.io/docs/vertx-web/java/" id="220">
+      <title>Vert.x-Web - Vert.x</title>
+    </bookmark>
+    <bookmark href="https://vertx.io/docs/vertx-redis-client/java/" id="221">
+      <title>Vert.x-redis - Vert.x</title>
+    </bookmark>
+    <bookmark href="https://vertx.io/docs/vertx-core/java/" id="222">
+      <title>Vert.x Core Manual - Vert.x</title>
+    </bookmark>
+    <bookmark href="https://github.com/vert-x3/vertx-examples/blob/64d2baebb88c274e18d16fe31ea1ca60c939e250/web-examples/src/main/java/io/vertx/example/web/vertxbus/webpack/client/app/stores/VertxStore.js" id="223">
+      <title>vertx-examples/VertxStore.js at 64d2baebb88c274e18d16fe31ea1ca60c939e250 · vert-x3/vertx-examples</title>
+    </bookmark>
+    <bookmark href="http://bcho.tistory.com/860" id="224">
+      <title>조대협의 블로그 :: 비동기 네트워크 서버 프레임웍 Vert.x 소개</title>
+    </bookmark>
+  </folder>
+  <folder id="52">
+    <title>hadoop</title>
+    <bookmark href="https://hongddo.tistory.com/116" id="225">
+      <title>[Hadoop] Centos7에 하둡 설치하기</title>
+    </bookmark>
+    <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=778217428" id="226">
+      <title>hadoop 설치 시 오류 해결 - 팔월애[ 이정화 ] - WIKI</title>
+    </bookmark>
+    <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=773471247" id="227">
+      <title>실시간 로그 저장 시스템 - 플랫폼개발실 - WIKI</title>
+    </bookmark>
+    <bookmark href="http://www.technocratsid.com/spring-boot-apache-spark/" id="228">
+      <title>Spring Boot + Apache Spark – TechnocratSid Blogs</title>
+    </bookmark>
+    <bookmark href="https://12bme.tistory.com/433?category=682904" id="229">
+      <title>[SPARK] 아파치 스파크란?</title>
+    </bookmark>
+    <bookmark href="https://devidea.tistory.com/61" id="230">
+      <title>[Spring] Hadoop hdfs 파일 업로드</title>
+    </bookmark>
+    <bookmark href="https://docs.spring.io/spring-hadoop/docs/2.5.0.RELEASE/reference/html/springandhadoop.html" id="231">
+      <title>Part II. Spring and Hadoop</title>
+    </bookmark>
+    <bookmark href="https://javadeveloperzone.com/hadoop/java-read-write-files-hdfs-example/" id="232">
+      <title>Java Read &amp; Write files in HDFS Example - Java Developer Zone</title>
+    </bookmark>
+    <bookmark href="https://oingdaddy.tistory.com/308" id="233">
+      <title>Springboot + Kafka 연동하여 pub/sub 구현 예제</title>
+    </bookmark>
+    <bookmark href="https://developpaper.com/hadoop-3-1-3-v-spring-boot-integrated-hdfs-operation/" id="234">
+      <title>Hadoop-3.1. 3 (V) spring boot integrated HDFS operation | Develop Paper</title>
+    </bookmark>
+    <bookmark href="https://hhgg.tistory.com/6" id="442">
+      <title>아파치 스쿱 : 설치 및 수집</title>
+    </bookmark>
+    <bookmark href="https://hongddo.tistory.com/117" id="443">
+      <title>[Spark] Centos7에 Apache Spark 설치하기(+zeppelin)</title>
+    </bookmark>
+    <bookmark href="https://spark.apache.org/docs/latest/sql-data-sources-json.html" id="444">
+      <title>JSON Files - Spark 3.2.1 Documentation</title>
+    </bookmark>
+  </folder>
+  <folder id="53">
+    <title>TensorFlow</title>
+    <bookmark href="https://www.tutorialspoint.com/tensorflow/index.htm" id="235">
+      <title>TensorFlow Tutorial - Tutorialspoint</title>
+    </bookmark>
+    <bookmark href="https://www.tensorflow.org/js/tutorials?hl=ko" id="236">
+      <title>Get Started  |  TensorFlow.js</title>
+    </bookmark>
+    <bookmark href="https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/" id="237">
+      <title>머리말 · 텐서플로우 문서 한글 번역본</title>
+    </bookmark>
+    <bookmark href="https://tykimos.github.io/2017/01/27/Keras_Talk/" id="238">
+      <title>케라스 이야기</title>
+    </bookmark>
+  </folder>
+  <folder id="54">
+    <title>react</title>
+    <bookmark href="https://create-react-app.dev/docs/adding-custom-environment-variables/#docsNav" id="239">
+      <title>Adding Custom Environment Variables</title>
+    </bookmark>
+    <bookmark href="https://velopert.com/3613" id="240">
+      <title>누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌 | VELOPERT.LOG</title>
+    </bookmark>
+    <bookmark href="https://velog.io/@dojunggeun/React-interview-questions-15" id="241">
+      <title>React 인터뷰 대비 질문과 답변 15</title>
+    </bookmark>
+    <bookmark href="https://github.com/facebook/create-react-app/blob/master/CHANGELOG.md" id="242">
+      <title>create-react-app/CHANGELOG.md at master · facebook/create-react-app</title>
+    </bookmark>
+    <bookmark href="https://blog.outsider.ne.kr/1197" id="243">
+      <title>PM2 - Node.js 프로세스 관리 도구 :: Outsider&apos;s Dev Story</title>
+    </bookmark>
+    <bookmark href="https://codechacha.com/ko/deploy-react-with-nginx/" id="244">
+      <title>Nginx로 React를 배포하는 방법 | codechacha</title>
+    </bookmark>
+    <bookmark href="https://www.i18next.com/overview/configuration-options" id="245">
+      <title>Configuration Options - i18next documentation</title>
+    </bookmark>
+    <bookmark href="https://velopert.com/3613" id="246">
+      <title>누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌 | VELOPERT.LOG</title>
+    </bookmark>
+    <bookmark href="https://velopert.com/reactjs-tutorials" id="247">
+      <title>[React.JS] 강좌 목록 | VELOPERT.LOG</title>
+    </bookmark>
+    <bookmark href="https://start.goodtime.co.kr/2018/09/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B0%9C%EB%B0%9C-%EC%85%8B%EC%97%85-2018/" id="248">
+      <title>스프링 부트 + 리액트 개발 셋업 2018</title>
+    </bookmark>
+    <bookmark href="https://github.com/react-in-action/letters-social" id="445">
+      <title>GitHub - react-in-action/letters-social: Sample project for React in Action (https://social.react.sh)</title>
+    </bookmark>
+    <bookmark href="https://velog.io/@yejinh/useCallback%EA%B3%BC-React.Memo%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%B5%9C%EC%A0%81%ED%99%94" id="446">
+      <title>useCallback과 React.Memo을 통한 렌더링 최적화</title>
+    </bookmark>
+    <bookmark href="https://velog.io/@velopert/react-hooks" id="447">
+      <title>리액트의 Hooks 완벽 정복하기</title>
+    </bookmark>
+    <bookmark href="https://velog.io/@favorcho/i18next-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%A7%80%EC%9B%90-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0" id="448">
+      <title>i18next - 다국어 지원 기능 구현하기</title>
+    </bookmark>
+    <bookmark href="https://levelup.gitconnected.com/understanding-react-higher-order-components-by-example-95e8c47c8006" id="449">
+      <title>Understanding React Higher-Order Components by Example</title>
+    </bookmark>
+    <bookmark href="https://ui.toast.com/weekly-pick/ko_20190731/" id="450">
+      <title>React.memo() 현명하게 사용하기 | React.memo() 현명하게 사용하기</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/34836500/how-to-set-up-google-analytics-for-react-router" id="451">
+      <title>reactjs - set up Google Analytics for React</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@FourwingsY/%ED%8C%9D%EC%97%85%EC%99%80-%EB%A9%94%EC%8B%9C%EC%A7%80-with-react-afd1923797d8" id="452">
+      <title>팝업과 메시지 with React</title>
+    </bookmark>
+    <folder id="453">
+      <title>nextjs</title>
+      <bookmark href="https://nextjs.org/learn/" id="550">
+        <title>Learn - Getting Started | Next.js</title>
+      </bookmark>
+      <bookmark href="https://velopert.com/3293" id="551">
+        <title>[Next.js 2.0] 간단한 React 전용 서버사이드 프레임워크, 기초부터 본격적으로 파보기 | VELOPERT.LOG</title>
+      </bookmark>
+      <bookmark href="https://github.com/zeit/next.js/tree/master/examples" id="552">
+        <title>next.js/examples at master · zeit/next.js</title>
+      </bookmark>
+      <bookmark href="https://github.com/isaachinman/next-i18next/blob/master/examples/simple/package.json" id="553">
+        <title>next-i18next/package.json at master · isaachinman/next-i18next</title>
+      </bookmark>
+    </folder>
+    <folder id="454">
+      <title>state관리</title>
+      <bookmark href="https://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html" id="554">
+        <title>React에서 Mobx 경험기 (Redux와 비교기) - 우아한형제들 기술 블로그</title>
+      </bookmark>
+      <bookmark href="https://gracefullight.github.io/2017/12/06/Why-redux-saga/" id="555">
+        <title>왜 리덕스 사가(Redux-saga) 인가? | GracefulLight Blog</title>
+      </bookmark>
+      <bookmark href="http://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html" id="556">
+        <title>React에서 Mobx 경험기 (Redux와 비교기) - 우아한형제들 기술 블로그</title>
+      </bookmark>
+      <bookmark href="https://velog.io/@velopert/MobX-1-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-9sjltans3p" id="557">
+        <title>MobX (1) 시작하기</title>
+      </bookmark>
+      <bookmark href="https://velog.io/@velopert/MobX-3-%EC%8B%AC%ED%99%94%EC%A0%81%EC%9D%B8-%EC%82%AC%EC%9A%A9-%EB%B0%8F-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%B0%A9%EB%B2%95-tnjltay61n" id="558">
+        <title>MobX (3) 심화적인 사용 및 최적화 방법</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://github.com/arackaf/customize-cra/blob/HEAD/api.md" id="584">
+      <title>customize-cra/api.md</title>
+    </bookmark>
+    <bookmark href="https://joshua1988.github.io/web-development/translation/essential-es6-features-for-vuejs/" id="585">
+      <title>Vue.js 개발을 위한 주요 ES6 문법 4가지 • Captain Pangyo</title>
+    </bookmark>
+    <bookmark href="https://github.com/search?utf8=%E2%9C%93&amp;q=springboot+react&amp;type=Repositories&amp;ref=searchresults" id="586">
+      <title>Search · springboot react · GitHub</title>
+    </bookmark>
+    <bookmark href="https://brettdewoody.com/accessing-component-methods-and-state-from-outside-react/" id="587">
+      <title>Accessing Component Methods and State from Outside React</title>
+    </bookmark>
+  </folder>
+  <folder id="55">
+    <title>Redis</title>
+    <bookmark href="https://redis.io/topics/latency" id="249">
+      <title>Redis latency problems troubleshooting – Redis</title>
+    </bookmark>
+    <bookmark href="https://velog.io/@yoojkim/Redis-local%EC%97%90%EC%84%9C-Redis-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-Docker-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-Redis-server-%EC%A0%91%EC%86%8D" id="250">
+      <title>[Redis] local에서 Redis 사용하기 / Docker 사용하여 Redis server 접속</title>
+    </bookmark>
+  </folder>
+  <folder id="56">
+    <title>kafka</title>
+    <bookmark href="https://godekdls.github.io/Reactor%20Kafka/whatsnewinreactorkafka120release/" id="251">
+      <title>Reactive Kafka Sender &amp; Kafka Receiver | 토리맘의 한글라이즈 프로젝트</title>
+    </bookmark>
+    <bookmark href="https://godekdls.github.io/Apache%20Kafka/kafka-connect-configuration/" id="252">
+      <title>Kafka Connect Configuration | 토리맘의 한글라이즈 프로젝트</title>
+    </bookmark>
+    <bookmark href="https://www.daddyprogrammer.org/post/15087/kafka-consumer-retry-deadletter/" id="253">
+      <title>Kafka Consumer retry 및 deadletter 처리 방법</title>
+    </bookmark>
+    <bookmark href="https://www.baeldung.com/java-kafka-count-topic-messages" id="254">
+      <title>Get the Number of Messages in an Apache Kafka Topic | Baeldung</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=HzQfJNusnO8" id="255">
+      <title>[2019] 바르게, 빠르게! Reactive를 품은 Spring Kafka - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="57">
+    <title>webrtc</title>
+    <bookmark href="https://github.com/Benkoff/WebRTC-SS" id="256">
+      <title>GitHub - Benkoff/WebRTC-SS: WebRTC Signaling Server</title>
+    </bookmark>
+    <bookmark href="https://www.baeldung.com/webrtc" id="257">
+      <title>Guide to WebRTC | Baeldung</title>
+    </bookmark>
+  </folder>
+  <folder id="628">
+    <title>prometheus</title>
+    <bookmark href="https://devbksheen.tistory.com/entry/Spring-Boot-Prometheus-Grafana%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%8114" id="632">
+      <title>Spring Boot + Prometheus + Grafana를 이용한 모니터링(1/3) — Bonglog - 기록과 정리의 공간</title>
+    </bookmark>
+    <bookmark href="https://devbksheen.tistory.com/182?category=900285" id="633">
+      <title>Spring Boot + Prometheus + Grafana를 이용한 모니터링(2/3) — Bonglog - 기록과 정리의 공간</title>
+    </bookmark>
+    <bookmark href="https://devbksheen.tistory.com/183" id="634">
+      <title>Spring Boot + Prometheus + Grafana를 이용한 모니터링(3/3) — Bonglog - 기록과 정리의 공간</title>
+    </bookmark>
+    <bookmark href="https://velog.io/@swhan9404/Prometheus%EB%A5%BC-docker%EB%A1%9C-%EA%B5%AC%EC%84%B1%ED%95%B4%EB%B3%B4%EA%B8%B0" id="635">
+      <title>Prometheus를 docker로 구성해보기</title>
+    </bookmark>
+  </folder>
+  <folder id="629">
+    <title>mongoDB</title>
+    <bookmark href="https://coding-start.tistory.com/284" id="636">
+      <title>코딩스타트 :: DB - MongoDB와 자주 사용되는 SQL 비교</title>
+    </bookmark>
+  </folder>
+  <folder id="630">
+    <title>k8s</title>
+    <bookmark href="https://chance-story.tistory.com/44" id="637">
+      <title>[Mac OS] 쿠버네티스 설치 (minikube 설치, minikube 실습, cozserver)</title>
+    </bookmark>
+    <bookmark href="https://bakingdevlog.tistory.com/5" id="638">
+      <title>Kubernetes(쿠버네티스) 인증서 교체하기 (x509: certificate has expired)</title>
+    </bookmark>
+    <bookmark href="https://velog.io/@junnn0021/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%A3%BC%EC%9A%94-%EA%B0%9C%EB%85%90" id="639">
+      <title>쿠버네티스 주요 개념</title>
+    </bookmark>
+    <bookmark href="https://k8syaml.com/" id="640">
+      <title>Kubernetes YAML Generator</title>
+    </bookmark>
+    <bookmark href="https://bcho.tistory.com/1355" id="641">
+      <title>VM 수준의 보안을 제공하는 gVisor 컨테이너 런타임</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@arneg0shua/docker-%EC%9D%98-multi-stage-build-90b2c88c7edc" id="642">
+      <title>Docker 의 Multi Stage Build. 우리가 도커를 사용하는 중요한 이유 중 하나는 우리의 서비스가 설치되는… | by Jake | Medium</title>
+    </bookmark>
+    <folder id="643">
+      <title>cert-manager</title>
+      <bookmark href="https://cert-manager.io/v1.8-docs/configuration/selfsigned/" id="647">
+        <title>SelfSigned - cert-manager 문서</title>
+      </bookmark>
+      <bookmark href="https://medium.com/geekculture/a-simple-ca-setup-with-kubernetes-cert-manager-bc8ccbd9c2" id="648">
+        <title>A Simple CA Setup with Kubernetes Cert Manager | by Ferdinand de Antoni | Geek Culture | Medium</title>
+      </bookmark>
+      <bookmark href="https://artifacthub.io/packages/helm/cert-manager/cert-manager" id="649">
+        <title>cert-manager 1.15.1 · cert-manager/cert-manager</title>
+      </bookmark>
+    </folder>
+  </folder>
+</folder>
+<folder id="6">
+  <title>k8s</title>
+  <folder id="58">
+    <title>온라인실습</title>
+    <bookmark href="https://www.oreilly.com/online-learning/leveraging-katacoda-technology.html" id="258">
+      <title>Leveraging Katacoda Technology - O&apos;Reilly Media</title>
+    </bookmark>
+    <bookmark href="https://labs.play-with-k8s.com/" id="259">
+      <title>Play with Kubernetes</title>
+    </bookmark>
+  </folder>
+  <folder id="59">
+    <title>동영상</title>
+    <bookmark href="https://www.youtube.com/watch?v=pfkx8KDAZyk" id="260">
+      <title>[따배쿠] 4-2. 쿠버네티스 아키텍처 - namespace - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="60">
+    <title>docker</title>
+    <bookmark href="https://blog.d0ngd0nge.xyz/docker-dockerfile-write/" id="261">
+      <title>Docker - Dockerfile 작성 / Build (이미지 제작)</title>
+    </bookmark>
+    <bookmark href="https://velog.io/@sihyung92/%EC%9A%B0%EC%A0%A0%EA%B5%AC2%ED%8E%B8-%EC%A0%A0%ED%82%A8%EC%8A%A4-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94" id="262">
+      <title>[우젠구2편] 젠킨스 파이프라인을 활용한 배포 자동화</title>
+    </bookmark>
+    <bookmark href="https://hub.docker.com/r/vikas027/centos-ssh-sudo/dockerfile" id="263">
+      <title>vikas027/centos-ssh-sudo Dockerfile - Docker Hub</title>
+    </bookmark>
+    <bookmark href="https://coderleaf.wordpress.com/2018/10/24/centos-add-user-as-sudoer/" id="264">
+      <title>Centos : add user as sudoer – CoderLeaf</title>
+    </bookmark>
+    <bookmark href="https://velog.io/@ckstn0777/%EB%8F%84%EC%BB%A4%ED%8C%8C%EC%9D%BCDockerfile" id="265">
+      <title>10장. 도커파일(Dockerfile)</title>
+    </bookmark>
+    <folder id="266">
+      <title>동영상</title>
+      <bookmark href="https://www.youtube.com/watch?v=NLUugLQ8unM&amp;list=PLApuRlvrZKogb78kKq1wRvrjg1VMwYrvi" id="352">
+        <title>[따배도] 0. 드디어 찾아온 Docker 강의! 왕초보에서 도커 마스터로 - OT - YouTube</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://spring.io/guides/gs/spring-boot-docker/" id="267">
+      <title>Getting Started | Spring Boot with Docker</title>
+    </bookmark>
+    <bookmark href="https://spring.io/guides/topicals/spring-boot-docker" id="268">
+      <title>Topical Guide | Spring Boot Docker</title>
+    </bookmark>
+    <bookmark href="https://www.jenkins.io/doc/book/pipeline/docker/" id="269">
+      <title>Using Docker with Pipeline</title>
+    </bookmark>
+    <bookmark href="https://jobc.tistory.com/228" id="270">
+      <title>Spring boot Dockerfile 최적화하기 (spring boot dockerfile best practice)</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://blog.avenuecode.com/running-docker-and-kubernetes-on-colima" id="61">
+    <title>Running Docker and Kubernetes on Colima</title>
+  </bookmark>
+  <bookmark href="https://nhnent.dooray.com/project/2183844546269048715/3392819328675718851" id="62">
+    <title>배포플랫폼개발팀/쿠버네티스 강의</title>
+  </bookmark>
+  <bookmark href="https://velog.io/@lhbbbb/%EC%B4%88%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-Kubernetes-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-1feat.-GCP" id="63">
+    <title>초보개발자의 Kubernetes 사용해보기 #1(feat. GCP)</title>
+  </bookmark>
+  <bookmark href="https://kubernetes.io/ko/docs/setup/" id="64">
+    <title>시작하기 | Kubernetes</title>
+  </bookmark>
+  <bookmark href="https://kubernetes.io/docs/concepts/configuration/overview/" id="65">
+    <title>Configuration Best Practices | Kubernetes</title>
+  </bookmark>
+  <bookmark href="https://may9noy.tistory.com/302" id="66">
+    <title>쿠버네티스 Create VS Apply 차이점</title>
+  </bookmark>
+  <bookmark href="https://helm.sh/ko/docs/topics/charts/" id="67">
+    <title>Helm | 차트</title>
+  </bookmark>
+  <folder id="353">
+    <title>minikube</title>
+    <bookmark href="https://minikube.sigs.k8s.io/docs/start/" id="455">
+      <title>minikube start | minikube</title>
+    </bookmark>
+    <bookmark href="https://kubernetes.io/docs/tutorials/hello-minikube/" id="456">
+      <title>Hello Minikube | Kubernetes</title>
+    </bookmark>
+    <bookmark href="https://velog.io/@gentledev10/install-minikube" id="457">
+      <title>minikube 설치 및 사용</title>
+    </bookmark>
+    <bookmark href="https://judo0179.tistory.com/70" id="458">
+      <title>Mac OS에서 minikube 사용하기 Part 1</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://if.kakao.com/2022/session/58" id="354">
+    <title>if(kakao)dev2022</title>
+  </bookmark>
+  <folder id="355">
+    <title>zuul</title>
+    <bookmark href="https://geonyeongkim-development.tistory.com/72" id="459">
+      <title>(6) 스프링 클라우드와 주울로 서비스 라우팅 :: geonyeongkim</title>
+    </bookmark>
+  </folder>
+  <folder id="356">
+    <title>spinnaker</title>
+    <bookmark href="https://spinnaker.io/docs/concepts/ebook/ContinuousDeliveryWithSpinnaker.pdf" id="460">
+      <title>Continuous Delivery with Spinnaker</title>
+    </bookmark>
+    <bookmark href="https://github.com/spinnaker/" id="461">
+      <title>spinnaker repo</title>
+    </bookmark>
+    <bookmark href="https://spinnaker.io/docs/setup/install/" id="462">
+      <title>Install and Configure Spinnaker | Spinnaker</title>
+    </bookmark>
+    <bookmark href="https://spinnaker.io/docs/guides/developer/plugin-creator/testing/plugin-deck-test/" id="463">
+      <title>Test a Pipeline Stage Plugin | Spinnaker</title>
+    </bookmark>
+    <bookmark href="https://berrrrr.github.io/programming/2020/01/12/what-is-spinnaker/" id="464">
+      <title>spinnaker 란? · MOONGCHI</title>
+    </bookmark>
+    <bookmark href="https://tech.devsisters.com/posts/blue-green-canary-deployment/" id="465">
+      <title>Istio와 Spinnaker를 활용한 Blue-Green + Canary 자동 배포 전…</title>
+    </bookmark>
+    <bookmark href="https://waspro.tistory.com/593" id="466">
+      <title>Spinnaker를 활용한 Kubernetes CD 구성하기</title>
+    </bookmark>
+    <bookmark href="https://bcho.tistory.com/m/1234" id="467">
+      <title>배포 자동화 솔루션 Spinnaker - #1 소개</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://june-coder.tistory.com/41" id="357">
+    <title>코딩 블로그(마이크로서비스 배포 방법)</title>
+  </bookmark>
+  <folder id="358">
+    <title>로컬에서디버깅</title>
+    <bookmark href="https://d2.naver.com/helloworld/4817173" id="468">
+      <title>Istio와 Telepresence로 공용 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기</title>
+    </bookmark>
+    <bookmark href="https://blog.outsider.ne.kr/1526" id="469">
+      <title>Kubernetes 클러스터에 배포할 애플리케이션의 로컬 개발을 쉽게 해줄 Telepresence :: Outsider&apos;s Dev Story</title>
+    </bookmark>
+    <bookmark href="https://gefyra.dev/" id="470">
+      <title>Gefyra | Blazingly-fast rocket, rock-solid, local application development arrow_right with Kubernetes.</title>
+    </bookmark>
+    <bookmark href="https://kubernetes.io/ko/docs/tasks/debug/debug-cluster/local-debugging/" id="471">
+      <title>로컬에서 텔레프레즌스를 이용한 서비스 개발 및 디버깅 | Kubernetes</title>
+    </bookmark>
+    <bookmark href="https://www.digitalocean.com/community/tutorials/how-to-use-telepresence-on-kubernetes-for-rapid-development-on-ubuntu-20-04" id="472">
+      <title>How To Use Telepresence on Kubernetes for Rapid Development on Ubuntu 20.04 | DigitalOcean</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="7">
+  <title>배포및모니터링</title>
+  <bookmark href="https://blog.naver.com/PostView.naver?blogId=whddbsml&amp;logNo=222406296469&amp;parentCategoryNo=&amp;categoryNo=&amp;viewDate=&amp;isShowPopularPosts=false&amp;from=postView" id="68">
+    <title>[Prometheus] Redis 모니터링 구성 : 네이버 블로그</title>
+  </bookmark>
+  <bookmark href="https://velog.io/@imsooyeon/Jenkins-pipeline%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%98%EC%97%AC-Docker-build-%EB%B0%8F-%EC%9D%B4%EB%AF%B8%EC%A7%80-push-%ED%95%98%EA%B8%B0" id="69">
+    <title>[Jenkins] Jenkins pipeline을 구축하여 Docker build 및 이…</title>
+  </bookmark>
+  <bookmark href="https://godekdls.github.io/Prometheus/contents/" id="70">
+    <title>Contents | 토리맘의 한글라이즈 프로젝트</title>
+  </bookmark>
+  <bookmark href="https://www.jenkins.io/doc/book/pipeline/jenkinsfile/" id="71">
+    <title>Using a Jenkinsfile</title>
+  </bookmark>
+</folder>
+<folder id="8">
+  <title>읽을거리</title>
+  <bookmark href="https://velog.io/" id="72">
+    <title>velog</title>
+  </bookmark>
+  <bookmark href="https://meetup.toast.com/" id="73">
+    <title>TOAST Meetup</title>
+  </bookmark>
+  <bookmark href="http://www.nextree.co.kr/" id="74">
+    <title>넥스트리소프트,NEXTREE SOFT</title>
+  </bookmark>
+  <bookmark href="https://woowabros.github.io/" id="75">
+    <title>우아한형제들 기술 블로그</title>
+  </bookmark>
+  <bookmark href="https://godekdls.github.io/" id="76">
+    <title>Hello World! | 토리맘의 한글라이즈 프로젝트</title>
+  </bookmark>
+  <folder id="77">
+    <title>NHNForward</title>
+    <bookmark href="https://www.youtube.com/watch?v=5j82Tbseud4&amp;list=PL42XJKPNDepZC5HXlqxzTTJ_Ai_KDcXRa&amp;index=20&amp;t=1338s" id="271">
+      <title>[NHN FORWARD 2021] Java에서 MySQL 비동기 쿼리 사용하기 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=l195D5WT_tE" id="272">
+      <title>[2019] PAYCO 쇼핑 마이크로서비스 아키텍처(MSA) 전환기 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=I0zMm6wIbRI" id="273">
+      <title>[NHN FORWARD 2020] 내가 만든 WebFlux가 느렸던 이유 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=rYj8PLIE6-k" id="274">
+      <title>[2019] Spring JPA의 사실과 오해 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=SHARTkvw7R4" id="275">
+      <title>[NHN FORWARD 2021] 웹 서버 인증서 읽어드립니다. - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=jMHOJQczrnI" id="276">
+      <title>[NHN FORWARD 2021] 천방지축 RDBMS 때려잡기: Oracle to MySQL 변환기 - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="78">
+    <title>공식문서번역</title>
+    <bookmark href="https://arahansa.github.io/docs_spring/jpa.html" id="277">
+      <title>Spring Data JPA - 레퍼런스 문서 번역</title>
+    </bookmark>
+    <bookmark href="https://godekdls.github.io/Reactive%20Spring/springwebflux2/" id="278">
+      <title>Spring WebFlux (2) | 토리맘의 한글라이즈 프로젝트</title>
+    </bookmark>
+    <bookmark href="https://madplay.github.io/category#Spring" id="279">
+      <title>webflux</title>
+    </bookmark>
+  </folder>
+  <folder id="79">
+    <title>JPA</title>
+    <bookmark href="https://data-make.tistory.com/730" id="280">
+      <title>[JPA] 양방향 관계 Entity 저장하기</title>
+    </bookmark>
+    <bookmark href="https://homoefficio.github.io/2019/04/28/JPA-%EC%9D%BC%EB%8C%80%EB%8B%A4-%EB%8B%A8%EB%B0%A9%ED%96%A5-%EB%A7%A4%ED%95%91-%EC%9E%98%EB%AA%BB-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4-%EB%B2%8C%EC%96%B4%EC%A7%80%EB%8A%94-%EC%9D%BC/" id="281">
+      <title>JPA 일대다 단방향 매핑 잘못 사용하면 벌어지는 일 - 뒤태지존의 끄적거림</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.baeldung.com/" id="80">
+    <title>Baeldung | Java, Spring and Web Development tutorials</title>
+  </bookmark>
+  <bookmark href="https://www.mkyong.com/all-tutorials-on-mkyong-com/" id="81">
+    <title>All Tutorials on Mkyong.com</title>
+  </bookmark>
+  <bookmark href="http://www.careercup.com/" id="359">
+    <title>Programming Interview Questions  CareerCup</title>
+  </bookmark>
+  <bookmark href="https://okky.kr/articles/tips" id="360">
+    <title>OKKY - Tips &amp; 강좌</title>
+  </bookmark>
+  <bookmark href="http://helloworld.naver.com/helloworld" id="361">
+    <title>hello world</title>
+  </bookmark>
+  <bookmark href="https://oss.navercorp.com/engineering/guides" id="362">
+    <title>engineering/guides: 개발자들을 위한 모든 가이드</title>
+  </bookmark>
+  <bookmark href="http://www.oracleclub.com/main.action" id="363">
+    <title>꿈꾸는 개발자, DBA 커뮤니티 오라클클럽</title>
+  </bookmark>
+  <bookmark href="http://www.gurubee.net/pages/viewpage.action?pageId=3899811" id="364">
+    <title>코어 오라클 데이터베이스 스터디</title>
+  </bookmark>
+  <bookmark href="https://slipp.net/questions" id="365">
+    <title>SLiPP</title>
+  </bookmark>
+  <bookmark href="http://infrabook.nhncorp.com/wiki/%EB%8C%80%EB%AC%B8" id="559">
+    <title>인프라가이드북 - infrabook</title>
+  </bookmark>
+  <bookmark href="http://chanik.egloos.com/2859046" id="560">
+    <title>파이썬 책</title>
+  </bookmark>
+  <bookmark href="http://opentutorials.org/course/643/3337" id="561">
+    <title>부하 발생 &amp; 분석 - 생활코딩</title>
+  </bookmark>
+  <bookmark href="http://www.youtube.com/user/softwarekorea/videos" id="562">
+    <title>공동 소 - YouTube</title>
+  </bookmark>
+  <bookmark href="http://hamait.tistory.com/category/Akka" id="563">
+    <title>&apos;Akka&apos; 카테고리의 글 목록</title>
+  </bookmark>
+  <bookmark href="https://awesome-devblog.netlify.com/" id="564">
+    <title>어썸데브블로그</title>
+  </bookmark>
+  <bookmark href="http://www.journaldev.com/1260/collections-in-java-tutorial" id="565">
+    <title>Collections in Java - Tutorial - JournalDev</title>
+  </bookmark>
+  <bookmark href="https://www.vobour.com/%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EC%98%AC%EB%A0%A4%EC%A3%BC%EB%8A%94-vscode%EC%9D%98-%EC%86%8C%EC%86%8C-%ED%95%9C-%EA%B8%B0%EB%8A%A5%EB%93%A4" id="621">
+    <title>개발 생산성을 올려주는 VSCode의 소소(?)한 기능들 | vobour - We write together</title>
+  </bookmark>
+  <bookmark href="https://velog.io/@openhub/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%97%90%EA%B2%8C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%A0-%EB%A7%8C%ED%95%9C-9%EA%B0%80%EC%A7%80-%EA%B8%B0%EB%B3%B8-%EC%95%84%EB%A7%88%EC%A1%B4-%EC%9B%B9%EC%84%9C%EB%B2%84-Amazon-Web-Service-AWS-%EC%84%9C%EB%B9%84%EC%8A%A4" id="622">
+    <title>개발자들에게 도움이 될 만한 9가지 기본 아마존 웹서버 (Amazon Web Service, AWS) 서비스</title>
+  </bookmark>
+  <bookmark href="https://tourspace.tistory.com/3?category=788398" id="623">
+    <title>투덜이의 리얼 블로그 :: Java 8 Lambda Expression - 람다식 #1</title>
+  </bookmark>
+  <bookmark href="https://medium.com/happyprogrammer-in-jeju/mac-os-x-%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-git-%ED%8C%A8%EC%8A%A4%EC%9B%8C%EB%93%9C-%EA%B8%B0%EC%96%B5%ED%95%98%EA%B8%B0-5675d58a60cd" id="624">
+    <title>Mac OS X 터미널에서 Git 패스워드 기억하기. 분산 버전 관리 시스템 Git을 쓸 때 터미널에서 CLI로 작업하는… | by 김대현 | HappyProgrammer | Medium</title>
+  </bookmark>
+  <bookmark href="https://javarevisited.blogspot.com/2018/01/top-20-libraries-and-apis-for-java-programmers.html#axzz7DsoNXHtz" id="625">
+    <title>Top 22 Libraries and APIs Java Developer should Learn in 2022 [UPDATED]</title>
+  </bookmark>
+</folder>
+<folder id="9">
+  <title>기술면접</title>
+  <bookmark href="https://profile.rememberapp.co.kr/" id="82">
+    <title>리멤버 - 커리어</title>
+  </bookmark>
+  <bookmark href="https://velog.io/@mongle/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EA%B0%80%EC%9D%B4%EB%93%9C" id="83">
+    <title>기술면접 가이드</title>
+  </bookmark>
+  <bookmark href="https://devlog-wjdrbs96.tistory.com/338" id="84">
+    <title>[Java] 자바에서 Generic 이란 무엇일까? :: Gyun&apos;s 개발일지</title>
+  </bookmark>
+  <bookmark href="https://velog.io/@conficker77/Java-Wrapper-class%EC%99%80-Primitive-type%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C" id="85">
+    <title>[Java] Wrapper class와 Primitive type에 대해서</title>
+  </bookmark>
+  <bookmark href="https://velog.io/@jiny/JPA-%EB%8D%94%ED%8B%B0-%EC%B2%B4%ED%82%B9Dirty-Checking-%EC%9D%B4%EB%9E%80" id="86">
+    <title>JPA 더티 체킹(Dirty Checking) 이란?</title>
+  </bookmark>
+  <bookmark href="https://velog.io/@heoseungyeon/Fetch-Join-vs-%EC%9D%BC%EB%B0%98-Joinfeat.DTO" id="87">
+    <title>Fetch Join vs 일반 Join(feat.DTO)</title>
+  </bookmark>
+  <bookmark href="https://hjjungdev.tistory.com/65" id="88">
+    <title>우아한 프로그래밍 | 엑셀템플릿(Jxls)를 활용한 엑셀 다운로드 구현하기</title>
+  </bookmark>
+  <bookmark href="http://helloworld.naver.com/helloworld/1321" id="89">
+    <title>hello world » JDBC Internal - 타임아웃의 이해</title>
+  </bookmark>
+  <bookmark href="https://velog.io/@sangmin7648/OSIV%EB%9E%80" id="90">
+    <title>OSIV는 언제 쓸까?</title>
+  </bookmark>
+  <bookmark href="https://velog.io/@sunaaank/data-binding" id="91">
+    <title>[WEB] 양방향 단방향 데이터 바인딩</title>
+  </bookmark>
+  <bookmark href="https://github.com/JaeYeopHan/Interview_Question_for_Beginner" id="366">
+    <title>GitHub - JaeYeopHan/Interview_Question_for_Beginner: Technical-Interview guidelines written for those who started studying programming. I wish you all the best.</title>
+  </bookmark>
+  <bookmark href="https://velog.io/@newdana01/Database-%EC%99%B8%EB%9E%98%ED%82%A4%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%9D%B4%EC%9C%A0" id="367">
+    <title>[Database] 외래키를 사용하지 않는 이유</title>
+  </bookmark>
+  <bookmark href="https://velog.io/@subutai/%EB%A7%A4%EC%9D%BC-2day" id="368">
+    <title>[DB] 외래키의 장점과 단점 및 논의</title>
+  </bookmark>
+  <bookmark href="https://velog.io/@tonic523/%ED%9E%99-%EC%98%81%EC%97%AD-vs-%EC%8A%A4%ED%83%9D-%EC%98%81%EC%97%AD" id="369">
+    <title>힙 영역 vs 스택 영역</title>
+  </bookmark>
+  <bookmark href="https://blog.naver.com/PostView.nhn?blogId=heartflow89&amp;logNo=220956313502" id="370">
+    <title>[JAVA/자바] 필드(field) - 전역변수, 멤버변수 : 네이버 블로그</title>
+  </bookmark>
+  <bookmark href="https://devlog-wjdrbs96.tistory.com/135" id="371">
+    <title>[Java] char배열과 String 클래스의 차이는? :: Gyun&apos;s 개발일지</title>
+  </bookmark>
+  <bookmark href="https://velog.io/@jeb1225/JAVA-String-Pool" id="372">
+    <title>Java String Pool 이란?</title>
+  </bookmark>
+  <bookmark href="https://codingffler.tistory.com/16" id="373">
+    <title>9. [Java] main 메서드(함수)란 무엇인가 - 코딩도치</title>
+  </bookmark>
+  <bookmark href="https://velog.io/@sonypark/Java-equals-hascode-%EB%A9%94%EC%84%9C%EB%93%9C%EB%8A%94-%EC%96%B8%EC%A0%9C-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C" id="374">
+    <title>[Java] equals() &amp; hashcode() 메서드는 언제 재정의해야 할까?</title>
+  </bookmark>
+  <bookmark href="https://devlog-wjdrbs96.tistory.com/253" id="375">
+    <title>[Java] HashMap vs Hashtable 차이는 무엇일까? :: Gyun&apos;s 개발일지</title>
+  </bookmark>
+  <bookmark href="https://ifuwanna.tistory.com/221" id="566">
+    <title>[Java] String, StringBuffer, StringBuilder 차이 및 장단점 :: IfUwanna IT</title>
+  </bookmark>
+  <bookmark href="https://jadehan.tistory.com/55" id="567">
+    <title>Mysql character set 과 collation</title>
+  </bookmark>
+  <bookmark href="https://tecoble.techcourse.co.kr/post/2020-08-17-custom-exception/" id="568">
+    <title>custom exception을 언제 써야 할까?</title>
+  </bookmark>
+  <bookmark href="https://always-kimkim.tistory.com/entry/cqrs-pattern" id="569">
+    <title>CQRS 패턴 알아보기 :: 언제나 김김</title>
+  </bookmark>
+  <bookmark href="https://unluckyjung.github.io/db/2022/03/07/Optimistic-vs-Pessimistic-Lock/" id="570">
+    <title>낙관적(Optimistic) 락과 비관적(Pessimisitc)락 | Yoon Sung&apos;s Blog</title>
+  </bookmark>
+</folder>
+<folder id="10">
+  <title>디자인패턴</title>
+  <bookmark href="https://refactoring.guru/ko/design-patterns" id="92">
+    <title>디자인 패턴들</title>
+  </bookmark>
+  <bookmark href="https://be-developer.tistory.com/m/66" id="93">
+    <title>[도메인 주도 개발 시작하기] 01. 도메인 모델 시작하기</title>
+  </bookmark>
+  <bookmark href="https://github.com/leejeongwha/design-pattern" id="94">
+    <title>leejeongwha/design-pattern: 디자인 패턴 예제</title>
+  </bookmark>
+  <bookmark href="https://devbksheen.tistory.com/313" id="95">
+    <title>[모던 자바] 디자인 패턴 소개 및 람다를 이용해 리팩터링 하기 — Bonglog - 기록과 정리의 공간</title>
+  </bookmark>
+  <bookmark href="https://jaimemin.tistory.com/2014" id="96">
+    <title>[디자인 패턴] 템플릿 메서드 패턴과 콜백 패턴</title>
+  </bookmark>
+</folder>
+<folder id="11">
+  <title>리눅스및쉘</title>
+  <bookmark href="https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner" id="97">
+    <title>커맨드라인 사용법: 따라하며 배우는 리눅스 명령어와 관습들 | 44BITS</title>
+  </bookmark>
+  <bookmark href="https://blog.gaerae.com/2015/01/bash-hello-world.html" id="98">
+    <title>Bash 입문자를 위한 핵심 요약 정리 (Shell Script) - 개발자스럽다</title>
+  </bookmark>
+  <bookmark href="https://sysops.tistory.com/115" id="99">
+    <title>[Linux] journalctl 사용법</title>
+  </bookmark>
+  <bookmark href="https://inpa.tistory.com/entry/LINUX-%F0%9F%93%9A-CURL-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%8B%A4%EC%96%91%ED%95%9C-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%A0%95%EB%A6%AC" id="100">
+    <title>🐧 CURL 명령어 사용법 💯 완전 총정리</title>
+  </bookmark>
+  <bookmark href="https://inpa.tistory.com/entry/LINUX-%EC%89%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%95%B5%EC%8B%AC-%EB%AC%B8%EB%B2%95-%EC%B4%9D%EC%A0%95%EB%A6%AC" id="101">
+    <title>🐧 BASH 쉘 프로그래밍 문법 마스터 💯 총정리</title>
+  </bookmark>
+  <bookmark href="https://wiki.kldp.org/HOWTO/html/Adv-Bash-Scr-HOWTO/" id="102">
+    <title>고급 Bash 스크립팅 가이드</title>
+  </bookmark>
+  <bookmark href="https://www.onlinegdb.com/online_bash_shell" id="103">
+    <title>Online Bash Shell - online editor</title>
+  </bookmark>
+  <bookmark href="https://zetawiki.com/wiki/%EC%A2%80%EB%B9%84_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4_%EC%B0%BE%EA%B8%B0,_%EC%A3%BD%EC%9D%B4%EA%B8%B0" id="104">
+    <title>좀비 프로세스 찾기, 죽이기 - 제타위키</title>
+  </bookmark>
+</folder>
+<folder id="12">
+  <title>codeTest</title>
+  <bookmark href="https://ide.goorm.io/my/dashboard" id="105">
+    <title>컨테이너 - goormIDE</title>
+  </bookmark>
+  <bookmark href="https://school.programmers.co.kr/learn/challenges" id="106">
+    <title>코딩테스트 연습 | 프로그래머스 스쿨</title>
+  </bookmark>
+  <bookmark href="https://programmers.co.kr/learn/challenges?tab=all_challenges" id="107">
+    <title>코딩테스트 연습 | 프로그래머스</title>
+  </bookmark>
+  <bookmark href="https://repl.it/languages/javascript" id="108">
+    <title>Repl.it - Online Nodejs Editor and IDE - Fast, Powerful, Free</title>
+  </bookmark>
+  <bookmark href="https://business.programmers.co.kr/business/welcome" id="109">
+    <title>프로그래머스</title>
+  </bookmark>
+  <bookmark href="https://www.codechef.com/ide" id="110">
+    <title>Code, Compile &amp; Run | CodeChef</title>
+  </bookmark>
+  <bookmark href="http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&amp;sca=20" id="111">
+    <title>JUNGOL | 문제은행 1 페이지</title>
+  </bookmark>
+  <bookmark href="https://leetcode.com/" id="112">
+    <title>LeetCode</title>
+  </bookmark>
+  <bookmark href="https://www.hackerrank.com/domains/algorithms/warmup" id="113">
+    <title>Challenges | HackerRank</title>
+  </bookmark>
+  <bookmark href="https://codility.com/programmers/lessons/" id="114">
+    <title>Take our free programming lessons - Codility</title>
+  </bookmark>
+  <bookmark href="https://www.interviewcake.com/" id="376">
+    <title>Programming Interview Questions + Help Getting Job Offers | Interview Cake</title>
+  </bookmark>
+  <bookmark href="https://www.acmicpc.net/problem/tags" id="377">
+    <title>알고리즘 분류</title>
+  </bookmark>
+  <bookmark href="https://bcp0109.tistory.com/311?category=898097" id="378">
+    <title>[LeetCode Easy] Partition Array Into Three Parts With Equal Sum (Java) :: 뱀귤 블로그</title>
+  </bookmark>
+</folder>
+<folder id="697">
+  <title>인턴</title>
+  <bookmark href="https://nhnent.dooray.com/task/3422590733845676259/3477555946672137193" id="698">
+    <title>#기술직무교육/30 | [230307] 자바 개발자를 위한 디자인 패턴 : NHN : Dooray!</title>
+  </bookmark>
+  <bookmark href="https://gitlab.com/n_tech_service/2018_2nd_intern" id="699">
+    <title>2018_2nd_intern · GitLab</title>
+  </bookmark>
+  <bookmark href="https://gitlab.com/n_tech_service/2019_1st_intern" id="700">
+    <title>허태식 / 2019_1st_intern · GitLab</title>
+  </bookmark>
+  <bookmark href="https://gitlab.com/n_tech_service/2019_2nd_intern" id="701">
+    <title>허태식 / 2019_2nd_intern · GitLab</title>
+  </bookmark>
+  <bookmark href="https://gitlab.edwith.org/nts-2020-first-internship/sw-edu-platform" id="702">
+    <title>sw교육 플랫폼 개발실 · GitLab</title>
+  </bookmark>
+  <bookmark href="https://www.edwith.org/boostcourse-web/joinLectures/12952" id="703">
+    <title>https://www.edwith.org/boostcourse-web/joinLectures/12952</title>
+  </bookmark>
+  <bookmark href="https://docs.google.com/spreadsheets/d/1TDDg4a_31U2uFJ9aCwDVB_B3FGzN3gJmEPgN1bSwySI/edit#gid=1535605647" id="704">
+    <title>웹 프로그래밍_FE&amp;BE_리뷰 참고자료 - Google 스프레드시트</title>
+  </bookmark>
+  <bookmark href="http://docs.navercorp.com/coding-convention/java.pdf" id="705">
+    <title>네이버 코딩 컨벤션 (Java)</title>
+  </bookmark>
+  <bookmark href="http://docs.navercorp.com/coding-convention/js.pdf" id="706">
+    <title>네이버 코딩 컨벤션 (JavaScript)</title>
+  </bookmark>
+  <bookmark href="http://docs.navercorp.com/coding-convention/markup.pdf" id="707">
+    <title>네이버 코딩 컨벤션 (HTML/CSS)</title>
+  </bookmark>
+  <bookmark href="https://www.tutorialspoint.com/java/java_documentation" id="709">
+    <title>Java Documentation Comments</title>
+  </bookmark>
+  <bookmark href="https://programmers.co.kr/tryouts/34944" id="710">
+    <title>[SW개발]2022년 상반기 신입공채 온라인 코딩테스트 - 코딩 테스트</title>
+  </bookmark>
+  <bookmark href="https://kr0-link.ndrive.navercorp.com/folderLink/ZXpuN1JscW9nZkxPZnVCOS9OSmFmK3BFSG1vS3FmS2wzcUVLNEpzUXgrMEZuak5Pa1hlemZybTNwSlFXTHZ3ZURBPT0" id="711">
+    <title>드라이브</title>
+  </bookmark>
+</folder>
+<folder id="708">
+  <title>NTS</title>
+  <bookmark href="http://ncloud.navercorp.com/mc/login?returnUrl=http%3A%2F%2Fncloud.navercorp.com%2Fmc%2Fnserver%2Fserver%2Fserver_list" id="712">
+    <title>Ncloud Internal</title>
+  </bookmark>
+  <bookmark href="https://pages.oss.navercorp.com/Security-Toothless/toothless-doc/0-getting-started/getting_started/" id="713">
+    <title>Toothless-doc | Toothless-doc</title>
+  </bookmark>
+  <bookmark href="https://pages.oss.navercorp.com/naver-container-cluster/docs/" id="714">
+    <title>NCC사용가이드</title>
+  </bookmark>
+  <bookmark href="https://pages.oss.navercorp.com/naver-container-cluster/jenkins-docs/usage/terminal/" id="715">
+    <title>터미널 접근 :: NCC Jenkins Guide</title>
+  </bookmark>
+  <bookmark href="https://pages.oss.navercorp.com/naver-container-cluster/jenkins-docs/introduction/concept/" id="716">
+    <title>개요 :: NCC Jenkins Guide</title>
+  </bookmark>
+  <folder id="717">
+    <title>MOOC</title>
+    <bookmark href="https://oss.navercorp.com/NEXT-ED" id="722">
+      <title>edwith</title>
+    </bookmark>
+    <bookmark href="https://oss.navercorp.com/connectfoundation" id="723">
+      <title>connectfoundation</title>
+    </bookmark>
+    <bookmark href="https://oss.navercorp.com/NEXT-ED/APIDoc/blob/trunk/MOBILE/99.%EA%B8%B0%ED%83%80/javascript_interface.md#youtube-%EC%98%81%EC%83%81" id="724">
+      <title>APIDoc/javascript_interface.md at trunk · NEXT-ED/APIDoc</title>
+    </bookmark>
+    <bookmark href="http://dev.neoid.navercorp.com/docs/apis/login" id="725">
+      <title>NEOID API</title>
+    </bookmark>
+    <bookmark href="http://dev.neoid.navercorp.com/service/list" id="726">
+      <title>NEOID Service Admin(dev)</title>
+    </bookmark>
+    <bookmark href="http://neoid.navercorp.com/service/list" id="727">
+      <title>NEOID Service Admin</title>
+    </bookmark>
+    <bookmark href="http://wiki.navercorp.com/pages/viewpage.action?pageId=264332820" id="728">
+      <title>개발 환경 설정 - 플랫폼개발실 - WIKI</title>
+    </bookmark>
+    <bookmark href="http://wiki.navercorp.com/pages/viewpage.action?pageId=289658598" id="729">
+      <title>js 개발환경 - 플랫폼개발실 - WIKI</title>
+    </bookmark>
+    <bookmark href="http://redutan.github.io/2016/03/23/intellij-favorite-keymap-osx" id="730">
+      <title>Intellij-IDEA 선호 단축키(keymap) - OS X – DevOOOOOOOOP</title>
+    </bookmark>
+    <bookmark href="https://app.zeplin.io/project/5f9a4f6bcf4b6eb97ba21a88" id="731">
+      <title>New boostcourse - Zeplin</title>
+    </bookmark>
+    <folder id="750">
+      <title>CLOUS검색</title>
+      <bookmark href="http://sasi.navercorp.com/sasi/CLOUS_EDWITH_COURSE/readme" id="775">
+        <title>SASI2.0</title>
+      </bookmark>
+      <bookmark href="http://clous.navercorp.com/service/clous_edwith_course/statistics" id="776">
+        <title>CLOUS</title>
+      </bookmark>
+      <bookmark href="https://pages.oss.navercorp.com/ClouS/userguide/gettingstarted/" id="777">
+        <title>Getting Started :: Documentation for Hugo Learn Theme</title>
+      </bookmark>
+      <bookmark href="https://pages.oss.navercorp.com/ClouS/advanceguide/architecture/search-application/query_dsl/" id="778">
+        <title>Query DSL :: Documentation for Hugo Learn Theme</title>
+      </bookmark>
+      <bookmark href="http://devel.clous.navercorp.com/wizard" id="779">
+        <title>CLOUS DEVEL</title>
+      </bookmark>
+      <bookmark href="http://clous.navercorp.com/" id="780">
+        <title>CLOUS</title>
+      </bookmark>
+      <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=468331747" id="781">
+        <title>네이버 검색 연동 - 플랫폼개발실 - WIKI</title>
+      </bookmark>
+      <bookmark href="http://paeiss.navercorp.com/#/" id="782">
+        <title>Linker</title>
+      </bookmark>
+    </folder>
+    <folder id="751">
+      <title>네이버톡톡</title>
+      <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=454905744" id="783">
+        <title>푸시 템플릿(nPushInfo) 설정 가이드 - 개인화플랫폼개발 - WIKI</title>
+      </bookmark>
+      <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=454905141#id-[%EC%95%8C%EB%A6%BCAPI]%EC%95%8C%EB%A6%BC%EB%B0%9C%EC%86%A1-%EC%95%8C%EB%A6%BC%ED%85%9C%ED%94%8C%EB%A6%BFV3" id="784">
+        <title>[알림 API] 알림 발송 - 개인화플랫폼개발 - WIKI</title>
+      </bookmark>
+      <bookmark href="https://yobi.navercorp.com/biztalk-group_biztalk/posts/212" id="785">
+        <title>biztalk-group_biztalk : 단일 메시지 발송 API V2</title>
+      </bookmark>
+      <bookmark href="https://oss.navercorp.com/NEXT-ED/mooc_main/issues/6426" id="786">
+        <title>[부스트코스] 게시글 작성/댓글 작성시 네이버톡톡 메세지 보내기 · Issue #6426 · NEXT-ED/mooc_main</title>
+      </bookmark>
+      <bookmark href="https://dev.talk.naver.com/devtools/message/eZrGk1" id="787">
+        <title>톡톡개발툴</title>
+      </bookmark>
+      <bookmark href="https://dev.edwith.org/internalServerError" id="788">
+        <title>https://dev.edwith.org/internalServerError</title>
+      </bookmark>
+    </folder>
+    <folder id="752">
+      <title>mysql_migration</title>
+      <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=342632757" id="789">
+        <title>Cubrid to MySQL 전환 가이드 - NBP 데이터베이스 엔지니어링 - WIKI</title>
+      </bookmark>
+      <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=421221389" id="790">
+        <title>CUBRID &gt; Mysql 전환</title>
+      </bookmark>
+    </folder>
+    <folder id="753">
+      <title>서스테이닝</title>
+      <bookmark href="https://www.edwith.org/ptnr-admin/voc" id="791">
+        <title>VOC</title>
+      </bookmark>
+      <bookmark href="https://www.edwith.org/etcManage" id="792">
+        <title>https://www.edwith.org/etcManage</title>
+      </bookmark>
+      <bookmark href="https://yobi.navercorp.com/edwith-cs/posts" id="793">
+        <title>edwith-cs : 포스트</title>
+      </bookmark>
+      <bookmark href="https://pages.oss.navercorp.com/Security-Toothless/toothless-doc/4-best-practice/ignore_issues/" id="794">
+        <title>Ignore Warnings | Toothless-doc</title>
+      </bookmark>
+      <bookmark href="https://yobi.navercorp.com/work-from-home/posts" id="795">
+        <title>work-from-home : 포스트</title>
+      </bookmark>
+      <bookmark href="http://pinpoint.navercorp.com/main/realtime/MOOC-REAL@TOMCAT" id="796">
+        <title>PINPOINT</title>
+      </bookmark>
+      <bookmark href="https://yobi.navercorp.com/Share_Develop/posts" id="797">
+        <title>Share_Develop : 포스트</title>
+      </bookmark>
+      <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=515232692" id="798">
+        <title>서비스 트래픽 급증 대응 방안에 대한 적용 현황 조사 - 서비스공통업무 - WIKI</title>
+      </bookmark>
+      <bookmark href="http://10.105.189.187:8080/app/kibana#/dashboard/Filebeat-Apache-Dashboard-ecs?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-1h,to:now))&amp;_a=(description:&apos;Filebeat%20Apache%20module%20dashboard&apos;,filters:!(),fullScreenMode:!f,options:(darkTheme:!f),query:(language:kuery,query:&apos;&apos;),timeRestore:!f,title:&apos;%5BFilebeat%20Apache%5D%20Access%20and%20error%20logs%20ECS&apos;,viewMode:view)" id="799">
+        <title>[Filebeat Apache] Access and error logs ECS - Elastic</title>
+      </bookmark>
+      <bookmark href="http://10.105.189.187/_cat/indices?v&amp;pretty" id="800">
+        <title>10.105.189.187/_cat/indices?v&amp;pretty</title>
+      </bookmark>
+      <bookmark href="http://acid.navercorp.com/query.html?svc_nm=edwith_mysql" id="861">
+        <title>MySQL ACID</title>
+      </bookmark>
+      <bookmark href="http://10.168.245.212:8080/applications" id="862">
+        <title>Spring Boot Admin</title>
+      </bookmark>
+    </folder>
+    <folder id="754">
+      <title>voc</title>
+      <bookmark href="https://oss.navercorp.com/ETECH/Cloud-Support-Audio-Video/issues/117#issuecomment-6379360" id="801">
+        <title>[MOOC][오동작] 영상 로딩 실패 재생 불가 현상 · Issue #117 · ETECH/Cloud-Support-Audio-Video</title>
+      </bookmark>
+    </folder>
+    <folder id="755">
+      <title>nfront</title>
+      <bookmark href="https://yobi.navercorp.com/nFront/posts/10" id="802">
+        <title>nFront : [사용 가이드] nFront 변경 작업 자동화 도구</title>
+      </bookmark>
+      <bookmark href="https://pages.oss.navercorp.com/nfront/self-docs/docs/waf/ratelimit" id="803">
+        <title>Rate Limit (WAF) 설정 - Self docs</title>
+      </bookmark>
+    </folder>
+    <folder id="756">
+      <title>study</title>
+      <bookmark href="https://poiemaweb.com/nodejs-npm" id="804">
+        <title>Node.js &amp; npm</title>
+      </bookmark>
+      <bookmark href="https://joswlv.github.io/2019/01/03/Apache_SpringBoot/" id="805">
+        <title>Apache-SpringBoot 연동(ajp)</title>
+      </bookmark>
+      <bookmark href="https://oss.navercorp.com/nClavis/spring-boot-starter-nclavis" id="806">
+        <title>nClavis/spring-boot-starter-nclavis: spring boot starter nclavis 2</title>
+      </bookmark>
+      <bookmark href="http://dogfeet.github.io/grails-doc/guide/" id="807">
+        <title>The Grails Framework 1.0 - Reference Documentation</title>
+      </bookmark>
+      <bookmark href="https://han41858.tistory.com/11" id="808">
+        <title>Promise 를 사용하는 두 가지 방법, new Promise, Promise.resolve()</title>
+      </bookmark>
+    </folder>
+    <folder id="757">
+      <title>video</title>
+      <bookmark href="http://video.fe.naver.com/wp/ex/" id="809">
+        <title>NAVER Web Player</title>
+      </bookmark>
+      <bookmark href="http://viewoss.navercorp.com/videoinfra/document/blob/master/site/player/HTML5/Basic%20Guid/#webplayer-rendering" id="810">
+        <title>viewoss.navercorp.com/videoinfra/document/blob/master/site/player/HTML5/Basic Guid/#webplayer-rendering</title>
+      </bookmark>
+      <bookmark href="https://oss.navercorp.com/NEXT-ED/mooc_main/wiki/%5BFE-%EA%B0%9C%EB%B0%9C%5D-%EA%B8%B0%EB%8A%A5%EB%B3%84-%EC%A0%95%EB%A6%AC-:-%EB%8F%99%EC%98%81%EC%83%81" id="811">
+        <title>[FE 개발] 기능별 정리 : 동영상 · NEXT-ED/mooc_main Wiki</title>
+      </bookmark>
+      <bookmark href="https://developers.google.com/youtube/iframe_api_reference?hl=ko" id="812">
+        <title>iframe 삽입에 대한 YouTube Player API 참조 문서  |  YouTube IFrame Player API</title>
+      </bookmark>
+      <bookmark href="https://torrentzozo.com/bbs/board.php?bo_table=kmv&amp;wr_id=2229" id="813">
+        <title>사냥의 시간 Time to Hunt 2020 KOREAN 1080p WEBRip x264-VXT</title>
+      </bookmark>
+    </folder>
+    <folder id="758">
+      <title>FE인수인계</title>
+      <bookmark href="https://oss.navercorp.com/NEXT-ED/mooc_main/wiki/%5BFE-%EA%B0%9C%EB%B0%9C%5D-index" id="814">
+        <title>[FE 개발] index · NEXT-ED/mooc_main Wiki</title>
+      </bookmark>
+      <bookmark href="https://oss.navercorp.com/NEXT-ED/mooc_openapi/wiki" id="815">
+        <title>Home · NEXT-ED/mooc_openapi Wiki</title>
+      </bookmark>
+      <bookmark href="https://oss.navercorp.com/NEXT-ED/mooc_main/wiki/%5BFE-%EA%B0%9C%EB%B0%9C%5D-%EA%B8%B0%EB%8A%A5%EB%B3%84-%EC%A0%95%EB%A6%AC-:-Boost-Course" id="816">
+        <title>[FE 개발] 기능별 정리 : Boost Course · NEXT-ED/mooc_main Wiki</title>
+      </bookmark>
+      <bookmark href="https://oss.navercorp.com/NEXT-ED/APIDoc/blob/trunk/MOBILE/99.%EA%B8%B0%ED%83%80/javascript_interface.md" id="817">
+        <title>APIDoc/javascript_interface.md at trunk · NEXT-ED/APIDoc</title>
+      </bookmark>
+    </folder>
+    <folder id="759">
+      <title>ncc</title>
+      <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=563054096" id="818">
+        <title>NCC 전환 가이드 - 페이플랫폼 - WIKI</title>
+      </bookmark>
+      <bookmark href="https://oss.navercorp.com/ncc-sample/guide" id="819">
+        <title>ncc-sample/guide</title>
+      </bookmark>
+    </folder>
+    <folder id="883">
+      <title>nclavis3.0</title>
+      <bookmark href="https://yobi.navercorp.com/nClavis_guide/posts/29" id="892">
+        <title>nClavis_guide : nClavis 3.0에서 대칭키는 어떻게 관리하나요? ( How do I manage Symmetric Key in nClavis v3 )</title>
+      </bookmark>
+      <bookmark href="https://yobi.navercorp.com/nClavis_guide/posts/5#yb-header-1-key-apis" id="893">
+        <title>nClavis_guide : nClavis API 가이드 ( nClavis API Guide )</title>
+      </bookmark>
+      <bookmark href="https://yobi.navercorp.com/nClavis_guide/posts/26" id="894">
+        <title>nClavis_guide : nClavis 3.0 으로 전환하기 ( Update to nClavis v3 from v2 )</title>
+      </bookmark>
+      <bookmark href="https://yobi.navercorp.com/nClavis_guide/posts/4#yb-header-%EC%9D%B8%EC%A6%9D%EC%84%A4%EC%A0%95-%EA%B0%80%EC%9D%B4%EB%93%9C" id="895">
+        <title>nClavis_guide : nClavis API 호출하기 x Curl CLI</title>
+      </bookmark>
+      <bookmark href="https://oss.navercorp.com/nClavis/spring-boot-starter-nclavis" id="896">
+        <title>nClavis/spring-boot-starter-nclavis: spring boot starter nclavis 2</title>
+      </bookmark>
+      <bookmark href="https://pages.oss.navercorp.com/nconsole/guides/using_acg.html" id="897">
+        <title>ACG 만들기</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://knox.c3s.navercorp.com/gateway/pct-auth-sso/hdfs/explorer.html#/user/mooc/real" id="884">
+      <title>Browsing HDFS</title>
+    </bookmark>
+    <bookmark href="http://10.113.125.140/" id="885">
+      <title>Dashboard [Jenkins]</title>
+    </bookmark>
+    <bookmark href="https://ar1.jenkins.navercorp.com/edwith/edwith/" id="886">
+      <title>NCC [Jenkins]</title>
+    </bookmark>
+    <bookmark href="https://ar1.jenkins.navercorp.com/edwith/whaleclass/" id="887">
+      <title>whaleclass [Jenkins]</title>
+    </bookmark>
+    <bookmark href="http://view.ui.naver.com/edwith/edwith/feature/" id="888">
+      <title>PC마크업주소</title>
+    </bookmark>
+    <bookmark href="http://view.ui.naver.com/edwith/m.edwith/feature/" id="889">
+      <title>모바일마크업</title>
+    </bookmark>
+    <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=164376834" id="890">
+      <title>PWM 연동 안내문 - 운영시스템개발실 - WIKI</title>
+    </bookmark>
+    <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=462012698" id="891">
+      <title>Apple 로그인 연동 가이드 - 서비스플랫폼개발센터 - WIKI</title>
+    </bookmark>
+    <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=421221389" id="899">
+      <title>CUBRID &gt; Mysql 전환</title>
+    </bookmark>
+    <bookmark href="http://view.ui.naver.com/edwith/m.edwith/feature/RB.19.05.16.0_lnbbox/web_lecture_detail_layer.html#" id="900">
+      <title>마크업주소</title>
+    </bookmark>
+    <bookmark href="https://yobi.navercorp.com/main_subject/posts/624" id="901">
+      <title>main_subject : MOOC 파트너별 업무 투입량 관리(9월)</title>
+    </bookmark>
+  </folder>
+  <folder id="718">
+    <title>NBS</title>
+    <bookmark href="https://oss.navercorp.com/nbs" id="732">
+      <title>nbs</title>
+    </bookmark>
+    <bookmark href="https://oss.navercorp.com/webdev/partners-2nd-front" id="733">
+      <title>web</title>
+    </bookmark>
+    <bookmark href="https://oss.navercorp.com/webdev/saedu_admin" id="734">
+      <title>admin(old)</title>
+    </bookmark>
+    <bookmark href="https://oss.navercorp.com/eden/squarehome-admin" id="735">
+      <title>admin(new)</title>
+    </bookmark>
+    <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=198673750" id="736">
+      <title>파트너스퀘어 - SW+EDEN - WIKI</title>
+    </bookmark>
+    <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=1079038247" id="737">
+      <title>출시 일정 (22.10.13.목~) - NBS개발 - WIKI</title>
+    </bookmark>
+    <bookmark href="https://sqa.navercorp.com/testrail/index.php?/runs/view/46277&amp;group_by=cases:section_id&amp;group_order=asc&amp;group_id=1100505" id="738">
+      <title>Sanity Check List - TestRail</title>
+    </bookmark>
+    <bookmark href="https://www.erdcloud.com/" id="739">
+      <title>ERDCloud</title>
+    </bookmark>
+    <bookmark href="https://ndrive.navercorp.com/#/group/QDEwMDAwMDAwMDIxNTIxNTJ8MzQ3MjQ4MDE4NDI5Njk0NDkwNHxEfDM0NzI0ODAxODQyNjg0OTQ2MDA" id="740">
+      <title>공유폴더드라이브</title>
+    </bookmark>
+    <bookmark href="https://www.figma.com/file/GFxrKphzfK0HJqMRFMpd9v/NAVER_Business-school_Design-Proposal?node-id=1382%3A35794" id="741">
+      <title>NAVER_Business school_Design Proposal – Figma</title>
+    </bookmark>
+    <bookmark href="https://ar1.jenkins.navercorp.com/partnersq/partnersq-jenkins/" id="760">
+      <title>Dashboard [Jenkins]</title>
+    </bookmark>
+    <folder id="761">
+      <title>개발환경</title>
+      <bookmark href="https://ryuhojin.tistory.com/19" id="820">
+        <title>[ReactJS] React + TypeScript + Webpack5 초기 설정 (리액트 18 공식 대응 완료) :: 프론트엔드 복습노트</title>
+      </bookmark>
+      <bookmark href="https://velog.io/@byseop/SPA%EC%97%90%EC%84%9C-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%98%EC%A7%80-%EC%95%8A%EA%B3%A0-SEO-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0" id="821">
+        <title>SPA에서 서버사이드 렌더링을 구축하지 않고 SEO 최적화하기</title>
+      </bookmark>
+      <bookmark href="https://freestrokes.tistory.com/163?category=1196016" id="822">
+        <title>React ESLint + Prettier 적용하기</title>
+      </bookmark>
+      <bookmark href="https://www.daleseo.com/js-eslint/" id="823">
+        <title>[자바스크립트] ESLint로 소스 코드의 문제 찾기 | Engineering Blog by Dale Seo</title>
+      </bookmark>
+      <bookmark href="https://velog.io/@gygy/CRA%EC%97%86%EC%9D%B4-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-dotenv-ReferenceError-process-is-not-defined" id="824">
+        <title>CRA없이 환경변수 설정하기 - dotenv, ReferenceError: process is not defined</title>
+      </bookmark>
+      <bookmark href="https://knit.navercorp.com/basket/H7-w_YvPI" id="825">
+        <title>Knit - Get Started</title>
+      </bookmark>
+      <bookmark href="https://velog.io/@sodkdlel123/React-%EC%B4%88%EA%B8%B0-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0Webpack5-Typescript-React" id="826">
+        <title>CRA를 사용하지 않고 React 초기 세팅하기</title>
+      </bookmark>
+      <bookmark href="https://blog.logrocket.com/automatically-generate-react-components-plop-js/" id="827">
+        <title>Automatically generate React components with Plop.js - LogRocket Blog</title>
+      </bookmark>
+      <bookmark href="https://jymini.tistory.com/31" id="828">
+        <title>TIL | CRA 없이 React 세팅하기 — 소소한 개발이야기</title>
+      </bookmark>
+      <bookmark href="https://jforj.tistory.com/234" id="829">
+        <title>[React] CRA 사용하지 않고 타입 스크립트 개발환경 세팅하기</title>
+      </bookmark>
+      <folder id="863">
+        <title>boot+react</title>
+        <bookmark href="https://velog.io/@cho876/SpringBoot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%88%EC%97%90-React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%84%A3%EA%B8%B0" id="871">
+          <title>[개발환경] SpringBoot + React 통합 환경 구성하기</title>
+        </bookmark>
+        <bookmark href="https://velog.io/@u-nij/Spring-Boot-React.js-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85" id="872">
+          <title>Spring Boot + React.js 개발환경 연동하기</title>
+        </bookmark>
+      </folder>
+      <folder id="864">
+        <title>nginx</title>
+        <bookmark href="https://blog.naver.com/ljk2491/220477817469" id="873">
+          <title>nginx 설치 : 네이버 블로그</title>
+        </bookmark>
+        <bookmark href="https://www.hanumoka.net/2019/12/29/react-20191229-react-nginx-deploy/" id="874">
+          <title>React를 Nginx웹 서버에 배포하기 | Hanumoka, IT Blog</title>
+        </bookmark>
+        <bookmark href="https://sihus.tistory.com/31" id="875">
+          <title>[Nginx] React 프로젝트 배포하는 방법</title>
+        </bookmark>
+        <bookmark href="https://www.jungyin.com/230" id="876">
+          <title>nginx security setting</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://www.baeldung.com/spring-events" id="865">
+        <title>Spring Events | Baeldung</title>
+      </bookmark>
+      <bookmark href="https://recoiljs.org/ko/docs/introduction/installation/" id="866">
+        <title>설치 | Recoil</title>
+      </bookmark>
+    </folder>
+    <folder id="762">
+      <title>smarteditor</title>
+      <bookmark href="https://pages.oss.navercorp.com/SE3/SE-Guide/dev-guide/docs/api/server-auth.html" id="830">
+        <title>SmartEditor Developers</title>
+      </bookmark>
+      <bookmark href="https://yobi.navercorp.com/logoproject/posts/4?referrerId=-1803723024" id="831">
+        <title>logoproject : 로고프로젝트 스마트에디터 적용 전 확인 사항</title>
+      </bookmark>
+      <bookmark href="https://oss.navercorp.com/webdev/cmd_event_admin/tree/7f85a63a27bc439a914e561e7347ff7596daa659/src/main/java/com/nhncorp/cmd/logo/service" id="832">
+        <title>cmd_event_admin/src/main/java/com/nhncorp/cmd/logo/service at 7f85a63a27bc439a914e561e7347ff7596daa659 · webdev/cmd_event_admin</title>
+      </bookmark>
+    </folder>
+    <folder id="763">
+      <title>study</title>
+      <bookmark href="https://oingdaddy.tistory.com/393" id="833">
+        <title></title>
+      </bookmark>
+      <bookmark href="https://velog.io/@bey1548/axios-await-async" id="834">
+        <title>axios, await, async</title>
+      </bookmark>
+      <bookmark href="https://velog.io/@kysung95/%EC%A7%A4%EB%A7%89%EA%B8%80-Interface%EC%99%80-Class%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90" id="835">
+        <title>[짤막글] Interface와 Class의 차이점</title>
+      </bookmark>
+      <bookmark href="https://blog.logrocket.com/optimize-react-apps-using-a-multi-layered-structure/" id="836">
+        <title>Optimize React apps using a multi-layered structure - LogRocket Blog</title>
+      </bookmark>
+      <bookmark href="https://react.vlpt.us/basic/22-context-dispatch.html" id="837">
+        <title>22. Context API 를 사용한 전역 값 관리 · GitBook</title>
+      </bookmark>
+      <bookmark href="https://react.vlpt.us/mashup-todolist/02-manage-state.html" id="838">
+        <title>2. Context API를 활용한 상태 관리 · GitBook</title>
+      </bookmark>
+    </folder>
+    <folder id="764">
+      <title>업무정리</title>
+      <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=995394901" id="839">
+        <title>네이버비즈니스스쿨 개편 (bizschool + bizonline) check list(M1-2차) - 플랫폼개발실 - WIKI</title>
+      </bookmark>
+      <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=995394861" id="840">
+        <title>네이버비즈니스스쿨 개편 (bizschool + bizonline) check list(M1-1차) - 플랫폼개발실 - WIKI</title>
+      </bookmark>
+      <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=1097817594" id="841">
+        <title>네이버비즈니스스쿨 개편 check list (Admin FE/API) - 플랫폼개발실 - WIKI</title>
+      </bookmark>
+      <bookmark href="https://yobi.navercorp.com/main_subject/posts/590" id="842">
+        <title>main_subject : MOOC 파트너별 업무 투입량 관리(8월)</title>
+      </bookmark>
+      <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=1075281839" id="843">
+        <title>a.서비스용 API - NBS개발 - WIKI</title>
+      </bookmark>
+    </folder>
+    <folder id="765">
+      <title>colorpicker</title>
+      <bookmark href="https://openbase.com/js/react-color" id="844">
+        <title>react-color: Docs, Tutorials, Reviews | Openbase</title>
+      </bookmark>
+      <bookmark href="https://webisfree.com/2014-01-28/[javascript]-%EB%A7%88%EC%9A%B0%EC%8A%A4%EB%A1%9C-%EC%84%A0%ED%83%9D%EB%90%9C-%EB%B2%94%EC%9C%84-%EA%B0%92-text%EB%A1%9C-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0-getselection()" id="845">
+        <title>[JavaScript] 마우스로 선택된 범위 값 text로 불러오기, getSelection()</title>
+      </bookmark>
+      <bookmark href="https://webisfree.com/2020-11-18/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%BB%A4%EC%84%9C-%EC%9C%84%EC%B9%98-%EB%B0%8F-%EC%84%A0%ED%83%9D-%EC%98%81%EC%97%AD%EC%97%90-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%B0%8F-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0" id="846">
+        <title>자바스크립트 커서 위치 및 선택 영역에 텍스트 및 엘리먼트 추가하기</title>
+      </bookmark>
+      <bookmark href="http://jsfiddle.net/plantface/8zevmL4d/" id="847">
+        <title>Editable div - JSFiddle - Code Playground</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://yamoo9.gitbook.io/typescript/types" id="766">
+      <title>타입 - TypeScript Guidebook</title>
+    </bookmark>
+    <bookmark href="https://inpa.tistory.com/entry/VS-Code-%E2%8F%B1%EF%B8%8F-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%A0%95%EB%A6%AC" id="767">
+      <title>[VSCode] 💽 유용한 단축키 사용법 모음 - 개발을 누구보다 빠르게</title>
+    </bookmark>
+    <bookmark href="https://yobi.navercorp.com/NAVER-Engineeringday-2022/posts/65" id="768">
+      <title>NAVER-Engineeringday-2022 : OwFS보다, Papyrus보다, 더 신선하고 맛있는 Lemon</title>
+    </bookmark>
+    <bookmark href="https://www.baeldung.com/mapstruct" id="769">
+      <title>Quick Guide to MapStruct | Baeldung</title>
+    </bookmark>
+    <bookmark href="https://devlog-wjdrbs96.tistory.com/414" id="851">
+      <title>[Spring] Spring Data JPA에서 Paging 간단하게 구현하는 법 :: Gyun&apos;s 개발일지</title>
+    </bookmark>
+    <bookmark href="https://beaniejoy.tistory.com/56" id="852">
+      <title>[Spring] 이벤트 처리를 위한 스케줄러 작업 조정(ShedLock 활용)</title>
+    </bookmark>
+    <bookmark href="https://jeonyoungho.github.io/posts/Open-API-3.0-Swagger-v3-%EC%83%81%EC%84%B8%EC%84%A4%EC%A0%95/" id="853">
+      <title>[Swagger] Open API 3.0 Swagger v3 상세설정 | Youngho&apos;s Devlog</title>
+    </bookmark>
+    <bookmark href="https://github.com/google/google-java-format" id="854">
+      <title>GitHub - google/google-java-format: Reformats Java source code to comply with Google Java Style.</title>
+    </bookmark>
+    <bookmark href="https://atoz-develop.tistory.com/entry/Spring-ApplicationEventPublisher%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D" id="855">
+      <title>[Spring] ApplicationEventPublisher를 이용한 이벤트 프로그래밍</title>
+    </bookmark>
+    <bookmark href="https://oss.navercorp.com/nbs/Meeting/issues/49" id="870">
+      <title>Q.A 일정 논의 및 진행방법 · Issue #49 · nbs/Meeting</title>
+    </bookmark>
+    <bookmark href="https://oss.navercorp.com/nbs/Meeting/issues/61" id="877">
+      <title>리얼 환경 구축 · Issue #61 · nbs/Meeting</title>
+    </bookmark>
+  </folder>
+  <bookmark href="http://nsight.navercorp.com/#/home" id="719">
+    <title>NSight</title>
+  </bookmark>
+  <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=569320383" id="720">
+    <title>MySQL 설치/MMM/백업/복구 - DBA Ora/Cub[ 변정원 ] - WIKI</title>
+  </bookmark>
+  <bookmark href="https://monitor.nfront.navercorp.com/d/000000026/traffic-request-service-detailed-short-term?orgId=8&amp;refresh=1m&amp;var-Proxy_name=ac-papago.naver.com&amp;var-Proxy_name=standby-campaign.naver.com&amp;var-Host=All&amp;var-Service=BACKEND&amp;var-Pier=All&amp;var-IDC=All&amp;var-Process=All&amp;var-Timegroup=$__auto_interval_Timegroup" id="721">
+    <title>[Traffic / Request ] Service Detailed - Short term - Grafana</title>
+  </bookmark>
+  <bookmark href="http://ngrinder.navercorp.com/perftest/269980" id="742">
+    <title>성능 테스트 결과</title>
+  </bookmark>
+  <bookmark href="https://wiki.navercorp.com/pages/viewpage.action?pageId=302492369" id="743">
+    <title>계정 정보 - 사번으로 조회 - 사내정보 Open Service - WIKI</title>
+  </bookmark>
+  <bookmark href="http://nmobile.navercorp.com/service/#" id="744">
+    <title>nmobile.navercorp.com</title>
+  </bookmark>
+  <bookmark href="https://oss.navercorp.com/nfront/request" id="745">
+    <title>nfront/request: nFront 문의 창구 및 history 관리 목적</title>
+  </bookmark>
+  <bookmark href="https://pages.oss.navercorp.com/nxblocker/docs/installation-guide/" id="746">
+    <title>연동 가이드 - NxBlocker</title>
+  </bookmark>
+  <bookmark href="https://oss.navercorp.com/ETECH/Cloud-Support-Photo" id="747">
+    <title>ETECH/Cloud-Support-Photo: 포토 관련 Issue 등록</title>
+  </bookmark>
+  <bookmark href="https://oss.navercorp.com/ETECH/Platform-Support-SmartEditor/issues" id="748">
+    <title>Issues · ETECH/Platform-Support-SmartEditor</title>
+  </bookmark>
+  <bookmark href="https://pages.oss.navercorp.com/dfs/nubes-public/introduction/" id="749">
+    <title>Introduction :: Nubes Documentation</title>
+  </bookmark>
+  <bookmark href="https://yobi.navercorp.com/nubes_qa/posts/13?referrerId=1099845906" id="770">
+    <title>nubes_qa : Nubes 문의 방법</title>
+  </bookmark>
+  <bookmark href="https://yobi.navercorp.com/COS" id="771">
+    <title>COS</title>
+  </bookmark>
+  <bookmark href="https://yobi.navercorp.com/mex" id="772">
+    <title>mex</title>
+  </bookmark>
+  <bookmark href="https://yobi.navercorp.com/logdata-open-docs/posts/20#yb-header-sti-%EA%B0%92%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EB%B6%84" id="773">
+    <title>logdata-open-docs : [LCS] 태그 적용 가이드</title>
+  </bookmark>
+  <bookmark href="https://yobi.navercorp.com/npush/posts/34" id="774">
+    <title>npush : NPUSH2 연동 가이드 (한국어)</title>
+  </bookmark>
+  <bookmark href="https://yobi.navercorp.com/ndeploy" id="848">
+    <title>ndeploy</title>
+  </bookmark>
+  <bookmark href="https://yobi.navercorp.com/nelo" id="849">
+    <title>nelo</title>
+  </bookmark>
+  <bookmark href="https://yobi.navercorp.com/nbase-arc_2.0_user/posts/1037?referrerId=-750540791" id="850">
+    <title>nbase-arc_2.0_user : [공지] nbase-arc 공용풀 운영 관련 공지</title>
+  </bookmark>
+  <bookmark href="http://nelo2.navercorp.com/" id="856">
+    <title>요약 - NELO2</title>
+  </bookmark>
+  <bookmark href="https://yobi.navercorp.com/devcafe_naverauth/posts/367?referrerId=1398027599" id="857">
+    <title>devcafe_naverauth : nvauth nginx 1.6.11</title>
+  </bookmark>
+  <bookmark href="https://yobi.navercorp.com/member/posts/197?referrerId=935388782" id="858">
+    <title>neoID인증모듈</title>
+  </bookmark>
+  <bookmark href="https://yobi.navercorp.com/pinpoint/posts/184" id="859">
+    <title>pinpoint : Pinpoint Agent 설치 방법</title>
+  </bookmark>
+  <bookmark href="http://pinpoint.navercorp.com/#/main/SCLOUD_WEB@TOMCAT/5m/2017-03-17-18-40-49" id="860">
+    <title>PINPOINT</title>
+  </bookmark>
+  <bookmark href="http://nals.navercorp.com/?category=pc" id="867">
+    <title>NDS(NALS)</title>
+  </bookmark>
+  <bookmark href="http://wiki.navercorp.com/pages/viewpage.action?pageId=256032483" id="868">
+    <title>소셜플러그인 개발가이드 Ver.2 - 개인화서비스개발랩 - WIKI</title>
+  </bookmark>
+  <bookmark href="https://pages.oss.navercorp.com/comment/cbox.docs/comment-api/" id="869">
+    <title>공통댓글 가이드</title>
+  </bookmark>
+  <bookmark href="http://dbip2.navercorp.com/index.nhn" id="878">
+    <title>DBIP2</title>
+  </bookmark>
+  <bookmark href="http://wiki.navercorp.com/pages/viewpage.action?pageId=278486319" id="879">
+    <title>ndeploy와 git연동하기 - 웹서비스개발실 - 위즐</title>
+  </bookmark>
+  <bookmark href="https://pages.oss.navercorp.com/engineering/jdk-guide/" id="880">
+    <title>JDK 사용 가이드</title>
+  </bookmark>
+  <bookmark href="https://pages.oss.navercorp.com/whale/whale-navercorp-com/" id="881">
+    <title>사내 확장앱 아카이브</title>
+  </bookmark>
+  <bookmark href="https://oss.navercorp.com/fe-platform/react-guide2" id="882">
+    <title>React 개발 가이드 2 - 라이브러리 선택 가이드</title>
+  </bookmark>
+</folder>
+<folder id="898">
+  <title>lostark</title>
+  <bookmark href="https://kloa.gg/merchant" id="902">
+    <title>떠돌이 상인 - 클로아</title>
+  </bookmark>
+  <bookmark href="https://cho.elphago.work/" id="903">
+    <title>초파고-초월 3등급 조언 프로그램</title>
+  </bookmark>
+  <bookmark href="https://loachart.com/rewardcalc" id="904">
+    <title>더보기 계산기 :: LoaChart|로아차트</title>
+  </bookmark>
+  <bookmark href="https://www.inven.co.kr/board/lostark/6271/1171728?name=subject&amp;keyword=%EB%AA%A8%EC%BD%94%EC%BD%94&amp;sterm=8845190" id="905">
+    <title>로스트아크 인벤 : 림레이크 모험의 서 (모코코 完) - 로스트아크 인벤 자유 게시판</title>
+  </bookmark>
+  <bookmark href="https://www.inven.co.kr/board/lostark/4821/99243?p=2" id="906">
+    <title>로스트아크 인벤 : 쿠르잔 북부 고고학 - 로스트아크 인벤 팁과 노하우 게시판</title>
+  </bookmark>
+  <bookmark href="https://www.inven.co.kr/board/lostark/4821/91228" id="907">
+    <title>로스트아크 인벤 : 볼다이크 모코코 (35/35) 4월 13일 - 로스트아크 인벤 팁과 노하우 게시판</title>
+  </bookmark>
+  <bookmark href="http://www.inven.co.kr/board/lostark/4821/70441?name=subject&amp;keyword=%EC%9D%B8%EC%9E%A5" id="908">
+    <title>로스트아크 인벤 : 원정대 영지 인장 구매 물품들 - 로스트아크 인벤 팁과 노하우 게시판</title>
+  </bookmark>
+  <bookmark href="https://www.inven.co.kr/board/lostark/4821/106546" id="909">
+    <title>로스트아크 인벤 : 딜러 전투력 로직 분석 (25년 7월 9일 패치 반영) - 로스트아크 인벤 팁과 노하우 게시판</title>
+  </bookmark>
+  <bookmark href="https://www.inven.co.kr/board/lostark/4821/106566" id="910">
+    <title>로스트아크 인벤 : 서폿 전투력 로직 분석 (25년 7월 9일 패치 반영) - 로스트아크 인벤 팁과 노하우 게시판</title>
+  </bookmark>
+  <folder id="911">
+    <title>3막</title>
+    <bookmark href="https://www.youtube.com/watch?v=6SoQNzsTyrA&amp;t=3s" id="912">
+      <title>하드3막 2관 짤패 모음집 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=mz4061QBAjk" id="913">
+      <title>[로스트아크] 3막 3관문 모르둠 하드 완전공략⚔️ (꼭 보셔야합니다. 너프패치 반영, 최고 디테일, 짤패턴, 공대장가이드) - YouTube</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://loa.icepeng.com/" id="914">
+    <title>LoaCalc - 로스트아크 최적화 계산기</title>
+  </bookmark>
+  <bookmark href="https://loa.icepeng.com/imprinting" id="915">
+    <title>LoaCalc : 각인 최적화 - 로스트아크 최적화 계산기</title>
+  </bookmark>
+  <bookmark href="https://docs.google.com/spreadsheets/d/11eU35aYfMXEgd1DQtU_tHy3nD1OMzlGJV-yxvdyOzyo/edit?hl=ko#gid=0" id="916">
+    <title>로아장신구 - Google Sheets</title>
+  </bookmark>
+  <bookmark href="https://www.inven.co.kr/board/lostark/5350/162975" id="917">
+    <title>로스트아크 인벤 : 서폿 팔찌 옵션 효율 정리 - 로스트아크 인벤 바드 게시판</title>
+  </bookmark>
+</folder>
+<folder id="918">
+  <title>AI</title>
+  <bookmark href="https://chat.chatbotapp.ai/claude?utm_source=GoogleAds&amp;utm_medium=cpc&amp;utm_campaign={campaign}&amp;utm_id=21162280270&amp;utm_term=173957220377&amp;utm_content=737256587995&amp;gad_source=1&amp;gbraid=0AAAAA9X0Rz1bZthmEfr84h0CEQN6d0afi&amp;gclid=CjwKCAjwn6LABhBSEiwAsNJrjqCox2FseXQzL3NWd4xx0RedEuIeBP3m-vX5rGP2iKbKoKawAcVopBoCipoQAvD_BwE" id="919">
+    <title>Claude - AI Chatbot</title>
+  </bookmark>
+  <bookmark href="https://claude.ai/chat/b7b0d2d1-0ac4-45e8-b053-6c344ae55f8e" id="920">
+    <title>함께 코딩해보아요 - Claude</title>
+  </bookmark>
+  <bookmark href="https://aistudio.google.com/prompts/new_chat" id="921">
+    <title>Google AI Studio</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app?hl=ko" id="922">
+    <title>Gemini</title>
+  </bookmark>
+  <bookmark href="https://grok.com/" id="923">
+    <title>Grok</title>
+  </bookmark>
+  <folder id="924">
+    <title>ollama</title>
+    <bookmark href="https://codingopera.tistory.com/77" id="929">
+      <title>[초등학생도 이해하는] 라마 3.1 설치 방법 초간단 정리(올라마, Ollama)</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=7cwFhX14nkg" id="930">
+      <title>시간은 금이다: LLM을 이용한 AI 코드 리뷰 도입기 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://patrasche25.tistory.com/120" id="931">
+      <title>Ollama와 한글 LLM모델 로컬설치 :: 팥들었슈</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.genspark.ai/" id="925">
+    <title>Genspark - 검색 재발명. 에이전틱 엔진에 오신 것을 환영합니다.</title>
+  </bookmark>
+  <bookmark href="https://oo.ai/" id="926">
+    <title>oo.ai | 가장 빠른 AI 검색</title>
+  </bookmark>
+  <bookmark href="https://doooob.tistory.com/426" id="927">
+    <title>스테이블 디퓨전 결정판「Google Colab + Stable Diffusion Web UI AUTOMATIC1111판」설치 정리(GPU 불필요)</title>
+  </bookmark>
+  <bookmark href="https://www.krea.ai/?q=ironman" id="928">
+    <title>KREA — create better prompts.</title>
+  </bookmark>
+  <bookmark href="https://dytis.tistory.com/113" id="932">
+    <title>MCP(Model Context Protocol)이 뭐길래? 실습편 — DEV.DY</title>
+  </bookmark>
+  <bookmark href="https://news.hada.io/topic?id=20274" id="933">
+    <title>Google A2A 프로토콜 첫인상 - MCP와의 비교 | GeekNews</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=L1XX_3A403o" id="934">
+    <title>AI도구를 사용하여 공부에 활용하는 방법 - YouTube</title>
+  </bookmark>
+</folder>
+<bookmark href="https://chat.openai.com/chat" id="935">
+  <title>New chat</title>
+</bookmark>
+<bookmark href="https://www.cram.com/flashcards/cnn-14542316" id="936">
+  <title>Investigators arrive at South Korean president’s residence to carry out arrest warrant Foreign Language Flashcards - Cram.com</title>
+</bookmark>
+<bookmark href="https://manuals.plus/ko/vgn/n75-pro-mechanical-keyboard-manual#axzz8W9ilGjX7" id="937">
+  <title>VGN N75 Pro 기계식 키보드 사용 설명서</title>
+</bookmark>
+<bookmark href="https://www.inflearn.com/" id="938">
+  <title>인프런 - 배움으로 가치를 높이세요.</title>
+</bookmark>
+<bookmark href="https://stackoverflow.com/questions/63505670/apache-cant-connect-to-new-tomcat-9-ajp" id="939">
+  <title>spring boot - Apache can&apos;t connect to new tomcat 9 ajp - Stack Overflow</title>
+</bookmark>
+<bookmark href="https://zipdoc.co.kr/product/construction/list" id="940">
+  <title>종합 인테리어 사례 목록</title>
+</bookmark>
+<bookmark href="https://www.gonghim.com/examples?stid=0" id="941">
+  <title>공간의힘</title>
+</bookmark>
+<bookmark href="https://nullsto.edu.pl/" id="942">
+  <title>Nullsto - Temporary education email generator</title>
+</bookmark>
+</xbel>
