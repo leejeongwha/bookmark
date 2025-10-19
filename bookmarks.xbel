@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :943: for Floccus bookmark sync browser extension -->
+<!--- highestId :944: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>NHNCloud</title>
@@ -2713,6 +2713,9 @@
   </bookmark>
   <bookmark href="https://loachart.com/rewardcalc" id="904">
     <title>더보기 계산기 :: LoaChart|로아차트</title>
+  </bookmark>
+  <bookmark href="https://blog.naver.com/jackie0012/222700716474" id="944">
+    <title>[완성] 로아인벤의 인증글 모든업적클리어! 로.. : 네이버블로그</title>
   </bookmark>
   <bookmark href="https://www.inven.co.kr/board/lostark/6271/1171728?name=subject&amp;keyword=%EB%AA%A8%EC%BD%94%EC%BD%94&amp;sterm=8845190" id="905">
     <title>로스트아크 인벤 : 림레이크 모험의 서 (모코코 完) - 로스트아크 인벤 자유 게시판</title>
