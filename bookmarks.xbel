@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :946: for Floccus bookmark sync browser extension -->
+<!--- highestId :947: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>NHNCloud</title>
@@ -2790,6 +2790,9 @@
     </bookmark>
     <bookmark href="https://docs.spring.io/spring-ai/reference/api/chat/ollama-chat.html" id="946">
       <title>Ollama Chat :: Spring AI Reference</title>
+    </bookmark>
+    <bookmark href="https://github.nhnent.com/infrasolution" id="947">
+      <title>infrasolution</title>
     </bookmark>
   </folder>
   <bookmark href="https://www.genspark.ai/" id="925">
