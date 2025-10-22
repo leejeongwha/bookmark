@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :944: for Floccus bookmark sync browser extension -->
+<!--- highestId :945: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>NHNCloud</title>
@@ -2834,5 +2834,8 @@
 </bookmark>
 <bookmark href="https://nullsto.edu.pl/" id="942">
   <title>Nullsto - Temporary education email generator</title>
+</bookmark>
+<bookmark href="https://puddingcamp.com/roadmaps/kotlin-springboot-ollama-api-bootcamp" id="945">
+  <title>Kotlin과 Spring Boot로 Ollama API 연동 웹 애플리케이션 실습 로드맵</title>
 </bookmark>
 </xbel>
