@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :945: for Floccus bookmark sync browser extension -->
+<!--- highestId :946: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>NHNCloud</title>
@@ -2785,6 +2785,12 @@
     <bookmark href="https://codingopera.tistory.com/77" id="929">
       <title>[초등학생도 이해하는] 라마 3.1 설치 방법 초간단 정리(올라마, Ollama)</title>
     </bookmark>
+    <bookmark href="https://puddingcamp.com/roadmaps/kotlin-springboot-ollama-api-bootcamp" id="945">
+      <title>Kotlin과 Spring Boot로 Ollama API 연동 웹 애플리케이션 실습 로드맵</title>
+    </bookmark>
+    <bookmark href="https://docs.spring.io/spring-ai/reference/api/chat/ollama-chat.html" id="946">
+      <title>Ollama Chat :: Spring AI Reference</title>
+    </bookmark>
   </folder>
   <bookmark href="https://www.genspark.ai/" id="925">
     <title>Genspark - 검색 재발명. 에이전틱 엔진에 오신 것을 환영합니다.</title>
@@ -2834,8 +2840,5 @@
 </bookmark>
 <bookmark href="https://nullsto.edu.pl/" id="942">
   <title>Nullsto - Temporary education email generator</title>
-</bookmark>
-<bookmark href="https://puddingcamp.com/roadmaps/kotlin-springboot-ollama-api-bootcamp" id="945">
-  <title>Kotlin과 Spring Boot로 Ollama API 연동 웹 애플리케이션 실습 로드맵</title>
 </bookmark>
 </xbel>
