@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :951: for Floccus bookmark sync browser extension -->
+<!--- highestId :952: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>NHNCloud</title>
@@ -2708,9 +2708,6 @@
   <bookmark href="https://kloa.gg/merchant" id="902">
     <title>떠돌이 상인 - 클로아</title>
   </bookmark>
-  <bookmark href="https://cho.elphago.work/" id="903">
-    <title>초파고-초월 3등급 조언 프로그램</title>
-  </bookmark>
   <bookmark href="https://loachart.com/rewardcalc" id="904">
     <title>더보기 계산기 :: LoaChart|로아차트</title>
   </bookmark>
@@ -2735,26 +2732,14 @@
   <bookmark href="https://www.inven.co.kr/board/lostark/4821/106566" id="910">
     <title>로스트아크 인벤 : 서폿 전투력 로직 분석 (25년 7월 9일 패치 반영) - 로스트아크 인벤 팁과 노하우 게시판</title>
   </bookmark>
-  <folder id="911">
-    <title>3막</title>
-    <bookmark href="https://www.youtube.com/watch?v=6SoQNzsTyrA&amp;t=3s" id="912">
-      <title>하드3막 2관 짤패 모음집 - YouTube</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=mz4061QBAjk" id="913">
-      <title>[로스트아크] 3막 3관문 모르둠 하드 완전공략⚔️ (꼭 보셔야합니다. 너프패치 반영, 최고 디테일, 짤패턴, 공대장가이드) - YouTube</title>
-    </bookmark>
-  </folder>
   <bookmark href="https://loa.icepeng.com/" id="914">
     <title>LoaCalc - 로스트아크 최적화 계산기</title>
   </bookmark>
-  <bookmark href="https://loa.icepeng.com/imprinting" id="915">
-    <title>LoaCalc : 각인 최적화 - 로스트아크 최적화 계산기</title>
-  </bookmark>
-  <bookmark href="https://docs.google.com/spreadsheets/d/11eU35aYfMXEgd1DQtU_tHy3nD1OMzlGJV-yxvdyOzyo/edit?hl=ko#gid=0" id="916">
-    <title>로아장신구 - Google Sheets</title>
-  </bookmark>
   <bookmark href="https://www.inven.co.kr/board/lostark/5350/162975" id="917">
     <title>로스트아크 인벤 : 서폿 팔찌 옵션 효율 정리 - 로스트아크 인벤 바드 게시판</title>
+  </bookmark>
+  <bookmark href="https://sunnypop424.github.io/#/core/optimizer" id="952">
+    <title>로아 아크그리드 젬 장착 헬퍼</title>
   </bookmark>
 </folder>
 <folder id="918">
@@ -2846,12 +2831,6 @@
 </bookmark>
 <bookmark href="https://stackoverflow.com/questions/63505670/apache-cant-connect-to-new-tomcat-9-ajp" id="939">
   <title>spring boot - Apache can&apos;t connect to new tomcat 9 ajp - Stack Overflow</title>
-</bookmark>
-<bookmark href="https://zipdoc.co.kr/product/construction/list" id="940">
-  <title>종합 인테리어 사례 목록</title>
-</bookmark>
-<bookmark href="https://www.gonghim.com/examples?stid=0" id="941">
-  <title>공간의힘</title>
 </bookmark>
 <bookmark href="https://nullsto.edu.pl/" id="942">
   <title>Nullsto - Temporary education email generator</title>
