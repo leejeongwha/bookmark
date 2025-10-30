@@ -142,72 +142,6 @@
         <title>Java: Managing Incoming Messages: A Guide to Creating a Functional TCP Server Socket Using Spring Boot</title>
       </bookmark>
     </folder>
-    <folder id="406">
-      <title>kmip</title>
-      <bookmark href="https://docs.oasis-open.org/kmip/kmip-addtl-msg-enc/v1.0/os/kmip-addtl-msg-enc-v1.0-os.html" id="495">
-        <title>KMIP Additional Message Encodings Version 1.0</title>
-      </bookmark>
-      <bookmark href="https://docs.oasis-open.org/kmip/kmip-spec/v2.0/os/kmip-spec-v2.0-os.html#_Toc6497444" id="496">
-        <title>Key Management Interoperability Protocol Specification Version 2.0</title>
-      </bookmark>
-      <bookmark href="https://docs.oasis-open.org/kmip/kmip-ug/v2.1/kmip-ug-v2.1.html" id="497">
-        <title>Key Management Interoperability Protocol Usage Guide Version 2.1</title>
-      </bookmark>
-      <bookmark href="https://docs.oasis-open.org/kmip/kmip-testcases/v2.1/kmip-testcases-v2.1.html" id="498">
-        <title>Key Management Interoperability Protocol Test Cases Version 2.1</title>
-      </bookmark>
-      <bookmark href="https://github.com/VedikaGhai/KMIP-2.0-Implementation/tree/master/src" id="499">
-        <title>KMIP-2.0-Implementation/src at master · VedikaGhai/KMIP-2.0-Implementation · GitHub</title>
-      </bookmark>
-      <bookmark href="https://indienote.tistory.com/674" id="500">
-        <title>KMIP4J - Open source implementation of Key Management Interoperability Protocol</title>
-      </bookmark>
-      <bookmark href="https://sourceforge.net/p/kmip4j/code/HEAD/tree/trunk/examples/client/KMIPClient/config/StubConfig.xml" id="501">
-        <title>KMIP4J / Code / [r7] /trunk/examples/client/KMIPClient/config/StubConfig.xml</title>
-      </bookmark>
-      <bookmark href="https://www.cryptsoft.com/index.html#kmipj" id="502">
-        <title>Cryptsoft</title>
-      </bookmark>
-      <bookmark href="https://www.cryptsoft.com/index.html#kmipj_server" id="503">
-        <title>Cryptsoft</title>
-      </bookmark>
-      <bookmark href="https://www.google.com/search?q=spring+xml+response&amp;oq=spring+xml+response&amp;gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBwgBEAAYgAQyBggCEAAYHjIGCAMQABgeMgYIBBAAGB4yBggFEAAYHjIGCAYQABgeMggIBxAAGAgYHjIICAgQABgIGB4yCAgJEAAYCBge0gEINDc2NGowajeoAgCwAgA&amp;sourceid=chrome&amp;ie=UTF-8#ip=1" id="504">
-        <title>spring xml response - Google 검색</title>
-      </bookmark>
-      <bookmark href="https://docs.netapp.com/us-en/ontap/s3-config/create-install-ca-certificate-svm-task.html" id="602">
-        <title>Create and install a CA certificate on the SVM</title>
-      </bookmark>
-      <bookmark href="https://kb.netapp.com/Special:Search?query=kmip&amp;type=wiki" id="603">
-        <title>Search - NetApp Knowledge Base</title>
-      </bookmark>
-      <bookmark href="https://docs.netapp.com/us-en/ontap/encryption-at-rest/configure-netapp-volume-encryption-concept.html#support-details" id="604">
-        <title>Configure NetApp Volume Encryption overview</title>
-      </bookmark>
-      <bookmark href="https://kb.netapp.com/onprem/ontap/dm/Encryption/FAQ_NetApp_Volume_Encryption_and_NetApp_Aggregate_Encryption" id="605">
-        <title>FAQ - NetApp Volume Encryption and NetApp Aggregate Encryption - NetApp Knowledge Base</title>
-      </bookmark>
-      <bookmark href="https://www.cisco.com/c/ko_kr/support/docs/content-networking/certificates/216517-configure-remote-key-management-on-stand.pdf" id="606">
-        <title>독립형 랙 서버에서 원격 키 관리 구성</title>
-      </bookmark>
-      <bookmark href="https://www.floodnut.com/75" id="607">
-        <title>[OAuth 2.0 API 보안] TLS를 통한 API 보안 :: 직립보행 돌고래의 IQ 세자릿수 달성하기</title>
-      </bookmark>
-      <bookmark href="https://access.redhat.com/documentation/ko-kr/red_hat_enterprise_linux/8/html/deploying_different_types_of_servers/configuring-tls-client-certificate-authentication_setting-apache-http-server" id="608">
-        <title>1.10. TLS 클라이언트 인증서 인증 구성 Red Hat Enterprise Linux 8 | Red Hat Customer Portal</title>
-      </bookmark>
-      <bookmark href="https://medium.com/geekculture/authentication-using-certificates-7e2cfaacd18b" id="609">
-        <title>Spring boot Authentication using Certificates? | by Suriya | Geek Culture | Medium</title>
-      </bookmark>
-      <bookmark href="https://ahyuo79.blogspot.com/2020/03/ecdsa-key-certificate.html" id="610">
-        <title>Jeonghun (James) Lee: ECDSA 기반의 Key 및 Certificate 분석</title>
-      </bookmark>
-      <bookmark href="http://api-keymanager.cloud.toast.com:8090/swagger-ui/index.html#/kmip-mapping-controller/mapping" id="611">
-        <title>Swagger UI</title>
-      </bookmark>
-      <bookmark href="http://beta-kmip-api-keymanager.cloud.toastoven.net:8090/swagger-ui/index.html#/kmip-mapping-controller/mapping" id="631">
-        <title>Swagger UI(beta)</title>
-      </bookmark>
-    </folder>
     <folder id="407">
       <title>CentOS서비스등록</title>
       <bookmark href="https://haenny.tistory.com/141" id="505">
@@ -248,6 +182,69 @@
       </bookmark>
       <bookmark href="https://www.youtube.com/watch?v=ECa8sAqE7M4" id="516">
         <title>How to use Vault Secrets Operator in Kubernetes - YouTube</title>
+      </bookmark>
+    </folder>
+    <folder id="406">
+      <title>KMIP</title>
+      <bookmark href="https://docs.oasis-open.org/kmip/kmip-addtl-msg-enc/v1.0/os/kmip-addtl-msg-enc-v1.0-os.html" id="495">
+        <title>KMIP Additional Message Encodings Version 1.0</title>
+      </bookmark>
+      <bookmark href="https://docs.oasis-open.org/kmip/kmip-spec/v2.0/os/kmip-spec-v2.0-os.html#_Toc6497444" id="496">
+        <title>Key Management Interoperability Protocol Specification Version 2.0</title>
+      </bookmark>
+      <bookmark href="https://docs.oasis-open.org/kmip/kmip-ug/v2.1/kmip-ug-v2.1.html" id="497">
+        <title>Key Management Interoperability Protocol Usage Guide Version 2.1</title>
+      </bookmark>
+      <bookmark href="https://docs.oasis-open.org/kmip/kmip-testcases/v2.1/kmip-testcases-v2.1.html" id="498">
+        <title>Key Management Interoperability Protocol Test Cases Version 2.1</title>
+      </bookmark>
+      <bookmark href="https://github.com/VedikaGhai/KMIP-2.0-Implementation/tree/master/src" id="499">
+        <title>KMIP-2.0-Implementation/src at master · VedikaGhai/KMIP-2.0-Implementation · GitHub</title>
+      </bookmark>
+      <bookmark href="https://indienote.tistory.com/674" id="500">
+        <title>KMIP4J - Open source implementation of Key Management Interoperability Protocol</title>
+      </bookmark>
+      <bookmark href="https://sourceforge.net/p/kmip4j/code/HEAD/tree/trunk/examples/client/KMIPClient/config/StubConfig.xml" id="501">
+        <title>KMIP4J / Code / [r7] /trunk/examples/client/KMIPClient/config/StubConfig.xml</title>
+      </bookmark>
+      <bookmark href="https://www.cryptsoft.com/index.html#kmipj" id="502">
+        <title>Cryptsoft</title>
+      </bookmark>
+      <bookmark href="https://www.cryptsoft.com/index.html#kmipj_server" id="503">
+        <title>Cryptsoft</title>
+      </bookmark>
+      <bookmark href="https://docs.netapp.com/us-en/ontap/s3-config/create-install-ca-certificate-svm-task.html" id="602">
+        <title>Create and install a CA certificate on the SVM</title>
+      </bookmark>
+      <bookmark href="https://kb.netapp.com/Special:Search?query=kmip&amp;type=wiki" id="603">
+        <title>Search - NetApp Knowledge Base</title>
+      </bookmark>
+      <bookmark href="https://docs.netapp.com/us-en/ontap/encryption-at-rest/configure-netapp-volume-encryption-concept.html#support-details" id="604">
+        <title>Configure NetApp Volume Encryption overview</title>
+      </bookmark>
+      <bookmark href="https://kb.netapp.com/onprem/ontap/dm/Encryption/FAQ_NetApp_Volume_Encryption_and_NetApp_Aggregate_Encryption" id="605">
+        <title>FAQ - NetApp Volume Encryption and NetApp Aggregate Encryption - NetApp Knowledge Base</title>
+      </bookmark>
+      <bookmark href="https://www.cisco.com/c/ko_kr/support/docs/content-networking/certificates/216517-configure-remote-key-management-on-stand.pdf" id="606">
+        <title>독립형 랙 서버에서 원격 키 관리 구성</title>
+      </bookmark>
+      <bookmark href="https://www.floodnut.com/75" id="607">
+        <title>[OAuth 2.0 API 보안] TLS를 통한 API 보안 :: 직립보행 돌고래의 IQ 세자릿수 달성하기</title>
+      </bookmark>
+      <bookmark href="https://access.redhat.com/documentation/ko-kr/red_hat_enterprise_linux/8/html/deploying_different_types_of_servers/configuring-tls-client-certificate-authentication_setting-apache-http-server" id="608">
+        <title>1.10. TLS 클라이언트 인증서 인증 구성 Red Hat Enterprise Linux 8 | Red Hat Customer Portal</title>
+      </bookmark>
+      <bookmark href="https://medium.com/geekculture/authentication-using-certificates-7e2cfaacd18b" id="609">
+        <title>Spring boot Authentication using Certificates? | by Suriya | Geek Culture | Medium</title>
+      </bookmark>
+      <bookmark href="https://ahyuo79.blogspot.com/2020/03/ecdsa-key-certificate.html" id="610">
+        <title>Jeonghun (James) Lee: ECDSA 기반의 Key 및 Certificate 분석</title>
+      </bookmark>
+      <bookmark href="http://api-keymanager.cloud.toast.com:8090/swagger-ui/index.html#/kmip-mapping-controller/mapping" id="611">
+        <title>Swagger UI</title>
+      </bookmark>
+      <bookmark href="http://beta-kmip-api-keymanager.cloud.toastoven.net:8090/swagger-ui/index.html#/kmip-mapping-controller/mapping" id="631">
+        <title>Swagger UI(beta)</title>
       </bookmark>
     </folder>
   </folder>
