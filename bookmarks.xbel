@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :952: for Floccus bookmark sync browser extension -->
+<!--- highestId :953: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>NHNCloud</title>
@@ -2740,6 +2740,9 @@
   </bookmark>
   <bookmark href="https://sunnypop424.github.io/#/core/optimizer" id="952">
     <title>로아 아크그리드 젬 장착 헬퍼</title>
+  </bookmark>
+  <bookmark href="https://nhnent.dooray.com/share/pages/DJ-5tt2gTQKAUAkqvSX-sA/4144414875854658087" id="953">
+    <title>대구센터 RBI 계정 및 URL 신청 안내</title>
   </bookmark>
 </folder>
 <folder id="918">
