@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :953: for Floccus bookmark sync browser extension -->
+<!--- highestId :955: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>NHNCloud</title>
@@ -2740,6 +2740,12 @@
   </bookmark>
   <bookmark href="https://sunnypop424.github.io/#/core/optimizer" id="952">
     <title>로아 아크그리드 젬 장착 헬퍼</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=qIFT8Yn0Q6I" id="954">
+    <title>&quot;반드시 성불시켜 드리겠습니다🧐🔥&quot; 카제로스 종막 하드 2-2관문, 2-3관문 실전 압축 공략 [로스트아크/1440p] - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=IwsgfbQiVFI&amp;t=1426s" id="955">
+    <title>바드시점 카제로스 종막 하드 2관문 트라이 영상! + 자막 설명 - YouTube</title>
   </bookmark>
 </folder>
 <folder id="918">
