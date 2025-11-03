@@ -1180,6 +1180,9 @@
     <bookmark href="https://mangkyu.tistory.com/309" id="425">
       <title>[Java] 기존 자바 스레드 모델의 한계와 자바 21의 가상 스레드(Virtual Thread)의 도입 - MangKyu&apos;s Diary</title>
     </bookmark>
+    <bookmark href="https://happy-jjang-a.tistory.com/265#google_vignette" id="956">
+      <title>SpringBoot3 CircuitBreaker Resilience4j 알아보기</title>
+    </bookmark>
   </folder>
   <folder id="47">
     <title>javascript</title>
@@ -2746,9 +2749,6 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=IwsgfbQiVFI&amp;t=1426s" id="955">
     <title>바드시점 카제로스 종막 하드 2관문 트라이 영상! + 자막 설명 - YouTube</title>
-  </bookmark>
-  <bookmark href="https://happy-jjang-a.tistory.com/265#google_vignette" id="956">
-    <title>SpringBoot3 CircuitBreaker Resilience4j 알아보기</title>
   </bookmark>
 </folder>
 <folder id="918">
