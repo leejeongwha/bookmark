@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :956: for Floccus bookmark sync browser extension -->
+<!--- highestId :957: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>NHNCloud</title>
@@ -340,12 +340,6 @@
         <title>TanStack Query(React Query) 핵심 정리 | HEROPY.DEV</title>
       </bookmark>
     </folder>
-  </folder>
-  <folder id="19">
-    <title>FaaS</title>
-    <bookmark href="https://nhnent.dooray.com/wiki/3787747799557909410/3787753308664639682" id="137">
-      <title>FaaS-개발 | Architecture : NHN : Dooray!</title>
-    </bookmark>
   </folder>
   <folder id="20">
     <title>DEPLOY</title>
@@ -857,6 +851,9 @@
   <bookmark href="https://nhnent.dooray.com/share/pages/g4nrU9dHT3-o7rUGoxJ5Lw" id="696">
     <title>공공, NCGN 긴급 접속 SAP 사용 가이드</title>
   </bookmark>
+  <folder id="19">
+    <title>EventBus</title>
+  </folder>
 </folder>
 <folder id="2">
   <title>개발</title>
@@ -2749,6 +2746,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=IwsgfbQiVFI&amp;t=1426s" id="955">
     <title>바드시점 카제로스 종막 하드 2관문 트라이 영상! + 자막 설명 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://hub.docker.com/r/apache/kafka" id="957">
+    <title>apache/kafka - Docker Image | Docker Hub</title>
   </bookmark>
 </folder>
 <folder id="918">
