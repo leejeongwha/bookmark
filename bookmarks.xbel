@@ -593,6 +593,12 @@
       </bookmark>
     </folder>
   </folder>
+  <folder id="19">
+    <title>EventBus</title>
+    <bookmark href="https://hub.docker.com/r/apache/kafka" id="957">
+      <title>apache/kafka - Docker Image | Docker Hub</title>
+    </bookmark>
+  </folder>
   <folder id="283">
     <title>Cloud Console</title>
     <bookmark href="https://nhncloud-private.console.toast.com/project/hgwCNyVp/dashboard" id="387">
@@ -604,8 +610,8 @@
     <bookmark href="https://console.alpha-nhncloud.com/" id="389">
       <title>NHN Cloud CONSOLE(alpha)</title>
     </bookmark>
-    <bookmark href="https://beta-id.toast.com/login?nextUrl=https%3A%2F%2Fbeta-console.toast.com" id="390">
-      <title>NHN Cloud(beta)</title>
+    <bookmark href="https://console.beta-nhncloud.com/org/Ohzjw9Gp5NG762Yc/dashboard" id="958">
+      <title>NHN Cloud CONSOLE (beta)</title>
     </bookmark>
     <bookmark href="https://console.toast.com/" id="391">
       <title>NHN Cloud CONSOLE</title>
@@ -850,15 +856,6 @@
   </bookmark>
   <bookmark href="https://nhnent.dooray.com/share/pages/g4nrU9dHT3-o7rUGoxJ5Lw" id="696">
     <title>공공, NCGN 긴급 접속 SAP 사용 가이드</title>
-  </bookmark>
-  <folder id="19">
-    <title>EventBus</title>
-    <bookmark href="https://hub.docker.com/r/apache/kafka" id="957">
-      <title>apache/kafka - Docker Image | Docker Hub</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://console.beta-nhncloud.com/org/Ohzjw9Gp5NG762Yc/dashboard" id="958">
-    <title>NHN Cloud CONSOLE</title>
   </bookmark>
 </folder>
 <folder id="2">
