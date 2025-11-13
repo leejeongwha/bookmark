@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :957: for Floccus bookmark sync browser extension -->
+<!--- highestId :958: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>NHNCloud</title>
@@ -857,6 +857,9 @@
       <title>apache/kafka - Docker Image | Docker Hub</title>
     </bookmark>
   </folder>
+  <bookmark href="https://console.beta-nhncloud.com/org/Ohzjw9Gp5NG762Yc/dashboard" id="958">
+    <title>NHN Cloud CONSOLE</title>
+  </bookmark>
 </folder>
 <folder id="2">
   <title>개발</title>
