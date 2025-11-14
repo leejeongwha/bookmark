@@ -2768,6 +2768,12 @@
   <bookmark href="https://grok.com/" id="923">
     <title>Grok</title>
   </bookmark>
+  <bookmark href="https://www.genspark.ai/" id="925">
+    <title>Genspark - 검색 재발명. 에이전틱 엔진에 오신 것을 환영합니다.</title>
+  </bookmark>
+  <bookmark href="https://oo.ai/" id="926">
+    <title>oo.ai | 가장 빠른 AI 검색</title>
+  </bookmark>
   <folder id="924">
     <title>ollama</title>
     <bookmark href="https://www.youtube.com/watch?v=7cwFhX14nkg" id="930">
@@ -2804,12 +2810,6 @@
       <title>Workflow Automation - n8n</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.genspark.ai/" id="925">
-    <title>Genspark - 검색 재발명. 에이전틱 엔진에 오신 것을 환영합니다.</title>
-  </bookmark>
-  <bookmark href="https://oo.ai/" id="926">
-    <title>oo.ai | 가장 빠른 AI 검색</title>
-  </bookmark>
   <bookmark href="https://doooob.tistory.com/426" id="927">
     <title>스테이블 디퓨전 결정판「Google Colab + Stable Diffusion Web UI AUTOMATIC1111판」설치 정리(GPU 불필요)</title>
   </bookmark>
