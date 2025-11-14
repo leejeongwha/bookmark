@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :959: for Floccus bookmark sync browser extension -->
+<!--- highestId :960: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>NHNCloud</title>
@@ -2773,6 +2773,9 @@
   </bookmark>
   <bookmark href="https://oo.ai/" id="926">
     <title>oo.ai | 가장 빠른 AI 검색</title>
+  </bookmark>
+  <bookmark href="https://huggingface.co/" id="960">
+    <title>Hugging Face – The AI community building the future.</title>
   </bookmark>
   <folder id="924">
     <title>ollama</title>
