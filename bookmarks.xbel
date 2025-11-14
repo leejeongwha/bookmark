@@ -2794,6 +2794,9 @@
     <bookmark href="https://goddaehee.tistory.com/391" id="948">
       <title>개발자를 위한 MCP 추천(2) - Context7 MCP 설치 및 사용방법(with claude code, gemini cli)</title>
     </bookmark>
+    <bookmark href="https://dytis.tistory.com/113" id="932">
+      <title>MCP(Model Context Protocol)이 뭐길래? 실습편 — DEV.DY</title>
+    </bookmark>
   </folder>
   <folder id="950">
     <title>n8n</title>
@@ -2812,9 +2815,6 @@
   </bookmark>
   <bookmark href="https://www.krea.ai/?q=ironman" id="928">
     <title>KREA — create better prompts.</title>
-  </bookmark>
-  <bookmark href="https://dytis.tistory.com/113" id="932">
-    <title>MCP(Model Context Protocol)이 뭐길래? 실습편 — DEV.DY</title>
   </bookmark>
   <bookmark href="https://news.hada.io/topic?id=20274" id="933">
     <title>Google A2A 프로토콜 첫인상 - MCP와의 비교 | GeekNews</title>
