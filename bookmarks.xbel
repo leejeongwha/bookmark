@@ -598,14 +598,14 @@
     <bookmark href="https://www.win-acme.com/manual/renewal-management" id="962">
       <title>win-acme</title>
     </bookmark>
-    <bookmark href="https://github.com/confluentinc/schema-registry?tab=readme-ov-file#installation" id="963">
-      <title>confluentinc/schema-registry: Confluent Schema Registry for Kafka</title>
-    </bookmark>
   </folder>
   <folder id="19">
     <title>EventBus</title>
     <bookmark href="https://hub.docker.com/r/apache/kafka" id="957">
       <title>apache/kafka - Docker Image | Docker Hub</title>
+    </bookmark>
+    <bookmark href="https://github.com/confluentinc/schema-registry?tab=readme-ov-file#installation" id="963">
+      <title>confluentinc/schema-registry: Confluent Schema Registry for Kafka</title>
     </bookmark>
   </folder>
   <folder id="283">
