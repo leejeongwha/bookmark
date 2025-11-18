@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :961: for Floccus bookmark sync browser extension -->
+<!--- highestId :962: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>NHNCloud</title>
@@ -595,6 +595,9 @@
         <title>#(Mig-Dev)Porthos/12 | [가이드] CI 가이드 (update 2025.06.24) : NHN : Dooray!</title>
       </bookmark>
     </folder>
+    <bookmark href="https://www.win-acme.com/manual/renewal-management" id="962">
+      <title>win-acme</title>
+    </bookmark>
   </folder>
   <folder id="19">
     <title>EventBus</title>
