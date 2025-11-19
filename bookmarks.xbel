@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :963: for Floccus bookmark sync browser extension -->
+<!--- highestId :964: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>NHNCloud</title>
@@ -809,6 +809,9 @@
       <title>#(채용)플랫폼개발자채용/48 | Java 플랫폼 개발자 면접 문제 : NHN : Dooray!</title>
     </bookmark>
   </folder>
+  <bookmark href="https://playground.nhncorp.com/" id="964">
+    <title>Playground</title>
+  </bookmark>
   <bookmark href="https://nhnent.dooray.com/share/pages/TE6x20aTTyuQxuZeygM77Q/3829229842059047881" id="678">
     <title>NHN Private 개요</title>
   </bookmark>
