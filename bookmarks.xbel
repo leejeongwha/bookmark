@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :964: for Floccus bookmark sync browser extension -->
+<!--- highestId :968: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>NHNCloud</title>
@@ -2756,6 +2756,18 @@
   <bookmark href="https://sunnypop424.github.io/#/core/optimizer" id="952">
     <title>로아 아크그리드 젬 장착 헬퍼</title>
   </bookmark>
+  <folder id="965">
+    <title>아이온</title>
+    <bookmark href="https://www.youtube.com/watch?v=zehA8D5yM8Q" id="966">
+      <title>[아이온2] 호법성 스킬 트리 &amp; 데바니온 (PVE 전용) 이 영상 하나로 끝! - YouTube</title>
+    </bookmark>
+    <bookmark href="https://tc-imba.com/aion2-interactive-map/?map=World_L_A" id="967">
+      <title>aion2-interactive-map</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=LuhdosDQKQU" id="968">
+      <title>[아이온2] 영웅급 아이템을 먹을 수 있는 가장 쉬운 던전 ★ 정복 크라오 동굴 ★ - YouTube</title>
+    </bookmark>
+  </folder>
   <bookmark href="https://www.youtube.com/watch?v=qIFT8Yn0Q6I" id="954">
     <title>&quot;반드시 성불시켜 드리겠습니다🧐🔥&quot; 카제로스 종막 하드 2-2관문, 2-3관문 실전 압축 공략 [로스트아크/1440p] - YouTube</title>
   </bookmark>
